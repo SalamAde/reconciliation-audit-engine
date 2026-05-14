@@ -41,6 +41,11 @@ Five standalone `.sql` files, each with a grain and limitation block in the head
 
 The files are production-quality SQL. The scaffolding is not. Adding dbt wiring takes maybe 90 minutes and would have taken out time better spent on modeling decisions and the agent logic
 
+Five standalone .sql files were delivered, and each was verified by running it as a DuckDB view.
+
+The SQL is production-quality but there is no dbt_project.yml, no schema tests, and no CI setup.
+
+Adding the dbt wiring would likely take about 90 minutes. For this task, that time was better spent on the modeling decisions and the agent logic, which were the higher-value parts of the work.
 
 ## Section 4: Time Estimate vs Actual
 
@@ -48,7 +53,6 @@ The files are production-quality SQL. The scaffolding is not. Adding dbt wiring 
 **Actual:** **~5h**
 
 Came in under estimate. The data analysis went faster than expected because the two sources share a direct foreign key (`ext_id`), which made the reconciliation logic clear. The agent loop took less time because I committed to a simple three-pass structure rather than trying to build something complex.
-
 
 ## Running the Project
 

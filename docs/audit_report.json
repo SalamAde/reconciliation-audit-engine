@@ -1,0 +1,58 @@
+[
+  {
+    "anomaly_id": "A001",
+    "description": "93 transactions are marked as FAILED by the server but the client fired a purchase_intent event for each one. Marketing is counting $39,162.34 as conversions that Finance never recognized as revenue.",
+    "severity": "high",
+    "category": "ATTRIBUTION_ERROR",
+    "financial_impact": "$39,162.34 in conversion credit claimed by marketing for transactions that did not complete. Overstates marketing ROI and inflates reported conversion rate.",
+    "verified": true,
+    "verdict": "confirmed",
+    "raw_evidence": "Server summary shows 142 failed transactions. Client summary shows 703 purchase_intents total. Mart shows 93 records in attribution_category='marketing_only' with server status='failed'. The raw server data contains status='failed' on 142 records, 93 of which have a client_event_id link.",
+    "explanation": "The raw data directly confirms this. 93 transactions appear in both sources but the server marked them failed while the client counted them as conversions. This is not a modeling artifact -- it is a real behavioral difference between when the client fires (at checkout button press) and when the server resolves (after payment processor response).",
+    "confidence": "high",
+    "recommended_fix": "Exclude purchase_intent events linked to failed server transactions from marketing conversion totals. Join on ext_id and filter where server status != 'completed'.",
+    "iteration": 1
+  },
+  {
+    "anomaly_id": "A002",
+    "description": "176 completed server transactions totaling $56,768.99 have no corresponding client event (ext_id is null). Finance recognizes this revenue but marketing cannot attribute it to any channel.",
+    "severity": "high",
+    "category": "DARK_REVENUE",
+    "financial_impact": "$56,768.99 in recognized revenue is invisible to marketing attribution. Channel-level ROAS calculations are understated.",
+    "verified": true,
+    "verdict": "confirmed",
+    "raw_evidence": "Server summary: 225 transactions have no client link (ext_id null). Of these, $56,768.99 are completed. Client summary: 703 purchase_intents with no ext_id gaps. The missing link is definitively on the server side -- these transactions were never associated with a client event at creation time.",
+    "explanation": "Confirmed by the raw server data. 225 transactions lack an ext_id entirely, meaning they were created through a path that bypasses the client SDK. This is dark revenue by definition -- real money, no attribution signal.",
+    "confidence": "high",
+    "recommended_fix": "Investigate the source of transactions with null ext_id. Likely candidates: direct API orders, phone orders, or backend batch processes. Add a channel tag at the transaction creation layer.",
+    "iteration": 1
+  },
+  {
+    "anomaly_id": "A003",
+    "description": "The client event stream contains no session_start events. Every purchase_intent fires without a traceable preceding session, making funnel analysis impossible.",
+    "severity": "medium",
+    "category": "TRACKING_GAP",
+    "financial_impact": "Cannot compute session-to-purchase conversion rate. Top-of-funnel attribution is blind. A/B test results relying on session metrics are invalid.",
+    "verified": true,
+    "verdict": "confirmed",
+    "raw_evidence": "Client event_type_counts shows: page_view=2989, add_to_cart=1199, purchase_intent=703. session_start count is 0 or absent entirely. No innocent explanation: session_start is a standard SDK event that should fire on every new session.",
+    "explanation": "Confirmed. Zero session_start events across 4,891 client records is not a timing artifact or business logic decision. The event is missing from the tracking implementation entirely.",
+    "confidence": "high",
+    "recommended_fix": "Verify that the browser SDK session_start event is implemented. Check if events are being filtered before ingestion. Add session_id as a required field on all client events.",
+    "iteration": 1
+  },
+  {
+    "anomaly_id": "A004",
+    "description": "Net revenue variance of $17,606.65 exists between Finance ($293,540.47 completed) and Marketing ($275,933.82 purchase_intents). This is not a single data error but the compound effect of dark revenue and failed-but-tracked transactions.",
+    "severity": "high",
+    "category": "REVENUE_VARIANCE",
+    "financial_impact": "$17,606.65 unexplained gap between the two reporting systems. Without this model, a stakeholder comparing dashboards would see inconsistent totals with no explanation.",
+    "verified": true,
+    "verdict": "confirmed",
+    "raw_evidence": "Finance completed total: $293,540.47. Marketing purchase_intent total: $275,933.82. Gap: $17,606.65. Decomposed: $56,768.99 dark revenue minus $39,162.34 failed-but-tracked = $17,606.65 net. The arithmetic checks out against both raw source totals.",
+    "explanation": "Confirmed. The gap is real and fully explained by the two root causes (dark revenue and failed conversions). It is not a modeling artifact -- the raw source data produces the same numbers when summed directly.",
+    "confidence": "high",
+    "recommended_fix": "Surface the attribution_category breakdown in executive dashboards. The mart_reconciliation model already decomposes the gap. Route finance to the server-side completed total and marketing to the purchase_intent total, each with documented caveats.",
+    "iteration": 1
+  }
+]

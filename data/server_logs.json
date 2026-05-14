@@ -1,0 +1,9282 @@
+[
+  {
+    "tx_id": "tx_1661",
+    "timestamp": "2024-03-03T03:41:00Z",
+    "user_id": "u210",
+    "status": "completed",
+    "amount": 694.99,
+    "meta": {
+      "ext_id": "a4597"
+    }
+  },
+  {
+    "tx_id": "tx_1183",
+    "timestamp": "2024-03-02T01:57:00Z",
+    "user_id": "u142",
+    "status": "completed",
+    "amount": 683.22,
+    "meta": {
+      "ext_id": "a1172"
+    }
+  },
+  {
+    "tx_id": "tx_1909",
+    "timestamp": "2024-03-02T01:35:00Z",
+    "user_id": "u201",
+    "status": "completed",
+    "amount": 378.32,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1418",
+    "timestamp": "2024-03-02T16:15:00Z",
+    "user_id": "u243",
+    "status": "completed",
+    "amount": 573.17,
+    "meta": {
+      "ext_id": "a2809"
+    }
+  },
+  {
+    "tx_id": "tx_1063",
+    "timestamp": "2024-03-01T16:22:00Z",
+    "user_id": "u200",
+    "status": "completed",
+    "amount": 346.03,
+    "meta": {
+      "ext_id": "a387"
+    }
+  },
+  {
+    "tx_id": "tx_1675",
+    "timestamp": "2024-03-02T02:10:00Z",
+    "user_id": "u231",
+    "status": "failed",
+    "amount": 170.19,
+    "meta": {
+      "ext_id": "a4721"
+    }
+  },
+  {
+    "tx_id": "tx_1456",
+    "timestamp": "2024-03-01T11:44:00Z",
+    "user_id": "u239",
+    "status": "completed",
+    "amount": 58.69,
+    "meta": {
+      "ext_id": "a3105"
+    }
+  },
+  {
+    "tx_id": "tx_1161",
+    "timestamp": "2024-03-02T07:22:00Z",
+    "user_id": "u232",
+    "status": "completed",
+    "amount": 411.32,
+    "meta": {
+      "ext_id": "a1032"
+    }
+  },
+  {
+    "tx_id": "tx_1261",
+    "timestamp": "2024-03-03T07:23:00Z",
+    "user_id": "u160",
+    "status": "completed",
+    "amount": 723.25,
+    "meta": {
+      "ext_id": "a1712"
+    }
+  },
+  {
+    "tx_id": "tx_1022",
+    "timestamp": "2024-03-02T14:57:00Z",
+    "user_id": "u179",
+    "status": "completed",
+    "amount": 413.21,
+    "meta": {
+      "ext_id": "a129"
+    }
+  },
+  {
+    "tx_id": "tx_1657",
+    "timestamp": "2024-03-01T12:44:00Z",
+    "user_id": "u145",
+    "status": "completed",
+    "amount": 132.87,
+    "meta": {
+      "ext_id": "a4578"
+    }
+  },
+  {
+    "tx_id": "tx_1701",
+    "timestamp": "2024-03-02T15:35:00Z",
+    "user_id": "u251",
+    "status": "completed",
+    "amount": 427.37,
+    "meta": {
+      "ext_id": "a4893"
+    }
+  },
+  {
+    "tx_id": "tx_1389",
+    "timestamp": "2024-03-01T10:19:00Z",
+    "user_id": "u243",
+    "status": "completed",
+    "amount": 102.11,
+    "meta": {
+      "ext_id": "a2557"
+    }
+  },
+  {
+    "tx_id": "tx_1194",
+    "timestamp": "2024-03-02T04:10:00Z",
+    "user_id": "u159",
+    "status": "completed",
+    "amount": 524.25,
+    "meta": {
+      "ext_id": "a1243"
+    }
+  },
+  {
+    "tx_id": "tx_1641",
+    "timestamp": "2024-03-02T00:02:00Z",
+    "user_id": "u187",
+    "status": "completed",
+    "amount": 589.21,
+    "meta": {
+      "ext_id": "a4451"
+    }
+  },
+  {
+    "tx_id": "tx_1846",
+    "timestamp": "2024-03-01T14:45:00Z",
+    "user_id": "u212",
+    "status": "completed",
+    "amount": 376.78,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1246",
+    "timestamp": "2024-03-02T13:18:00Z",
+    "user_id": "u248",
+    "status": "failed",
+    "amount": 690.63,
+    "meta": {
+      "ext_id": "a1562"
+    }
+  },
+  {
+    "tx_id": "tx_1367",
+    "timestamp": "2024-03-01T18:45:00Z",
+    "user_id": "u182",
+    "status": "completed",
+    "amount": 256.4,
+    "meta": {
+      "ext_id": "a2403"
+    }
+  },
+  {
+    "tx_id": "tx_1326",
+    "timestamp": "2024-03-03T03:21:00Z",
+    "user_id": "u222",
+    "status": "completed",
+    "amount": 287.24,
+    "meta": {
+      "ext_id": "a2156"
+    }
+  },
+  {
+    "tx_id": "tx_1227",
+    "timestamp": "2024-03-01T22:20:00Z",
+    "user_id": "u208",
+    "status": "completed",
+    "amount": 119.65,
+    "meta": {
+      "ext_id": "a1452"
+    }
+  },
+  {
+    "tx_id": "tx_1872",
+    "timestamp": "2024-03-03T03:02:00Z",
+    "user_id": "u112",
+    "status": "failed",
+    "amount": 99.36,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1562",
+    "timestamp": "2024-03-03T00:00:00Z",
+    "user_id": "u234",
+    "status": "completed",
+    "amount": 374.66,
+    "meta": {
+      "ext_id": "a3836"
+    }
+  },
+  {
+    "tx_id": "tx_1517",
+    "timestamp": "2024-03-02T20:18:00Z",
+    "user_id": "u238",
+    "status": "completed",
+    "amount": 750.73,
+    "meta": {
+      "ext_id": "a3528"
+    }
+  },
+  {
+    "tx_id": "tx_1598",
+    "timestamp": "2024-03-03T00:01:00Z",
+    "user_id": "u276",
+    "status": "completed",
+    "amount": 269.13,
+    "meta": {
+      "ext_id": "a4154"
+    }
+  },
+  {
+    "tx_id": "tx_1013",
+    "timestamp": "2024-03-02T14:02:00Z",
+    "user_id": "u126",
+    "status": "completed",
+    "amount": 552.34,
+    "meta": {
+      "ext_id": "a86"
+    }
+  },
+  {
+    "tx_id": "tx_1393",
+    "timestamp": "2024-03-02T23:29:00Z",
+    "user_id": "u167",
+    "status": "completed",
+    "amount": 334.2,
+    "meta": {
+      "ext_id": "a2581"
+    }
+  },
+  {
+    "tx_id": "tx_1012",
+    "timestamp": "2024-03-02T11:19:00Z",
+    "user_id": "u229",
+    "status": "completed",
+    "amount": 493.66,
+    "meta": {
+      "ext_id": "a82"
+    }
+  },
+  {
+    "tx_id": "tx_1101",
+    "timestamp": "2024-03-02T17:43:00Z",
+    "user_id": "u170",
+    "status": "completed",
+    "amount": 767.53,
+    "meta": {
+      "ext_id": "a648"
+    }
+  },
+  {
+    "tx_id": "tx_1110",
+    "timestamp": "2024-03-02T18:25:00Z",
+    "user_id": "u149",
+    "status": "failed",
+    "amount": 100.67,
+    "meta": {
+      "ext_id": "a713"
+    }
+  },
+  {
+    "tx_id": "tx_1630",
+    "timestamp": "2024-03-01T19:12:00Z",
+    "user_id": "u190",
+    "status": "completed",
+    "amount": 42.54,
+    "meta": {
+      "ext_id": "a4368"
+    }
+  },
+  {
+    "tx_id": "tx_1599",
+    "timestamp": "2024-03-02T11:02:00Z",
+    "user_id": "u117",
+    "status": "completed",
+    "amount": 194.73,
+    "meta": {
+      "ext_id": "a4157"
+    }
+  },
+  {
+    "tx_id": "tx_1132",
+    "timestamp": "2024-03-01T22:05:00Z",
+    "user_id": "u124",
+    "status": "failed",
+    "amount": 52.53,
+    "meta": {
+      "ext_id": "a852"
+    }
+  },
+  {
+    "tx_id": "tx_1471",
+    "timestamp": "2024-03-01T17:21:00Z",
+    "user_id": "u268",
+    "status": "completed",
+    "amount": 302.93,
+    "meta": {
+      "ext_id": "a3186"
+    }
+  },
+  {
+    "tx_id": "tx_1000",
+    "timestamp": "2024-03-03T01:54:00Z",
+    "user_id": "u139",
+    "status": "completed",
+    "amount": 740.07,
+    "meta": {
+      "ext_id": "a12"
+    }
+  },
+  {
+    "tx_id": "tx_1780",
+    "timestamp": "2024-03-01T22:14:00Z",
+    "user_id": "u114",
+    "status": "completed",
+    "amount": 285.62,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1772",
+    "timestamp": "2024-03-02T02:09:00Z",
+    "user_id": "u225",
+    "status": "completed",
+    "amount": 299.79,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1026",
+    "timestamp": "2024-03-02T11:05:00Z",
+    "user_id": "u222",
+    "status": "completed",
+    "amount": 735.6,
+    "meta": {
+      "ext_id": "a153"
+    }
+  },
+  {
+    "tx_id": "tx_1187",
+    "timestamp": "2024-03-02T16:53:00Z",
+    "user_id": "u101",
+    "status": "completed",
+    "amount": 458.62,
+    "meta": {
+      "ext_id": "a1197"
+    }
+  },
+  {
+    "tx_id": "tx_1163",
+    "timestamp": "2024-03-03T05:48:00Z",
+    "user_id": "u172",
+    "status": "completed",
+    "amount": 198.47,
+    "meta": {
+      "ext_id": "a1046"
+    }
+  },
+  {
+    "tx_id": "tx_1467",
+    "timestamp": "2024-03-02T21:52:00Z",
+    "user_id": "u260",
+    "status": "failed",
+    "amount": 605.75,
+    "meta": {
+      "ext_id": "a3160"
+    }
+  },
+  {
+    "tx_id": "tx_1373",
+    "timestamp": "2024-03-02T12:38:00Z",
+    "user_id": "u119",
+    "status": "failed",
+    "amount": 634.39,
+    "meta": {
+      "ext_id": "a2442"
+    }
+  },
+  {
+    "tx_id": "tx_1623",
+    "timestamp": "2024-03-02T20:04:00Z",
+    "user_id": "u137",
+    "status": "completed",
+    "amount": 711.24,
+    "meta": {
+      "ext_id": "a4311"
+    }
+  },
+  {
+    "tx_id": "tx_1295",
+    "timestamp": "2024-03-01T08:23:00Z",
+    "user_id": "u157",
+    "status": "completed",
+    "amount": 29.52,
+    "meta": {
+      "ext_id": "a1942"
+    }
+  },
+  {
+    "tx_id": "tx_1590",
+    "timestamp": "2024-03-03T01:40:00Z",
+    "user_id": "u261",
+    "status": "completed",
+    "amount": 214.05,
+    "meta": {
+      "ext_id": "a4080"
+    }
+  },
+  {
+    "tx_id": "tx_1478",
+    "timestamp": "2024-03-02T09:52:00Z",
+    "user_id": "u113",
+    "status": "completed",
+    "amount": 507.77,
+    "meta": {
+      "ext_id": "a3242"
+    }
+  },
+  {
+    "tx_id": "tx_1404",
+    "timestamp": "2024-03-02T11:32:00Z",
+    "user_id": "u218",
+    "status": "completed",
+    "amount": 563.97,
+    "meta": {
+      "ext_id": "a2685"
+    }
+  },
+  {
+    "tx_id": "tx_1889",
+    "timestamp": "2024-03-01T13:42:00Z",
+    "user_id": "u180",
+    "status": "failed",
+    "amount": 522.5,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1712",
+    "timestamp": "2024-03-01T22:03:00Z",
+    "user_id": "u198",
+    "status": "completed",
+    "amount": 122.62,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1865",
+    "timestamp": "2024-03-01T14:02:00Z",
+    "user_id": "u223",
+    "status": "failed",
+    "amount": 299.8,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1723",
+    "timestamp": "2024-03-01T13:22:00Z",
+    "user_id": "u179",
+    "status": "completed",
+    "amount": 176.61,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1873",
+    "timestamp": "2024-03-02T13:41:00Z",
+    "user_id": "u117",
+    "status": "failed",
+    "amount": 44.01,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1047",
+    "timestamp": "2024-03-02T13:23:00Z",
+    "user_id": "u246",
+    "status": "completed",
+    "amount": 663.51,
+    "meta": {
+      "ext_id": "a289"
+    }
+  },
+  {
+    "tx_id": "tx_1146",
+    "timestamp": "2024-03-02T20:08:00Z",
+    "user_id": "u158",
+    "status": "completed",
+    "amount": 583.71,
+    "meta": {
+      "ext_id": "a913"
+    }
+  },
+  {
+    "tx_id": "tx_1454",
+    "timestamp": "2024-03-01T18:49:00Z",
+    "user_id": "u171",
+    "status": "completed",
+    "amount": 445.5,
+    "meta": {
+      "ext_id": "a3094"
+    }
+  },
+  {
+    "tx_id": "tx_1256",
+    "timestamp": "2024-03-02T20:18:00Z",
+    "user_id": "u114",
+    "status": "completed",
+    "amount": 588.2,
+    "meta": {
+      "ext_id": "a1670"
+    }
+  },
+  {
+    "tx_id": "tx_1640",
+    "timestamp": "2024-03-02T17:29:00Z",
+    "user_id": "u254",
+    "status": "completed",
+    "amount": 745.63,
+    "meta": {
+      "ext_id": "a4444"
+    }
+  },
+  {
+    "tx_id": "tx_1497",
+    "timestamp": "2024-03-03T05:44:00Z",
+    "user_id": "u182",
+    "status": "completed",
+    "amount": 145.02,
+    "meta": {
+      "ext_id": "a3409"
+    }
+  },
+  {
+    "tx_id": "tx_1037",
+    "timestamp": "2024-03-01T19:42:00Z",
+    "user_id": "u202",
+    "status": "failed",
+    "amount": 636.72,
+    "meta": {
+      "ext_id": "a226"
+    }
+  },
+  {
+    "tx_id": "tx_1422",
+    "timestamp": "2024-03-01T14:48:00Z",
+    "user_id": "u208",
+    "status": "completed",
+    "amount": 26.83,
+    "meta": {
+      "ext_id": "a2827"
+    }
+  },
+  {
+    "tx_id": "tx_1926",
+    "timestamp": "2024-03-01T18:21:00Z",
+    "user_id": "u238",
+    "status": "completed",
+    "amount": 455.02,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1424",
+    "timestamp": "2024-03-02T04:31:00Z",
+    "user_id": "u217",
+    "status": "completed",
+    "amount": 182.68,
+    "meta": {
+      "ext_id": "a2868"
+    }
+  },
+  {
+    "tx_id": "tx_1337",
+    "timestamp": "2024-03-01T17:29:00Z",
+    "user_id": "u250",
+    "status": "completed",
+    "amount": 136.54,
+    "meta": {
+      "ext_id": "a2234"
+    }
+  },
+  {
+    "tx_id": "tx_1408",
+    "timestamp": "2024-03-02T15:01:00Z",
+    "user_id": "u291",
+    "status": "failed",
+    "amount": 58.95,
+    "meta": {
+      "ext_id": "a2710"
+    }
+  },
+  {
+    "tx_id": "tx_1673",
+    "timestamp": "2024-03-01T23:56:00Z",
+    "user_id": "u105",
+    "status": "completed",
+    "amount": 414.83,
+    "meta": {
+      "ext_id": "a4711"
+    }
+  },
+  {
+    "tx_id": "tx_1159",
+    "timestamp": "2024-03-02T08:50:00Z",
+    "user_id": "u212",
+    "status": "completed",
+    "amount": 483.55,
+    "meta": {
+      "ext_id": "a1025"
+    }
+  },
+  {
+    "tx_id": "tx_1613",
+    "timestamp": "2024-03-01T17:19:00Z",
+    "user_id": "u155",
+    "status": "completed",
+    "amount": 55.08,
+    "meta": {
+      "ext_id": "a4244"
+    }
+  },
+  {
+    "tx_id": "tx_1799",
+    "timestamp": "2024-03-03T00:41:00Z",
+    "user_id": "u129",
+    "status": "failed",
+    "amount": 549.57,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1726",
+    "timestamp": "2024-03-01T14:46:00Z",
+    "user_id": "u251",
+    "status": "completed",
+    "amount": 269.4,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1258",
+    "timestamp": "2024-03-01T21:35:00Z",
+    "user_id": "u270",
+    "status": "completed",
+    "amount": 583.3,
+    "meta": {
+      "ext_id": "a1694"
+    }
+  },
+  {
+    "tx_id": "tx_1707",
+    "timestamp": "2024-03-02T05:14:00Z",
+    "user_id": "u120",
+    "status": "completed",
+    "amount": 572.12,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1771",
+    "timestamp": "2024-03-01T14:32:00Z",
+    "user_id": "u108",
+    "status": "completed",
+    "amount": 514.31,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1348",
+    "timestamp": "2024-03-02T13:27:00Z",
+    "user_id": "u204",
+    "status": "completed",
+    "amount": 786.18,
+    "meta": {
+      "ext_id": "a2292"
+    }
+  },
+  {
+    "tx_id": "tx_1440",
+    "timestamp": "2024-03-03T03:01:00Z",
+    "user_id": "u115",
+    "status": "completed",
+    "amount": 491.52,
+    "meta": {
+      "ext_id": "a2990"
+    }
+  },
+  {
+    "tx_id": "tx_1619",
+    "timestamp": "2024-03-02T10:35:00Z",
+    "user_id": "u123",
+    "status": "completed",
+    "amount": 774.6,
+    "meta": {
+      "ext_id": "a4282"
+    }
+  },
+  {
+    "tx_id": "tx_1172",
+    "timestamp": "2024-03-02T17:16:00Z",
+    "user_id": "u156",
+    "status": "completed",
+    "amount": 488.02,
+    "meta": {
+      "ext_id": "a1095"
+    }
+  },
+  {
+    "tx_id": "tx_1550",
+    "timestamp": "2024-03-02T22:44:00Z",
+    "user_id": "u300",
+    "status": "completed",
+    "amount": 116.78,
+    "meta": {
+      "ext_id": "a3741"
+    }
+  },
+  {
+    "tx_id": "tx_1741",
+    "timestamp": "2024-03-01T16:24:00Z",
+    "user_id": "u208",
+    "status": "completed",
+    "amount": 142.08,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1810",
+    "timestamp": "2024-03-03T07:22:00Z",
+    "user_id": "u131",
+    "status": "completed",
+    "amount": 271.3,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1405",
+    "timestamp": "2024-03-02T12:03:00Z",
+    "user_id": "u208",
+    "status": "completed",
+    "amount": 58.9,
+    "meta": {
+      "ext_id": "a2688"
+    }
+  },
+  {
+    "tx_id": "tx_1646",
+    "timestamp": "2024-03-02T02:17:00Z",
+    "user_id": "u235",
+    "status": "failed",
+    "amount": 237.1,
+    "meta": {
+      "ext_id": "a4471"
+    }
+  },
+  {
+    "tx_id": "tx_1147",
+    "timestamp": "2024-03-03T01:46:00Z",
+    "user_id": "u135",
+    "status": "completed",
+    "amount": 452.46,
+    "meta": {
+      "ext_id": "a918"
+    }
+  },
+  {
+    "tx_id": "tx_1508",
+    "timestamp": "2024-03-03T06:23:00Z",
+    "user_id": "u185",
+    "status": "completed",
+    "amount": 736.58,
+    "meta": {
+      "ext_id": "a3471"
+    }
+  },
+  {
+    "tx_id": "tx_1892",
+    "timestamp": "2024-03-01T08:40:00Z",
+    "user_id": "u188",
+    "status": "completed",
+    "amount": 346.41,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1758",
+    "timestamp": "2024-03-02T06:49:00Z",
+    "user_id": "u158",
+    "status": "completed",
+    "amount": 352.34,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1749",
+    "timestamp": "2024-03-01T08:29:00Z",
+    "user_id": "u260",
+    "status": "failed",
+    "amount": 569.09,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1639",
+    "timestamp": "2024-03-01T20:34:00Z",
+    "user_id": "u188",
+    "status": "failed",
+    "amount": 433.79,
+    "meta": {
+      "ext_id": "a4441"
+    }
+  },
+  {
+    "tx_id": "tx_1233",
+    "timestamp": "2024-03-02T21:36:00Z",
+    "user_id": "u116",
+    "status": "failed",
+    "amount": 363.97,
+    "meta": {
+      "ext_id": "a1472"
+    }
+  },
+  {
+    "tx_id": "tx_1584",
+    "timestamp": "2024-03-02T19:25:00Z",
+    "user_id": "u155",
+    "status": "completed",
+    "amount": 619.39,
+    "meta": {
+      "ext_id": "a4032"
+    }
+  },
+  {
+    "tx_id": "tx_1711",
+    "timestamp": "2024-03-02T06:49:00Z",
+    "user_id": "u172",
+    "status": "completed",
+    "amount": 589.69,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1583",
+    "timestamp": "2024-03-02T21:30:00Z",
+    "user_id": "u195",
+    "status": "completed",
+    "amount": 132.13,
+    "meta": {
+      "ext_id": "a4013"
+    }
+  },
+  {
+    "tx_id": "tx_1409",
+    "timestamp": "2024-03-02T05:49:00Z",
+    "user_id": "u135",
+    "status": "completed",
+    "amount": 624.95,
+    "meta": {
+      "ext_id": "a2727"
+    }
+  },
+  {
+    "tx_id": "tx_1715",
+    "timestamp": "2024-03-02T15:21:00Z",
+    "user_id": "u157",
+    "status": "completed",
+    "amount": 112.48,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1607",
+    "timestamp": "2024-03-02T23:52:00Z",
+    "user_id": "u248",
+    "status": "completed",
+    "amount": 118.46,
+    "meta": {
+      "ext_id": "a4210"
+    }
+  },
+  {
+    "tx_id": "tx_1566",
+    "timestamp": "2024-03-02T05:21:00Z",
+    "user_id": "u245",
+    "status": "failed",
+    "amount": 41.68,
+    "meta": {
+      "ext_id": "a3905"
+    }
+  },
+  {
+    "tx_id": "tx_1499",
+    "timestamp": "2024-03-02T05:05:00Z",
+    "user_id": "u181",
+    "status": "completed",
+    "amount": 412.97,
+    "meta": {
+      "ext_id": "a3415"
+    }
+  },
+  {
+    "tx_id": "tx_1009",
+    "timestamp": "2024-03-01T16:50:00Z",
+    "user_id": "u286",
+    "status": "completed",
+    "amount": 697.99,
+    "meta": {
+      "ext_id": "a59"
+    }
+  },
+  {
+    "tx_id": "tx_1469",
+    "timestamp": "2024-03-01T13:57:00Z",
+    "user_id": "u269",
+    "status": "completed",
+    "amount": 688.55,
+    "meta": {
+      "ext_id": "a3169"
+    }
+  },
+  {
+    "tx_id": "tx_1269",
+    "timestamp": "2024-03-02T06:58:00Z",
+    "user_id": "u127",
+    "status": "completed",
+    "amount": 125.33,
+    "meta": {
+      "ext_id": "a1762"
+    }
+  },
+  {
+    "tx_id": "tx_1784",
+    "timestamp": "2024-03-02T13:10:00Z",
+    "user_id": "u230",
+    "status": "completed",
+    "amount": 137.91,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1459",
+    "timestamp": "2024-03-02T15:33:00Z",
+    "user_id": "u130",
+    "status": "completed",
+    "amount": 782.57,
+    "meta": {
+      "ext_id": "a3124"
+    }
+  },
+  {
+    "tx_id": "tx_1761",
+    "timestamp": "2024-03-03T02:08:00Z",
+    "user_id": "u270",
+    "status": "failed",
+    "amount": 164.22,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1308",
+    "timestamp": "2024-03-01T16:04:00Z",
+    "user_id": "u167",
+    "status": "completed",
+    "amount": 61.83,
+    "meta": {
+      "ext_id": "a2021"
+    }
+  },
+  {
+    "tx_id": "tx_1190",
+    "timestamp": "2024-03-02T03:33:00Z",
+    "user_id": "u191",
+    "status": "completed",
+    "amount": 350.49,
+    "meta": {
+      "ext_id": "a1216"
+    }
+  },
+  {
+    "tx_id": "tx_1833",
+    "timestamp": "2024-03-02T01:41:00Z",
+    "user_id": "u289",
+    "status": "completed",
+    "amount": 154.14,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1512",
+    "timestamp": "2024-03-01T11:11:00Z",
+    "user_id": "u114",
+    "status": "completed",
+    "amount": 729.44,
+    "meta": {
+      "ext_id": "a3491"
+    }
+  },
+  {
+    "tx_id": "tx_1556",
+    "timestamp": "2024-03-01T11:48:00Z",
+    "user_id": "u215",
+    "status": "completed",
+    "amount": 720.27,
+    "meta": {
+      "ext_id": "a3791"
+    }
+  },
+  {
+    "tx_id": "tx_1710",
+    "timestamp": "2024-03-02T20:20:00Z",
+    "user_id": "u134",
+    "status": "completed",
+    "amount": 234.06,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1764",
+    "timestamp": "2024-03-01T19:34:00Z",
+    "user_id": "u222",
+    "status": "failed",
+    "amount": 165.3,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1531",
+    "timestamp": "2024-03-03T01:30:00Z",
+    "user_id": "u181",
+    "status": "completed",
+    "amount": 450.23,
+    "meta": {
+      "ext_id": "a3605"
+    }
+  },
+  {
+    "tx_id": "tx_1695",
+    "timestamp": "2024-03-02T07:14:00Z",
+    "user_id": "u190",
+    "status": "completed",
+    "amount": 406.34,
+    "meta": {
+      "ext_id": "a4852"
+    }
+  },
+  {
+    "tx_id": "tx_1631",
+    "timestamp": "2024-03-01T22:35:00Z",
+    "user_id": "u151",
+    "status": "completed",
+    "amount": 186.41,
+    "meta": {
+      "ext_id": "a4379"
+    }
+  },
+  {
+    "tx_id": "tx_1717",
+    "timestamp": "2024-03-01T15:56:00Z",
+    "user_id": "u131",
+    "status": "completed",
+    "amount": 432.79,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1309",
+    "timestamp": "2024-03-02T15:37:00Z",
+    "user_id": "u115",
+    "status": "completed",
+    "amount": 172.33,
+    "meta": {
+      "ext_id": "a2047"
+    }
+  },
+  {
+    "tx_id": "tx_1803",
+    "timestamp": "2024-03-02T04:03:00Z",
+    "user_id": "u166",
+    "status": "completed",
+    "amount": 391.21,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1034",
+    "timestamp": "2024-03-01T08:12:00Z",
+    "user_id": "u239",
+    "status": "completed",
+    "amount": 567.16,
+    "meta": {
+      "ext_id": "a206"
+    }
+  },
+  {
+    "tx_id": "tx_1046",
+    "timestamp": "2024-03-01T12:14:00Z",
+    "user_id": "u285",
+    "status": "completed",
+    "amount": 502.6,
+    "meta": {
+      "ext_id": "a286"
+    }
+  },
+  {
+    "tx_id": "tx_1075",
+    "timestamp": "2024-03-03T05:29:00Z",
+    "user_id": "u279",
+    "status": "completed",
+    "amount": 154.85,
+    "meta": {
+      "ext_id": "a460"
+    }
+  },
+  {
+    "tx_id": "tx_1610",
+    "timestamp": "2024-03-02T19:43:00Z",
+    "user_id": "u188",
+    "status": "completed",
+    "amount": 144.35,
+    "meta": {
+      "ext_id": "a4225"
+    }
+  },
+  {
+    "tx_id": "tx_1059",
+    "timestamp": "2024-03-03T01:42:00Z",
+    "user_id": "u276",
+    "status": "completed",
+    "amount": 200.73,
+    "meta": {
+      "ext_id": "a368"
+    }
+  },
+  {
+    "tx_id": "tx_1740",
+    "timestamp": "2024-03-02T01:08:00Z",
+    "user_id": "u285",
+    "status": "completed",
+    "amount": 313.72,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1520",
+    "timestamp": "2024-03-03T05:56:00Z",
+    "user_id": "u183",
+    "status": "completed",
+    "amount": 353.53,
+    "meta": {
+      "ext_id": "a3550"
+    }
+  },
+  {
+    "tx_id": "tx_1660",
+    "timestamp": "2024-03-02T08:57:00Z",
+    "user_id": "u141",
+    "status": "completed",
+    "amount": 729.44,
+    "meta": {
+      "ext_id": "a4594"
+    }
+  },
+  {
+    "tx_id": "tx_1268",
+    "timestamp": "2024-03-02T12:33:00Z",
+    "user_id": "u220",
+    "status": "completed",
+    "amount": 227.79,
+    "meta": {
+      "ext_id": "a1755"
+    }
+  },
+  {
+    "tx_id": "tx_1743",
+    "timestamp": "2024-03-02T09:49:00Z",
+    "user_id": "u287",
+    "status": "failed",
+    "amount": 376.15,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1891",
+    "timestamp": "2024-03-02T12:14:00Z",
+    "user_id": "u223",
+    "status": "failed",
+    "amount": 232.62,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1382",
+    "timestamp": "2024-03-01T14:22:00Z",
+    "user_id": "u101",
+    "status": "completed",
+    "amount": 486.93,
+    "meta": {
+      "ext_id": "a2495"
+    }
+  },
+  {
+    "tx_id": "tx_1850",
+    "timestamp": "2024-03-02T05:01:00Z",
+    "user_id": "u207",
+    "status": "completed",
+    "amount": 447.4,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1777",
+    "timestamp": "2024-03-03T02:06:00Z",
+    "user_id": "u247",
+    "status": "completed",
+    "amount": 556.12,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1532",
+    "timestamp": "2024-03-02T07:47:00Z",
+    "user_id": "u199",
+    "status": "completed",
+    "amount": 510.33,
+    "meta": {
+      "ext_id": "a3614"
+    }
+  },
+  {
+    "tx_id": "tx_1020",
+    "timestamp": "2024-03-01T21:22:00Z",
+    "user_id": "u205",
+    "status": "completed",
+    "amount": 537.54,
+    "meta": {
+      "ext_id": "a119"
+    }
+  },
+  {
+    "tx_id": "tx_1191",
+    "timestamp": "2024-03-01T22:12:00Z",
+    "user_id": "u222",
+    "status": "completed",
+    "amount": 590.34,
+    "meta": {
+      "ext_id": "a1219"
+    }
+  },
+  {
+    "tx_id": "tx_1275",
+    "timestamp": "2024-03-02T19:19:00Z",
+    "user_id": "u283",
+    "status": "completed",
+    "amount": 93.91,
+    "meta": {
+      "ext_id": "a1803"
+    }
+  },
+  {
+    "tx_id": "tx_1923",
+    "timestamp": "2024-03-02T05:30:00Z",
+    "user_id": "u214",
+    "status": "completed",
+    "amount": 471.79,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1500",
+    "timestamp": "2024-03-01T23:19:00Z",
+    "user_id": "u230",
+    "status": "completed",
+    "amount": 378.43,
+    "meta": {
+      "ext_id": "a3424"
+    }
+  },
+  {
+    "tx_id": "tx_1206",
+    "timestamp": "2024-03-03T05:02:00Z",
+    "user_id": "u268",
+    "status": "completed",
+    "amount": 647.4,
+    "meta": {
+      "ext_id": "a1315"
+    }
+  },
+  {
+    "tx_id": "tx_1683",
+    "timestamp": "2024-03-02T00:59:00Z",
+    "user_id": "u135",
+    "status": "completed",
+    "amount": 29.5,
+    "meta": {
+      "ext_id": "a4783"
+    }
+  },
+  {
+    "tx_id": "tx_1344",
+    "timestamp": "2024-03-02T21:50:00Z",
+    "user_id": "u241",
+    "status": "completed",
+    "amount": 286.64,
+    "meta": {
+      "ext_id": "a2273"
+    }
+  },
+  {
+    "tx_id": "tx_1859",
+    "timestamp": "2024-03-01T10:34:00Z",
+    "user_id": "u166",
+    "status": "failed",
+    "amount": 472.14,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1056",
+    "timestamp": "2024-03-01T20:47:00Z",
+    "user_id": "u202",
+    "status": "completed",
+    "amount": 710.42,
+    "meta": {
+      "ext_id": "a354"
+    }
+  },
+  {
+    "tx_id": "tx_1371",
+    "timestamp": "2024-03-01T19:58:00Z",
+    "user_id": "u233",
+    "status": "completed",
+    "amount": 462.62,
+    "meta": {
+      "ext_id": "a2427"
+    }
+  },
+  {
+    "tx_id": "tx_1823",
+    "timestamp": "2024-03-03T07:23:00Z",
+    "user_id": "u138",
+    "status": "completed",
+    "amount": 476.36,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1447",
+    "timestamp": "2024-03-01T20:19:00Z",
+    "user_id": "u210",
+    "status": "failed",
+    "amount": 173.31,
+    "meta": {
+      "ext_id": "a3035"
+    }
+  },
+  {
+    "tx_id": "tx_1094",
+    "timestamp": "2024-03-02T01:37:00Z",
+    "user_id": "u132",
+    "status": "completed",
+    "amount": 431.63,
+    "meta": {
+      "ext_id": "a609"
+    }
+  },
+  {
+    "tx_id": "tx_1041",
+    "timestamp": "2024-03-02T09:46:00Z",
+    "user_id": "u196",
+    "status": "completed",
+    "amount": 375.86,
+    "meta": {
+      "ext_id": "a245"
+    }
+  },
+  {
+    "tx_id": "tx_1581",
+    "timestamp": "2024-03-02T19:49:00Z",
+    "user_id": "u211",
+    "status": "completed",
+    "amount": 545.62,
+    "meta": {
+      "ext_id": "a3999"
+    }
+  },
+  {
+    "tx_id": "tx_1770",
+    "timestamp": "2024-03-03T06:44:00Z",
+    "user_id": "u206",
+    "status": "completed",
+    "amount": 570.97,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1475",
+    "timestamp": "2024-03-02T14:28:00Z",
+    "user_id": "u155",
+    "status": "completed",
+    "amount": 157.55,
+    "meta": {
+      "ext_id": "a3220"
+    }
+  },
+  {
+    "tx_id": "tx_1143",
+    "timestamp": "2024-03-01T15:54:00Z",
+    "user_id": "u105",
+    "status": "completed",
+    "amount": 294.97,
+    "meta": {
+      "ext_id": "a898"
+    }
+  },
+  {
+    "tx_id": "tx_1527",
+    "timestamp": "2024-03-02T19:19:00Z",
+    "user_id": "u153",
+    "status": "completed",
+    "amount": 43.53,
+    "meta": {
+      "ext_id": "a3589"
+    }
+  },
+  {
+    "tx_id": "tx_1139",
+    "timestamp": "2024-03-03T07:23:00Z",
+    "user_id": "u282",
+    "status": "completed",
+    "amount": 80.07,
+    "meta": {
+      "ext_id": "a879"
+    }
+  },
+  {
+    "tx_id": "tx_1608",
+    "timestamp": "2024-03-02T17:27:00Z",
+    "user_id": "u183",
+    "status": "completed",
+    "amount": 725.14,
+    "meta": {
+      "ext_id": "a4215"
+    }
+  },
+  {
+    "tx_id": "tx_1119",
+    "timestamp": "2024-03-03T04:29:00Z",
+    "user_id": "u271",
+    "status": "failed",
+    "amount": 131.64,
+    "meta": {
+      "ext_id": "a770"
+    }
+  },
+  {
+    "tx_id": "tx_1195",
+    "timestamp": "2024-03-02T02:38:00Z",
+    "user_id": "u119",
+    "status": "completed",
+    "amount": 198.89,
+    "meta": {
+      "ext_id": "a1261"
+    }
+  },
+  {
+    "tx_id": "tx_1801",
+    "timestamp": "2024-03-02T06:38:00Z",
+    "user_id": "u156",
+    "status": "completed",
+    "amount": 172.27,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1866",
+    "timestamp": "2024-03-02T08:02:00Z",
+    "user_id": "u274",
+    "status": "completed",
+    "amount": 530.82,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1501",
+    "timestamp": "2024-03-02T21:28:00Z",
+    "user_id": "u230",
+    "status": "completed",
+    "amount": 177.92,
+    "meta": {
+      "ext_id": "a3427"
+    }
+  },
+  {
+    "tx_id": "tx_1677",
+    "timestamp": "2024-03-02T05:34:00Z",
+    "user_id": "u268",
+    "status": "completed",
+    "amount": 221.23,
+    "meta": {
+      "ext_id": "a4740"
+    }
+  },
+  {
+    "tx_id": "tx_1798",
+    "timestamp": "2024-03-02T08:51:00Z",
+    "user_id": "u164",
+    "status": "completed",
+    "amount": 183.26,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1700",
+    "timestamp": "2024-03-02T13:27:00Z",
+    "user_id": "u293",
+    "status": "completed",
+    "amount": 375.21,
+    "meta": {
+      "ext_id": "a4884"
+    }
+  },
+  {
+    "tx_id": "tx_1836",
+    "timestamp": "2024-03-03T02:11:00Z",
+    "user_id": "u132",
+    "status": "completed",
+    "amount": 586.91,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1841",
+    "timestamp": "2024-03-02T06:16:00Z",
+    "user_id": "u268",
+    "status": "completed",
+    "amount": 526.3,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1222",
+    "timestamp": "2024-03-02T22:58:00Z",
+    "user_id": "u258",
+    "status": "completed",
+    "amount": 525.33,
+    "meta": {
+      "ext_id": "a1414"
+    }
+  },
+  {
+    "tx_id": "tx_1176",
+    "timestamp": "2024-03-02T20:52:00Z",
+    "user_id": "u286",
+    "status": "completed",
+    "amount": 546.08,
+    "meta": {
+      "ext_id": "a1127"
+    }
+  },
+  {
+    "tx_id": "tx_1643",
+    "timestamp": "2024-03-02T17:45:00Z",
+    "user_id": "u240",
+    "status": "completed",
+    "amount": 28.97,
+    "meta": {
+      "ext_id": "a4460"
+    }
+  },
+  {
+    "tx_id": "tx_1568",
+    "timestamp": "2024-03-02T03:07:00Z",
+    "user_id": "u204",
+    "status": "failed",
+    "amount": 562.06,
+    "meta": {
+      "ext_id": "a3917"
+    }
+  },
+  {
+    "tx_id": "tx_1486",
+    "timestamp": "2024-03-01T20:26:00Z",
+    "user_id": "u110",
+    "status": "completed",
+    "amount": 520.23,
+    "meta": {
+      "ext_id": "a3326"
+    }
+  },
+  {
+    "tx_id": "tx_1754",
+    "timestamp": "2024-03-02T09:04:00Z",
+    "user_id": "u223",
+    "status": "completed",
+    "amount": 583.79,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1077",
+    "timestamp": "2024-03-03T04:24:00Z",
+    "user_id": "u107",
+    "status": "completed",
+    "amount": 351.27,
+    "meta": {
+      "ext_id": "a475"
+    }
+  },
+  {
+    "tx_id": "tx_1243",
+    "timestamp": "2024-03-01T18:59:00Z",
+    "user_id": "u170",
+    "status": "failed",
+    "amount": 76.26,
+    "meta": {
+      "ext_id": "a1542"
+    }
+  },
+  {
+    "tx_id": "tx_1602",
+    "timestamp": "2024-03-01T19:06:00Z",
+    "user_id": "u108",
+    "status": "completed",
+    "amount": 788.93,
+    "meta": {
+      "ext_id": "a4178"
+    }
+  },
+  {
+    "tx_id": "tx_1182",
+    "timestamp": "2024-03-02T12:55:00Z",
+    "user_id": "u167",
+    "status": "completed",
+    "amount": 205.55,
+    "meta": {
+      "ext_id": "a1152"
+    }
+  },
+  {
+    "tx_id": "tx_1669",
+    "timestamp": "2024-03-03T08:08:00Z",
+    "user_id": "u140",
+    "status": "completed",
+    "amount": 305.91,
+    "meta": {
+      "ext_id": "a4648"
+    }
+  },
+  {
+    "tx_id": "tx_1177",
+    "timestamp": "2024-03-01T22:28:00Z",
+    "user_id": "u117",
+    "status": "completed",
+    "amount": 261.62,
+    "meta": {
+      "ext_id": "a1130"
+    }
+  },
+  {
+    "tx_id": "tx_1904",
+    "timestamp": "2024-03-02T14:03:00Z",
+    "user_id": "u286",
+    "status": "completed",
+    "amount": 425.83,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1829",
+    "timestamp": "2024-03-01T17:20:00Z",
+    "user_id": "u134",
+    "status": "completed",
+    "amount": 378.08,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1245",
+    "timestamp": "2024-03-01T20:10:00Z",
+    "user_id": "u243",
+    "status": "completed",
+    "amount": 38.9,
+    "meta": {
+      "ext_id": "a1558"
+    }
+  },
+  {
+    "tx_id": "tx_1254",
+    "timestamp": "2024-03-01T13:14:00Z",
+    "user_id": "u203",
+    "status": "completed",
+    "amount": 437.04,
+    "meta": {
+      "ext_id": "a1632"
+    }
+  },
+  {
+    "tx_id": "tx_1765",
+    "timestamp": "2024-03-02T08:23:00Z",
+    "user_id": "u285",
+    "status": "completed",
+    "amount": 184.27,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1363",
+    "timestamp": "2024-03-01T18:23:00Z",
+    "user_id": "u278",
+    "status": "completed",
+    "amount": 77.77,
+    "meta": {
+      "ext_id": "a2380"
+    }
+  },
+  {
+    "tx_id": "tx_1082",
+    "timestamp": "2024-03-01T20:48:00Z",
+    "user_id": "u123",
+    "status": "failed",
+    "amount": 691.18,
+    "meta": {
+      "ext_id": "a508"
+    }
+  },
+  {
+    "tx_id": "tx_1580",
+    "timestamp": "2024-03-02T11:49:00Z",
+    "user_id": "u154",
+    "status": "failed",
+    "amount": 676.73,
+    "meta": {
+      "ext_id": "a3993"
+    }
+  },
+  {
+    "tx_id": "tx_1844",
+    "timestamp": "2024-03-02T04:18:00Z",
+    "user_id": "u113",
+    "status": "completed",
+    "amount": 592.47,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1062",
+    "timestamp": "2024-03-01T17:59:00Z",
+    "user_id": "u191",
+    "status": "completed",
+    "amount": 263.38,
+    "meta": {
+      "ext_id": "a381"
+    }
+  },
+  {
+    "tx_id": "tx_1030",
+    "timestamp": "2024-03-02T12:29:00Z",
+    "user_id": "u200",
+    "status": "completed",
+    "amount": 780.65,
+    "meta": {
+      "ext_id": "a179"
+    }
+  },
+  {
+    "tx_id": "tx_1054",
+    "timestamp": "2024-03-02T07:47:00Z",
+    "user_id": "u118",
+    "status": "failed",
+    "amount": 326.75,
+    "meta": {
+      "ext_id": "a329"
+    }
+  },
+  {
+    "tx_id": "tx_1014",
+    "timestamp": "2024-03-02T19:58:00Z",
+    "user_id": "u202",
+    "status": "completed",
+    "amount": 86.66,
+    "meta": {
+      "ext_id": "a91"
+    }
+  },
+  {
+    "tx_id": "tx_1212",
+    "timestamp": "2024-03-02T21:46:00Z",
+    "user_id": "u147",
+    "status": "completed",
+    "amount": 186.37,
+    "meta": {
+      "ext_id": "a1352"
+    }
+  },
+  {
+    "tx_id": "tx_1750",
+    "timestamp": "2024-03-02T04:22:00Z",
+    "user_id": "u152",
+    "status": "completed",
+    "amount": 293.65,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1123",
+    "timestamp": "2024-03-01T12:20:00Z",
+    "user_id": "u266",
+    "status": "failed",
+    "amount": 790.78,
+    "meta": {
+      "ext_id": "a795"
+    }
+  },
+  {
+    "tx_id": "tx_1091",
+    "timestamp": "2024-03-02T07:41:00Z",
+    "user_id": "u106",
+    "status": "completed",
+    "amount": 680.89,
+    "meta": {
+      "ext_id": "a590"
+    }
+  },
+  {
+    "tx_id": "tx_1345",
+    "timestamp": "2024-03-01T08:52:00Z",
+    "user_id": "u170",
+    "status": "failed",
+    "amount": 355.63,
+    "meta": {
+      "ext_id": "a2276"
+    }
+  },
+  {
+    "tx_id": "tx_1905",
+    "timestamp": "2024-03-03T00:38:00Z",
+    "user_id": "u230",
+    "status": "completed",
+    "amount": 405.66,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1125",
+    "timestamp": "2024-03-02T00:58:00Z",
+    "user_id": "u195",
+    "status": "completed",
+    "amount": 370.8,
+    "meta": {
+      "ext_id": "a810"
+    }
+  },
+  {
+    "tx_id": "tx_1229",
+    "timestamp": "2024-03-01T23:26:00Z",
+    "user_id": "u116",
+    "status": "completed",
+    "amount": 310.65,
+    "meta": {
+      "ext_id": "a1458"
+    }
+  },
+  {
+    "tx_id": "tx_1860",
+    "timestamp": "2024-03-02T22:41:00Z",
+    "user_id": "u118",
+    "status": "completed",
+    "amount": 288.39,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1551",
+    "timestamp": "2024-03-01T22:31:00Z",
+    "user_id": "u251",
+    "status": "completed",
+    "amount": 153.91,
+    "meta": {
+      "ext_id": "a3747"
+    }
+  },
+  {
+    "tx_id": "tx_1079",
+    "timestamp": "2024-03-02T17:32:00Z",
+    "user_id": "u261",
+    "status": "completed",
+    "amount": 210.55,
+    "meta": {
+      "ext_id": "a496"
+    }
+  },
+  {
+    "tx_id": "tx_1328",
+    "timestamp": "2024-03-02T19:45:00Z",
+    "user_id": "u132",
+    "status": "completed",
+    "amount": 271.33,
+    "meta": {
+      "ext_id": "a2162"
+    }
+  },
+  {
+    "tx_id": "tx_1414",
+    "timestamp": "2024-03-03T06:15:00Z",
+    "user_id": "u272",
+    "status": "completed",
+    "amount": 434.23,
+    "meta": {
+      "ext_id": "a2759"
+    }
+  },
+  {
+    "tx_id": "tx_1429",
+    "timestamp": "2024-03-02T18:40:00Z",
+    "user_id": "u265",
+    "status": "failed",
+    "amount": 76.12,
+    "meta": {
+      "ext_id": "a2896"
+    }
+  },
+  {
+    "tx_id": "tx_1746",
+    "timestamp": "2024-03-01T13:42:00Z",
+    "user_id": "u202",
+    "status": "completed",
+    "amount": 411.85,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1495",
+    "timestamp": "2024-03-01T20:09:00Z",
+    "user_id": "u143",
+    "status": "completed",
+    "amount": 40.97,
+    "meta": {
+      "ext_id": "a3401"
+    }
+  },
+  {
+    "tx_id": "tx_1281",
+    "timestamp": "2024-03-01T14:49:00Z",
+    "user_id": "u146",
+    "status": "completed",
+    "amount": 533.38,
+    "meta": {
+      "ext_id": "a1847"
+    }
+  },
+  {
+    "tx_id": "tx_1654",
+    "timestamp": "2024-03-02T05:02:00Z",
+    "user_id": "u131",
+    "status": "completed",
+    "amount": 339.11,
+    "meta": {
+      "ext_id": "a4556"
+    }
+  },
+  {
+    "tx_id": "tx_1461",
+    "timestamp": "2024-03-01T09:30:00Z",
+    "user_id": "u227",
+    "status": "completed",
+    "amount": 541.84,
+    "meta": {
+      "ext_id": "a3136"
+    }
+  },
+  {
+    "tx_id": "tx_1716",
+    "timestamp": "2024-03-02T02:31:00Z",
+    "user_id": "u182",
+    "status": "completed",
+    "amount": 38.72,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1790",
+    "timestamp": "2024-03-03T03:52:00Z",
+    "user_id": "u149",
+    "status": "completed",
+    "amount": 178.09,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1107",
+    "timestamp": "2024-03-03T02:54:00Z",
+    "user_id": "u231",
+    "status": "completed",
+    "amount": 166.58,
+    "meta": {
+      "ext_id": "a694"
+    }
+  },
+  {
+    "tx_id": "tx_1067",
+    "timestamp": "2024-03-02T20:50:00Z",
+    "user_id": "u145",
+    "status": "completed",
+    "amount": 419.2,
+    "meta": {
+      "ext_id": "a413"
+    }
+  },
+  {
+    "tx_id": "tx_1151",
+    "timestamp": "2024-03-02T23:09:00Z",
+    "user_id": "u139",
+    "status": "completed",
+    "amount": 489.3,
+    "meta": {
+      "ext_id": "a962"
+    }
+  },
+  {
+    "tx_id": "tx_1759",
+    "timestamp": "2024-03-02T18:17:00Z",
+    "user_id": "u115",
+    "status": "failed",
+    "amount": 264.35,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1335",
+    "timestamp": "2024-03-02T16:55:00Z",
+    "user_id": "u109",
+    "status": "completed",
+    "amount": 44.37,
+    "meta": {
+      "ext_id": "a2221"
+    }
+  },
+  {
+    "tx_id": "tx_1824",
+    "timestamp": "2024-03-01T09:03:00Z",
+    "user_id": "u256",
+    "status": "failed",
+    "amount": 59.99,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1066",
+    "timestamp": "2024-03-02T15:38:00Z",
+    "user_id": "u299",
+    "status": "completed",
+    "amount": 206.17,
+    "meta": {
+      "ext_id": "a402"
+    }
+  },
+  {
+    "tx_id": "tx_1267",
+    "timestamp": "2024-03-02T06:26:00Z",
+    "user_id": "u197",
+    "status": "completed",
+    "amount": 404.06,
+    "meta": {
+      "ext_id": "a1745"
+    }
+  },
+  {
+    "tx_id": "tx_1276",
+    "timestamp": "2024-03-02T15:31:00Z",
+    "user_id": "u183",
+    "status": "completed",
+    "amount": 507.56,
+    "meta": {
+      "ext_id": "a1813"
+    }
+  },
+  {
+    "tx_id": "tx_1685",
+    "timestamp": "2024-03-01T11:47:00Z",
+    "user_id": "u222",
+    "status": "completed",
+    "amount": 443.51,
+    "meta": {
+      "ext_id": "a4794"
+    }
+  },
+  {
+    "tx_id": "tx_1252",
+    "timestamp": "2024-03-02T16:23:00Z",
+    "user_id": "u172",
+    "status": "failed",
+    "amount": 264.6,
+    "meta": {
+      "ext_id": "a1618"
+    }
+  },
+  {
+    "tx_id": "tx_1318",
+    "timestamp": "2024-03-03T05:23:00Z",
+    "user_id": "u167",
+    "status": "completed",
+    "amount": 420.42,
+    "meta": {
+      "ext_id": "a2109"
+    }
+  },
+  {
+    "tx_id": "tx_1329",
+    "timestamp": "2024-03-02T17:05:00Z",
+    "user_id": "u214",
+    "status": "failed",
+    "amount": 776.15,
+    "meta": {
+      "ext_id": "a2173"
+    }
+  },
+  {
+    "tx_id": "tx_1071",
+    "timestamp": "2024-03-02T01:10:00Z",
+    "user_id": "u202",
+    "status": "completed",
+    "amount": 574.05,
+    "meta": {
+      "ext_id": "a430"
+    }
+  },
+  {
+    "tx_id": "tx_1189",
+    "timestamp": "2024-03-02T23:13:00Z",
+    "user_id": "u285",
+    "status": "completed",
+    "amount": 761.17,
+    "meta": {
+      "ext_id": "a1207"
+    }
+  },
+  {
+    "tx_id": "tx_1564",
+    "timestamp": "2024-03-02T21:27:00Z",
+    "user_id": "u140",
+    "status": "completed",
+    "amount": 200.65,
+    "meta": {
+      "ext_id": "a3852"
+    }
+  },
+  {
+    "tx_id": "tx_1806",
+    "timestamp": "2024-03-01T16:56:00Z",
+    "user_id": "u159",
+    "status": "completed",
+    "amount": 420.67,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1526",
+    "timestamp": "2024-03-02T22:26:00Z",
+    "user_id": "u183",
+    "status": "completed",
+    "amount": 502.14,
+    "meta": {
+      "ext_id": "a3585"
+    }
+  },
+  {
+    "tx_id": "tx_1251",
+    "timestamp": "2024-03-02T21:48:00Z",
+    "user_id": "u256",
+    "status": "completed",
+    "amount": 530.57,
+    "meta": {
+      "ext_id": "a1608"
+    }
+  },
+  {
+    "tx_id": "tx_1035",
+    "timestamp": "2024-03-01T22:51:00Z",
+    "user_id": "u153",
+    "status": "completed",
+    "amount": 721.12,
+    "meta": {
+      "ext_id": "a210"
+    }
+  },
+  {
+    "tx_id": "tx_1181",
+    "timestamp": "2024-03-01T08:20:00Z",
+    "user_id": "u171",
+    "status": "completed",
+    "amount": 113.42,
+    "meta": {
+      "ext_id": "a1149"
+    }
+  },
+  {
+    "tx_id": "tx_1124",
+    "timestamp": "2024-03-02T11:27:00Z",
+    "user_id": "u126",
+    "status": "completed",
+    "amount": 731.88,
+    "meta": {
+      "ext_id": "a807"
+    }
+  },
+  {
+    "tx_id": "tx_1665",
+    "timestamp": "2024-03-03T04:15:00Z",
+    "user_id": "u147",
+    "status": "completed",
+    "amount": 54.49,
+    "meta": {
+      "ext_id": "a4621"
+    }
+  },
+  {
+    "tx_id": "tx_1855",
+    "timestamp": "2024-03-01T10:48:00Z",
+    "user_id": "u223",
+    "status": "completed",
+    "amount": 516.9,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1687",
+    "timestamp": "2024-03-01T11:41:00Z",
+    "user_id": "u234",
+    "status": "failed",
+    "amount": 115.3,
+    "meta": {
+      "ext_id": "a4800"
+    }
+  },
+  {
+    "tx_id": "tx_1864",
+    "timestamp": "2024-03-01T17:23:00Z",
+    "user_id": "u132",
+    "status": "completed",
+    "amount": 94.57,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1410",
+    "timestamp": "2024-03-03T06:14:00Z",
+    "user_id": "u143",
+    "status": "failed",
+    "amount": 381.33,
+    "meta": {
+      "ext_id": "a2738"
+    }
+  },
+  {
+    "tx_id": "tx_1553",
+    "timestamp": "2024-03-01T20:04:00Z",
+    "user_id": "u241",
+    "status": "completed",
+    "amount": 690.07,
+    "meta": {
+      "ext_id": "a3777"
+    }
+  },
+  {
+    "tx_id": "tx_1874",
+    "timestamp": "2024-03-01T22:50:00Z",
+    "user_id": "u131",
+    "status": "failed",
+    "amount": 158.18,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1697",
+    "timestamp": "2024-03-03T00:17:00Z",
+    "user_id": "u280",
+    "status": "failed",
+    "amount": 772.75,
+    "meta": {
+      "ext_id": "a4863"
+    }
+  },
+  {
+    "tx_id": "tx_1027",
+    "timestamp": "2024-03-01T12:40:00Z",
+    "user_id": "u135",
+    "status": "completed",
+    "amount": 108.14,
+    "meta": {
+      "ext_id": "a156"
+    }
+  },
+  {
+    "tx_id": "tx_1919",
+    "timestamp": "2024-03-02T03:58:00Z",
+    "user_id": "u172",
+    "status": "completed",
+    "amount": 593.61,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1906",
+    "timestamp": "2024-03-02T12:37:00Z",
+    "user_id": "u208",
+    "status": "failed",
+    "amount": 341.1,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1386",
+    "timestamp": "2024-03-01T18:18:00Z",
+    "user_id": "u146",
+    "status": "completed",
+    "amount": 291.28,
+    "meta": {
+      "ext_id": "a2522"
+    }
+  },
+  {
+    "tx_id": "tx_1406",
+    "timestamp": "2024-03-02T02:16:00Z",
+    "user_id": "u220",
+    "status": "completed",
+    "amount": 317.53,
+    "meta": {
+      "ext_id": "a2703"
+    }
+  },
+  {
+    "tx_id": "tx_1315",
+    "timestamp": "2024-03-02T22:31:00Z",
+    "user_id": "u168",
+    "status": "completed",
+    "amount": 176.86,
+    "meta": {
+      "ext_id": "a2095"
+    }
+  },
+  {
+    "tx_id": "tx_1407",
+    "timestamp": "2024-03-02T04:07:00Z",
+    "user_id": "u121",
+    "status": "completed",
+    "amount": 606.73,
+    "meta": {
+      "ext_id": "a2706"
+    }
+  },
+  {
+    "tx_id": "tx_1539",
+    "timestamp": "2024-03-03T05:41:00Z",
+    "user_id": "u127",
+    "status": "completed",
+    "amount": 141.98,
+    "meta": {
+      "ext_id": "a3672"
+    }
+  },
+  {
+    "tx_id": "tx_1239",
+    "timestamp": "2024-03-02T10:19:00Z",
+    "user_id": "u262",
+    "status": "completed",
+    "amount": 547.4,
+    "meta": {
+      "ext_id": "a1511"
+    }
+  },
+  {
+    "tx_id": "tx_1571",
+    "timestamp": "2024-03-02T16:38:00Z",
+    "user_id": "u179",
+    "status": "completed",
+    "amount": 184.39,
+    "meta": {
+      "ext_id": "a3938"
+    }
+  },
+  {
+    "tx_id": "tx_1279",
+    "timestamp": "2024-03-02T07:47:00Z",
+    "user_id": "u220",
+    "status": "completed",
+    "amount": 270.08,
+    "meta": {
+      "ext_id": "a1834"
+    }
+  },
+  {
+    "tx_id": "tx_1735",
+    "timestamp": "2024-03-01T15:09:00Z",
+    "user_id": "u294",
+    "status": "failed",
+    "amount": 538.37,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1698",
+    "timestamp": "2024-03-01T18:14:00Z",
+    "user_id": "u228",
+    "status": "completed",
+    "amount": 208.43,
+    "meta": {
+      "ext_id": "a4869"
+    }
+  },
+  {
+    "tx_id": "tx_1272",
+    "timestamp": "2024-03-02T11:32:00Z",
+    "user_id": "u120",
+    "status": "completed",
+    "amount": 21.73,
+    "meta": {
+      "ext_id": "a1780"
+    }
+  },
+  {
+    "tx_id": "tx_1523",
+    "timestamp": "2024-03-01T17:44:00Z",
+    "user_id": "u299",
+    "status": "completed",
+    "amount": 434.05,
+    "meta": {
+      "ext_id": "a3564"
+    }
+  },
+  {
+    "tx_id": "tx_1533",
+    "timestamp": "2024-03-02T21:42:00Z",
+    "user_id": "u248",
+    "status": "completed",
+    "amount": 110.12,
+    "meta": {
+      "ext_id": "a3634"
+    }
+  },
+  {
+    "tx_id": "tx_1460",
+    "timestamp": "2024-03-01T12:10:00Z",
+    "user_id": "u282",
+    "status": "completed",
+    "amount": 776.01,
+    "meta": {
+      "ext_id": "a3133"
+    }
+  },
+  {
+    "tx_id": "tx_1888",
+    "timestamp": "2024-03-02T23:07:00Z",
+    "user_id": "u233",
+    "status": "failed",
+    "amount": 219.62,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1680",
+    "timestamp": "2024-03-02T12:03:00Z",
+    "user_id": "u187",
+    "status": "completed",
+    "amount": 737.53,
+    "meta": {
+      "ext_id": "a4752"
+    }
+  },
+  {
+    "tx_id": "tx_1644",
+    "timestamp": "2024-03-03T05:51:00Z",
+    "user_id": "u191",
+    "status": "failed",
+    "amount": 470.01,
+    "meta": {
+      "ext_id": "a4463"
+    }
+  },
+  {
+    "tx_id": "tx_1394",
+    "timestamp": "2024-03-02T22:53:00Z",
+    "user_id": "u130",
+    "status": "failed",
+    "amount": 116.65,
+    "meta": {
+      "ext_id": "a2591"
+    }
+  },
+  {
+    "tx_id": "tx_1893",
+    "timestamp": "2024-03-02T06:18:00Z",
+    "user_id": "u150",
+    "status": "completed",
+    "amount": 525.9,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1794",
+    "timestamp": "2024-03-01T21:31:00Z",
+    "user_id": "u168",
+    "status": "completed",
+    "amount": 451.79,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1515",
+    "timestamp": "2024-03-02T10:55:00Z",
+    "user_id": "u113",
+    "status": "completed",
+    "amount": 455.26,
+    "meta": {
+      "ext_id": "a3518"
+    }
+  },
+  {
+    "tx_id": "tx_1537",
+    "timestamp": "2024-03-02T04:30:00Z",
+    "user_id": "u108",
+    "status": "completed",
+    "amount": 786.96,
+    "meta": {
+      "ext_id": "a3657"
+    }
+  },
+  {
+    "tx_id": "tx_1736",
+    "timestamp": "2024-03-01T09:51:00Z",
+    "user_id": "u198",
+    "status": "completed",
+    "amount": 37.83,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1871",
+    "timestamp": "2024-03-01T23:29:00Z",
+    "user_id": "u191",
+    "status": "completed",
+    "amount": 499.3,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1288",
+    "timestamp": "2024-03-01T13:51:00Z",
+    "user_id": "u235",
+    "status": "completed",
+    "amount": 172.23,
+    "meta": {
+      "ext_id": "a1891"
+    }
+  },
+  {
+    "tx_id": "tx_1234",
+    "timestamp": "2024-03-02T08:26:00Z",
+    "user_id": "u196",
+    "status": "completed",
+    "amount": 734.78,
+    "meta": {
+      "ext_id": "a1482"
+    }
+  },
+  {
+    "tx_id": "tx_1666",
+    "timestamp": "2024-03-03T03:02:00Z",
+    "user_id": "u128",
+    "status": "completed",
+    "amount": 564.22,
+    "meta": {
+      "ext_id": "a4625"
+    }
+  },
+  {
+    "tx_id": "tx_1364",
+    "timestamp": "2024-03-03T02:08:00Z",
+    "user_id": "u124",
+    "status": "completed",
+    "amount": 31.19,
+    "meta": {
+      "ext_id": "a2384"
+    }
+  },
+  {
+    "tx_id": "tx_1820",
+    "timestamp": "2024-03-02T12:26:00Z",
+    "user_id": "u262",
+    "status": "failed",
+    "amount": 99.42,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1325",
+    "timestamp": "2024-03-03T06:53:00Z",
+    "user_id": "u168",
+    "status": "completed",
+    "amount": 125.23,
+    "meta": {
+      "ext_id": "a2153"
+    }
+  },
+  {
+    "tx_id": "tx_1244",
+    "timestamp": "2024-03-02T19:30:00Z",
+    "user_id": "u196",
+    "status": "completed",
+    "amount": 481.82,
+    "meta": {
+      "ext_id": "a1550"
+    }
+  },
+  {
+    "tx_id": "tx_1200",
+    "timestamp": "2024-03-02T06:48:00Z",
+    "user_id": "u255",
+    "status": "completed",
+    "amount": 174.54,
+    "meta": {
+      "ext_id": "a1293"
+    }
+  },
+  {
+    "tx_id": "tx_1834",
+    "timestamp": "2024-03-02T14:51:00Z",
+    "user_id": "u172",
+    "status": "failed",
+    "amount": 148.25,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1624",
+    "timestamp": "2024-03-02T16:05:00Z",
+    "user_id": "u120",
+    "status": "completed",
+    "amount": 555.69,
+    "meta": {
+      "ext_id": "a4318"
+    }
+  },
+  {
+    "tx_id": "tx_1202",
+    "timestamp": "2024-03-01T08:55:00Z",
+    "user_id": "u251",
+    "status": "completed",
+    "amount": 458.53,
+    "meta": {
+      "ext_id": "a1300"
+    }
+  },
+  {
+    "tx_id": "tx_1120",
+    "timestamp": "2024-03-02T06:24:00Z",
+    "user_id": "u282",
+    "status": "completed",
+    "amount": 517.27,
+    "meta": {
+      "ext_id": "a777"
+    }
+  },
+  {
+    "tx_id": "tx_1255",
+    "timestamp": "2024-03-01T22:47:00Z",
+    "user_id": "u200",
+    "status": "completed",
+    "amount": 383.02,
+    "meta": {
+      "ext_id": "a1664"
+    }
+  },
+  {
+    "tx_id": "tx_1819",
+    "timestamp": "2024-03-02T20:27:00Z",
+    "user_id": "u125",
+    "status": "completed",
+    "amount": 323.42,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1692",
+    "timestamp": "2024-03-01T22:28:00Z",
+    "user_id": "u259",
+    "status": "completed",
+    "amount": 481.0,
+    "meta": {
+      "ext_id": "a4838"
+    }
+  },
+  {
+    "tx_id": "tx_1121",
+    "timestamp": "2024-03-02T10:50:00Z",
+    "user_id": "u192",
+    "status": "completed",
+    "amount": 592.63,
+    "meta": {
+      "ext_id": "a781"
+    }
+  },
+  {
+    "tx_id": "tx_1036",
+    "timestamp": "2024-03-02T02:19:00Z",
+    "user_id": "u182",
+    "status": "completed",
+    "amount": 537.92,
+    "meta": {
+      "ext_id": "a221"
+    }
+  },
+  {
+    "tx_id": "tx_1787",
+    "timestamp": "2024-03-03T02:04:00Z",
+    "user_id": "u250",
+    "status": "completed",
+    "amount": 522.28,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1480",
+    "timestamp": "2024-03-03T01:07:00Z",
+    "user_id": "u257",
+    "status": "completed",
+    "amount": 70.67,
+    "meta": {
+      "ext_id": "a3285"
+    }
+  },
+  {
+    "tx_id": "tx_1397",
+    "timestamp": "2024-03-02T01:13:00Z",
+    "user_id": "u292",
+    "status": "failed",
+    "amount": 268.91,
+    "meta": {
+      "ext_id": "a2621"
+    }
+  },
+  {
+    "tx_id": "tx_1357",
+    "timestamp": "2024-03-02T23:40:00Z",
+    "user_id": "u257",
+    "status": "completed",
+    "amount": 136.96,
+    "meta": {
+      "ext_id": "a2348"
+    }
+  },
+  {
+    "tx_id": "tx_1361",
+    "timestamp": "2024-03-01T22:34:00Z",
+    "user_id": "u243",
+    "status": "failed",
+    "amount": 416.35,
+    "meta": {
+      "ext_id": "a2367"
+    }
+  },
+  {
+    "tx_id": "tx_1557",
+    "timestamp": "2024-03-02T11:58:00Z",
+    "user_id": "u242",
+    "status": "completed",
+    "amount": 391.28,
+    "meta": {
+      "ext_id": "a3800"
+    }
+  },
+  {
+    "tx_id": "tx_1663",
+    "timestamp": "2024-03-02T22:19:00Z",
+    "user_id": "u105",
+    "status": "failed",
+    "amount": 766.13,
+    "meta": {
+      "ext_id": "a4611"
+    }
+  },
+  {
+    "tx_id": "tx_1452",
+    "timestamp": "2024-03-02T10:56:00Z",
+    "user_id": "u142",
+    "status": "completed",
+    "amount": 288.13,
+    "meta": {
+      "ext_id": "a3079"
+    }
+  },
+  {
+    "tx_id": "tx_1248",
+    "timestamp": "2024-03-01T10:34:00Z",
+    "user_id": "u264",
+    "status": "completed",
+    "amount": 477.56,
+    "meta": {
+      "ext_id": "a1580"
+    }
+  },
+  {
+    "tx_id": "tx_1223",
+    "timestamp": "2024-03-03T04:04:00Z",
+    "user_id": "u116",
+    "status": "failed",
+    "amount": 621.96,
+    "meta": {
+      "ext_id": "a1422"
+    }
+  },
+  {
+    "tx_id": "tx_1061",
+    "timestamp": "2024-03-02T04:34:00Z",
+    "user_id": "u139",
+    "status": "completed",
+    "amount": 512.37,
+    "meta": {
+      "ext_id": "a375"
+    }
+  },
+  {
+    "tx_id": "tx_1113",
+    "timestamp": "2024-03-02T14:22:00Z",
+    "user_id": "u252",
+    "status": "completed",
+    "amount": 177.9,
+    "meta": {
+      "ext_id": "a740"
+    }
+  },
+  {
+    "tx_id": "tx_1266",
+    "timestamp": "2024-03-02T15:35:00Z",
+    "user_id": "u172",
+    "status": "completed",
+    "amount": 705.84,
+    "meta": {
+      "ext_id": "a1742"
+    }
+  },
+  {
+    "tx_id": "tx_1297",
+    "timestamp": "2024-03-01T11:00:00Z",
+    "user_id": "u137",
+    "status": "completed",
+    "amount": 12.88,
+    "meta": {
+      "ext_id": "a1952"
+    }
+  },
+  {
+    "tx_id": "tx_1290",
+    "timestamp": "2024-03-03T04:33:00Z",
+    "user_id": "u102",
+    "status": "completed",
+    "amount": 684.17,
+    "meta": {
+      "ext_id": "a1898"
+    }
+  },
+  {
+    "tx_id": "tx_1018",
+    "timestamp": "2024-03-02T22:20:00Z",
+    "user_id": "u197",
+    "status": "completed",
+    "amount": 60.89,
+    "meta": {
+      "ext_id": "a107"
+    }
+  },
+  {
+    "tx_id": "tx_1070",
+    "timestamp": "2024-03-03T06:16:00Z",
+    "user_id": "u226",
+    "status": "completed",
+    "amount": 584.0,
+    "meta": {
+      "ext_id": "a427"
+    }
+  },
+  {
+    "tx_id": "tx_1341",
+    "timestamp": "2024-03-03T04:48:00Z",
+    "user_id": "u144",
+    "status": "completed",
+    "amount": 315.37,
+    "meta": {
+      "ext_id": "a2260"
+    }
+  },
+  {
+    "tx_id": "tx_1645",
+    "timestamp": "2024-03-02T12:36:00Z",
+    "user_id": "u224",
+    "status": "completed",
+    "amount": 602.22,
+    "meta": {
+      "ext_id": "a4466"
+    }
+  },
+  {
+    "tx_id": "tx_1417",
+    "timestamp": "2024-03-02T22:27:00Z",
+    "user_id": "u163",
+    "status": "failed",
+    "amount": 624.71,
+    "meta": {
+      "ext_id": "a2788"
+    }
+  },
+  {
+    "tx_id": "tx_1127",
+    "timestamp": "2024-03-03T08:02:00Z",
+    "user_id": "u160",
+    "status": "completed",
+    "amount": 42.44,
+    "meta": {
+      "ext_id": "a823"
+    }
+  },
+  {
+    "tx_id": "tx_1333",
+    "timestamp": "2024-03-02T19:13:00Z",
+    "user_id": "u146",
+    "status": "completed",
+    "amount": 126.61,
+    "meta": {
+      "ext_id": "a2211"
+    }
+  },
+  {
+    "tx_id": "tx_1381",
+    "timestamp": "2024-03-02T11:05:00Z",
+    "user_id": "u184",
+    "status": "completed",
+    "amount": 190.89,
+    "meta": {
+      "ext_id": "a2490"
+    }
+  },
+  {
+    "tx_id": "tx_1324",
+    "timestamp": "2024-03-03T01:51:00Z",
+    "user_id": "u252",
+    "status": "completed",
+    "amount": 187.58,
+    "meta": {
+      "ext_id": "a2142"
+    }
+  },
+  {
+    "tx_id": "tx_1505",
+    "timestamp": "2024-03-02T07:59:00Z",
+    "user_id": "u165",
+    "status": "completed",
+    "amount": 756.91,
+    "meta": {
+      "ext_id": "a3447"
+    }
+  },
+  {
+    "tx_id": "tx_1104",
+    "timestamp": "2024-03-03T01:13:00Z",
+    "user_id": "u277",
+    "status": "completed",
+    "amount": 474.3,
+    "meta": {
+      "ext_id": "a660"
+    }
+  },
+  {
+    "tx_id": "tx_1005",
+    "timestamp": "2024-03-03T03:17:00Z",
+    "user_id": "u297",
+    "status": "completed",
+    "amount": 35.25,
+    "meta": {
+      "ext_id": "a38"
+    }
+  },
+  {
+    "tx_id": "tx_1481",
+    "timestamp": "2024-03-01T14:44:00Z",
+    "user_id": "u132",
+    "status": "completed",
+    "amount": 576.16,
+    "meta": {
+      "ext_id": "a3292"
+    }
+  },
+  {
+    "tx_id": "tx_1482",
+    "timestamp": "2024-03-02T10:23:00Z",
+    "user_id": "u141",
+    "status": "completed",
+    "amount": 120.24,
+    "meta": {
+      "ext_id": "a3298"
+    }
+  },
+  {
+    "tx_id": "tx_1186",
+    "timestamp": "2024-03-02T15:51:00Z",
+    "user_id": "u217",
+    "status": "completed",
+    "amount": 775.68,
+    "meta": {
+      "ext_id": "a1185"
+    }
+  },
+  {
+    "tx_id": "tx_1862",
+    "timestamp": "2024-03-02T01:10:00Z",
+    "user_id": "u288",
+    "status": "completed",
+    "amount": 513.38,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1237",
+    "timestamp": "2024-03-01T16:18:00Z",
+    "user_id": "u245",
+    "status": "completed",
+    "amount": 134.56,
+    "meta": {
+      "ext_id": "a1501"
+    }
+  },
+  {
+    "tx_id": "tx_1149",
+    "timestamp": "2024-03-02T06:31:00Z",
+    "user_id": "u106",
+    "status": "completed",
+    "amount": 747.14,
+    "meta": {
+      "ext_id": "a937"
+    }
+  },
+  {
+    "tx_id": "tx_1835",
+    "timestamp": "2024-03-02T23:57:00Z",
+    "user_id": "u126",
+    "status": "completed",
+    "amount": 468.84,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1721",
+    "timestamp": "2024-03-03T00:40:00Z",
+    "user_id": "u171",
+    "status": "completed",
+    "amount": 222.99,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1853",
+    "timestamp": "2024-03-02T23:27:00Z",
+    "user_id": "u142",
+    "status": "failed",
+    "amount": 558.47,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1852",
+    "timestamp": "2024-03-01T23:49:00Z",
+    "user_id": "u278",
+    "status": "completed",
+    "amount": 122.52,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1802",
+    "timestamp": "2024-03-02T02:47:00Z",
+    "user_id": "u192",
+    "status": "failed",
+    "amount": 562.2,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1786",
+    "timestamp": "2024-03-01T16:14:00Z",
+    "user_id": "u263",
+    "status": "completed",
+    "amount": 144.66,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1667",
+    "timestamp": "2024-03-02T17:04:00Z",
+    "user_id": "u231",
+    "status": "completed",
+    "amount": 209.22,
+    "meta": {
+      "ext_id": "a4642"
+    }
+  },
+  {
+    "tx_id": "tx_1690",
+    "timestamp": "2024-03-01T11:17:00Z",
+    "user_id": "u267",
+    "status": "failed",
+    "amount": 704.67,
+    "meta": {
+      "ext_id": "a4829"
+    }
+  },
+  {
+    "tx_id": "tx_1040",
+    "timestamp": "2024-03-01T14:11:00Z",
+    "user_id": "u119",
+    "status": "completed",
+    "amount": 689.64,
+    "meta": {
+      "ext_id": "a242"
+    }
+  },
+  {
+    "tx_id": "tx_1322",
+    "timestamp": "2024-03-02T18:08:00Z",
+    "user_id": "u152",
+    "status": "completed",
+    "amount": 230.27,
+    "meta": {
+      "ext_id": "a2134"
+    }
+  },
+  {
+    "tx_id": "tx_1899",
+    "timestamp": "2024-03-02T04:13:00Z",
+    "user_id": "u192",
+    "status": "completed",
+    "amount": 195.21,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1331",
+    "timestamp": "2024-03-03T02:56:00Z",
+    "user_id": "u110",
+    "status": "completed",
+    "amount": 411.9,
+    "meta": {
+      "ext_id": "a2201"
+    }
+  },
+  {
+    "tx_id": "tx_1838",
+    "timestamp": "2024-03-02T17:33:00Z",
+    "user_id": "u172",
+    "status": "completed",
+    "amount": 146.53,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1579",
+    "timestamp": "2024-03-02T23:23:00Z",
+    "user_id": "u157",
+    "status": "completed",
+    "amount": 626.0,
+    "meta": {
+      "ext_id": "a3989"
+    }
+  },
+  {
+    "tx_id": "tx_1534",
+    "timestamp": "2024-03-02T11:16:00Z",
+    "user_id": "u174",
+    "status": "completed",
+    "amount": 633.91,
+    "meta": {
+      "ext_id": "a3643"
+    }
+  },
+  {
+    "tx_id": "tx_1218",
+    "timestamp": "2024-03-02T21:43:00Z",
+    "user_id": "u261",
+    "status": "completed",
+    "amount": 112.49,
+    "meta": {
+      "ext_id": "a1379"
+    }
+  },
+  {
+    "tx_id": "tx_1858",
+    "timestamp": "2024-03-03T03:30:00Z",
+    "user_id": "u174",
+    "status": "completed",
+    "amount": 386.33,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1662",
+    "timestamp": "2024-03-01T15:12:00Z",
+    "user_id": "u263",
+    "status": "completed",
+    "amount": 618.93,
+    "meta": {
+      "ext_id": "a4601"
+    }
+  },
+  {
+    "tx_id": "tx_1115",
+    "timestamp": "2024-03-01T23:40:00Z",
+    "user_id": "u137",
+    "status": "failed",
+    "amount": 144.29,
+    "meta": {
+      "ext_id": "a754"
+    }
+  },
+  {
+    "tx_id": "tx_1738",
+    "timestamp": "2024-03-02T19:56:00Z",
+    "user_id": "u250",
+    "status": "completed",
+    "amount": 435.5,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1506",
+    "timestamp": "2024-03-03T06:08:00Z",
+    "user_id": "u237",
+    "status": "completed",
+    "amount": 733.34,
+    "meta": {
+      "ext_id": "a3450"
+    }
+  },
+  {
+    "tx_id": "tx_1609",
+    "timestamp": "2024-03-02T14:06:00Z",
+    "user_id": "u281",
+    "status": "completed",
+    "amount": 311.53,
+    "meta": {
+      "ext_id": "a4222"
+    }
+  },
+  {
+    "tx_id": "tx_1148",
+    "timestamp": "2024-03-01T17:09:00Z",
+    "user_id": "u287",
+    "status": "completed",
+    "amount": 570.87,
+    "meta": {
+      "ext_id": "a931"
+    }
+  },
+  {
+    "tx_id": "tx_1744",
+    "timestamp": "2024-03-02T12:08:00Z",
+    "user_id": "u285",
+    "status": "completed",
+    "amount": 253.59,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1903",
+    "timestamp": "2024-03-02T19:08:00Z",
+    "user_id": "u219",
+    "status": "completed",
+    "amount": 45.06,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1513",
+    "timestamp": "2024-03-02T16:40:00Z",
+    "user_id": "u107",
+    "status": "completed",
+    "amount": 251.62,
+    "meta": {
+      "ext_id": "a3508"
+    }
+  },
+  {
+    "tx_id": "tx_1729",
+    "timestamp": "2024-03-01T12:04:00Z",
+    "user_id": "u262",
+    "status": "failed",
+    "amount": 152.88,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1336",
+    "timestamp": "2024-03-02T02:26:00Z",
+    "user_id": "u156",
+    "status": "completed",
+    "amount": 115.96,
+    "meta": {
+      "ext_id": "a2224"
+    }
+  },
+  {
+    "tx_id": "tx_1095",
+    "timestamp": "2024-03-03T07:42:00Z",
+    "user_id": "u197",
+    "status": "completed",
+    "amount": 287.08,
+    "meta": {
+      "ext_id": "a614"
+    }
+  },
+  {
+    "tx_id": "tx_1019",
+    "timestamp": "2024-03-03T01:24:00Z",
+    "user_id": "u105",
+    "status": "completed",
+    "amount": 614.01,
+    "meta": {
+      "ext_id": "a112"
+    }
+  },
+  {
+    "tx_id": "tx_1751",
+    "timestamp": "2024-03-03T01:52:00Z",
+    "user_id": "u120",
+    "status": "completed",
+    "amount": 157.5,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1574",
+    "timestamp": "2024-03-02T05:58:00Z",
+    "user_id": "u203",
+    "status": "completed",
+    "amount": 367.01,
+    "meta": {
+      "ext_id": "a3958"
+    }
+  },
+  {
+    "tx_id": "tx_1157",
+    "timestamp": "2024-03-03T07:52:00Z",
+    "user_id": "u159",
+    "status": "failed",
+    "amount": 69.9,
+    "meta": {
+      "ext_id": "a1004"
+    }
+  },
+  {
+    "tx_id": "tx_1420",
+    "timestamp": "2024-03-02T13:23:00Z",
+    "user_id": "u268",
+    "status": "failed",
+    "amount": 50.81,
+    "meta": {
+      "ext_id": "a2820"
+    }
+  },
+  {
+    "tx_id": "tx_1169",
+    "timestamp": "2024-03-01T16:55:00Z",
+    "user_id": "u234",
+    "status": "completed",
+    "amount": 28.97,
+    "meta": {
+      "ext_id": "a1086"
+    }
+  },
+  {
+    "tx_id": "tx_1603",
+    "timestamp": "2024-03-01T13:13:00Z",
+    "user_id": "u159",
+    "status": "completed",
+    "amount": 281.8,
+    "meta": {
+      "ext_id": "a4184"
+    }
+  },
+  {
+    "tx_id": "tx_1518",
+    "timestamp": "2024-03-02T05:40:00Z",
+    "user_id": "u147",
+    "status": "completed",
+    "amount": 461.81,
+    "meta": {
+      "ext_id": "a3531"
+    }
+  },
+  {
+    "tx_id": "tx_1444",
+    "timestamp": "2024-03-03T07:10:00Z",
+    "user_id": "u276",
+    "status": "completed",
+    "amount": 766.9,
+    "meta": {
+      "ext_id": "a3015"
+    }
+  },
+  {
+    "tx_id": "tx_1731",
+    "timestamp": "2024-03-02T14:47:00Z",
+    "user_id": "u258",
+    "status": "failed",
+    "amount": 538.88,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1868",
+    "timestamp": "2024-03-01T23:26:00Z",
+    "user_id": "u132",
+    "status": "completed",
+    "amount": 554.3,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1902",
+    "timestamp": "2024-03-02T08:57:00Z",
+    "user_id": "u134",
+    "status": "failed",
+    "amount": 75.22,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1730",
+    "timestamp": "2024-03-02T19:25:00Z",
+    "user_id": "u174",
+    "status": "completed",
+    "amount": 34.7,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1155",
+    "timestamp": "2024-03-03T01:38:00Z",
+    "user_id": "u298",
+    "status": "completed",
+    "amount": 90.92,
+    "meta": {
+      "ext_id": "a996"
+    }
+  },
+  {
+    "tx_id": "tx_1611",
+    "timestamp": "2024-03-02T15:39:00Z",
+    "user_id": "u222",
+    "status": "completed",
+    "amount": 404.87,
+    "meta": {
+      "ext_id": "a4230"
+    }
+  },
+  {
+    "tx_id": "tx_1857",
+    "timestamp": "2024-03-02T12:00:00Z",
+    "user_id": "u284",
+    "status": "failed",
+    "amount": 98.73,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1316",
+    "timestamp": "2024-03-02T23:22:00Z",
+    "user_id": "u206",
+    "status": "completed",
+    "amount": 538.69,
+    "meta": {
+      "ext_id": "a2100"
+    }
+  },
+  {
+    "tx_id": "tx_1528",
+    "timestamp": "2024-03-02T01:41:00Z",
+    "user_id": "u237",
+    "status": "completed",
+    "amount": 60.24,
+    "meta": {
+      "ext_id": "a3593"
+    }
+  },
+  {
+    "tx_id": "tx_1387",
+    "timestamp": "2024-03-01T11:11:00Z",
+    "user_id": "u119",
+    "status": "completed",
+    "amount": 266.78,
+    "meta": {
+      "ext_id": "a2541"
+    }
+  },
+  {
+    "tx_id": "tx_1265",
+    "timestamp": "2024-03-02T12:36:00Z",
+    "user_id": "u152",
+    "status": "completed",
+    "amount": 321.31,
+    "meta": {
+      "ext_id": "a1729"
+    }
+  },
+  {
+    "tx_id": "tx_1033",
+    "timestamp": "2024-03-01T19:02:00Z",
+    "user_id": "u199",
+    "status": "completed",
+    "amount": 54.64,
+    "meta": {
+      "ext_id": "a193"
+    }
+  },
+  {
+    "tx_id": "tx_1025",
+    "timestamp": "2024-03-01T09:28:00Z",
+    "user_id": "u106",
+    "status": "completed",
+    "amount": 764.48,
+    "meta": {
+      "ext_id": "a147"
+    }
+  },
+  {
+    "tx_id": "tx_1796",
+    "timestamp": "2024-03-02T06:58:00Z",
+    "user_id": "u164",
+    "status": "failed",
+    "amount": 210.6,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1565",
+    "timestamp": "2024-03-01T21:38:00Z",
+    "user_id": "u111",
+    "status": "failed",
+    "amount": 627.56,
+    "meta": {
+      "ext_id": "a3900"
+    }
+  },
+  {
+    "tx_id": "tx_1028",
+    "timestamp": "2024-03-02T01:00:00Z",
+    "user_id": "u137",
+    "status": "completed",
+    "amount": 772.03,
+    "meta": {
+      "ext_id": "a161"
+    }
+  },
+  {
+    "tx_id": "tx_1724",
+    "timestamp": "2024-03-01T17:35:00Z",
+    "user_id": "u164",
+    "status": "completed",
+    "amount": 367.18,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1615",
+    "timestamp": "2024-03-02T13:35:00Z",
+    "user_id": "u123",
+    "status": "completed",
+    "amount": 386.92,
+    "meta": {
+      "ext_id": "a4253"
+    }
+  },
+  {
+    "tx_id": "tx_1600",
+    "timestamp": "2024-03-01T18:53:00Z",
+    "user_id": "u214",
+    "status": "completed",
+    "amount": 696.01,
+    "meta": {
+      "ext_id": "a4163"
+    }
+  },
+  {
+    "tx_id": "tx_1443",
+    "timestamp": "2024-03-02T20:10:00Z",
+    "user_id": "u195",
+    "status": "completed",
+    "amount": 380.32,
+    "meta": {
+      "ext_id": "a3008"
+    }
+  },
+  {
+    "tx_id": "tx_1323",
+    "timestamp": "2024-03-03T03:34:00Z",
+    "user_id": "u142",
+    "status": "completed",
+    "amount": 242.12,
+    "meta": {
+      "ext_id": "a2138"
+    }
+  },
+  {
+    "tx_id": "tx_1011",
+    "timestamp": "2024-03-02T14:21:00Z",
+    "user_id": "u143",
+    "status": "completed",
+    "amount": 135.47,
+    "meta": {
+      "ext_id": "a69"
+    }
+  },
+  {
+    "tx_id": "tx_1057",
+    "timestamp": "2024-03-02T01:55:00Z",
+    "user_id": "u133",
+    "status": "completed",
+    "amount": 683.72,
+    "meta": {
+      "ext_id": "a357"
+    }
+  },
+  {
+    "tx_id": "tx_1142",
+    "timestamp": "2024-03-01T16:13:00Z",
+    "user_id": "u278",
+    "status": "completed",
+    "amount": 617.19,
+    "meta": {
+      "ext_id": "a895"
+    }
+  },
+  {
+    "tx_id": "tx_1509",
+    "timestamp": "2024-03-02T05:17:00Z",
+    "user_id": "u224",
+    "status": "completed",
+    "amount": 287.65,
+    "meta": {
+      "ext_id": "a3476"
+    }
+  },
+  {
+    "tx_id": "tx_1250",
+    "timestamp": "2024-03-01T10:42:00Z",
+    "user_id": "u236",
+    "status": "completed",
+    "amount": 621.52,
+    "meta": {
+      "ext_id": "a1596"
+    }
+  },
+  {
+    "tx_id": "tx_1696",
+    "timestamp": "2024-03-01T16:47:00Z",
+    "user_id": "u203",
+    "status": "completed",
+    "amount": 760.37,
+    "meta": {
+      "ext_id": "a4857"
+    }
+  },
+  {
+    "tx_id": "tx_1360",
+    "timestamp": "2024-03-03T01:57:00Z",
+    "user_id": "u145",
+    "status": "failed",
+    "amount": 398.39,
+    "meta": {
+      "ext_id": "a2362"
+    }
+  },
+  {
+    "tx_id": "tx_1745",
+    "timestamp": "2024-03-03T07:15:00Z",
+    "user_id": "u104",
+    "status": "completed",
+    "amount": 457.27,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1815",
+    "timestamp": "2024-03-03T07:05:00Z",
+    "user_id": "u199",
+    "status": "completed",
+    "amount": 477.63,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1327",
+    "timestamp": "2024-03-01T20:38:00Z",
+    "user_id": "u269",
+    "status": "failed",
+    "amount": 423.97,
+    "meta": {
+      "ext_id": "a2159"
+    }
+  },
+  {
+    "tx_id": "tx_1193",
+    "timestamp": "2024-03-03T05:33:00Z",
+    "user_id": "u117",
+    "status": "completed",
+    "amount": 251.03,
+    "meta": {
+      "ext_id": "a1240"
+    }
+  },
+  {
+    "tx_id": "tx_1890",
+    "timestamp": "2024-03-03T02:50:00Z",
+    "user_id": "u144",
+    "status": "completed",
+    "amount": 293.59,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1118",
+    "timestamp": "2024-03-03T02:57:00Z",
+    "user_id": "u251",
+    "status": "completed",
+    "amount": 492.67,
+    "meta": {
+      "ext_id": "a767"
+    }
+  },
+  {
+    "tx_id": "tx_1620",
+    "timestamp": "2024-03-02T04:18:00Z",
+    "user_id": "u262",
+    "status": "completed",
+    "amount": 348.31,
+    "meta": {
+      "ext_id": "a4285"
+    }
+  },
+  {
+    "tx_id": "tx_1474",
+    "timestamp": "2024-03-03T07:47:00Z",
+    "user_id": "u240",
+    "status": "completed",
+    "amount": 203.84,
+    "meta": {
+      "ext_id": "a3208"
+    }
+  },
+  {
+    "tx_id": "tx_1099",
+    "timestamp": "2024-03-03T02:34:00Z",
+    "user_id": "u278",
+    "status": "failed",
+    "amount": 11.61,
+    "meta": {
+      "ext_id": "a641"
+    }
+  },
+  {
+    "tx_id": "tx_1783",
+    "timestamp": "2024-03-02T23:02:00Z",
+    "user_id": "u253",
+    "status": "completed",
+    "amount": 572.44,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1053",
+    "timestamp": "2024-03-03T02:48:00Z",
+    "user_id": "u254",
+    "status": "completed",
+    "amount": 734.52,
+    "meta": {
+      "ext_id": "a319"
+    }
+  },
+  {
+    "tx_id": "tx_1767",
+    "timestamp": "2024-03-02T19:02:00Z",
+    "user_id": "u149",
+    "status": "completed",
+    "amount": 391.56,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1086",
+    "timestamp": "2024-03-03T05:00:00Z",
+    "user_id": "u215",
+    "status": "completed",
+    "amount": 225.68,
+    "meta": {
+      "ext_id": "a533"
+    }
+  },
+  {
+    "tx_id": "tx_1672",
+    "timestamp": "2024-03-01T18:42:00Z",
+    "user_id": "u229",
+    "status": "failed",
+    "amount": 233.93,
+    "meta": {
+      "ext_id": "a4689"
+    }
+  },
+  {
+    "tx_id": "tx_1548",
+    "timestamp": "2024-03-02T18:37:00Z",
+    "user_id": "u288",
+    "status": "completed",
+    "amount": 720.47,
+    "meta": {
+      "ext_id": "a3726"
+    }
+  },
+  {
+    "tx_id": "tx_1284",
+    "timestamp": "2024-03-03T01:50:00Z",
+    "user_id": "u104",
+    "status": "completed",
+    "amount": 663.7,
+    "meta": {
+      "ext_id": "a1875"
+    }
+  },
+  {
+    "tx_id": "tx_1305",
+    "timestamp": "2024-03-03T02:14:00Z",
+    "user_id": "u204",
+    "status": "completed",
+    "amount": 786.93,
+    "meta": {
+      "ext_id": "a2007"
+    }
+  },
+  {
+    "tx_id": "tx_1092",
+    "timestamp": "2024-03-01T23:03:00Z",
+    "user_id": "u287",
+    "status": "failed",
+    "amount": 642.92,
+    "meta": {
+      "ext_id": "a598"
+    }
+  },
+  {
+    "tx_id": "tx_1153",
+    "timestamp": "2024-03-01T08:28:00Z",
+    "user_id": "u254",
+    "status": "failed",
+    "amount": 650.67,
+    "meta": {
+      "ext_id": "a978"
+    }
+  },
+  {
+    "tx_id": "tx_1708",
+    "timestamp": "2024-03-02T16:54:00Z",
+    "user_id": "u167",
+    "status": "completed",
+    "amount": 52.88,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1221",
+    "timestamp": "2024-03-03T00:45:00Z",
+    "user_id": "u129",
+    "status": "completed",
+    "amount": 178.66,
+    "meta": {
+      "ext_id": "a1408"
+    }
+  },
+  {
+    "tx_id": "tx_1358",
+    "timestamp": "2024-03-02T18:06:00Z",
+    "user_id": "u228",
+    "status": "completed",
+    "amount": 397.4,
+    "meta": {
+      "ext_id": "a2356"
+    }
+  },
+  {
+    "tx_id": "tx_1918",
+    "timestamp": "2024-03-02T10:34:00Z",
+    "user_id": "u286",
+    "status": "completed",
+    "amount": 352.81,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1257",
+    "timestamp": "2024-03-02T02:13:00Z",
+    "user_id": "u245",
+    "status": "completed",
+    "amount": 542.16,
+    "meta": {
+      "ext_id": "a1675"
+    }
+  },
+  {
+    "tx_id": "tx_1637",
+    "timestamp": "2024-03-02T07:57:00Z",
+    "user_id": "u125",
+    "status": "completed",
+    "amount": 481.83,
+    "meta": {
+      "ext_id": "a4417"
+    }
+  },
+  {
+    "tx_id": "tx_1145",
+    "timestamp": "2024-03-02T07:26:00Z",
+    "user_id": "u230",
+    "status": "completed",
+    "amount": 140.1,
+    "meta": {
+      "ext_id": "a904"
+    }
+  },
+  {
+    "tx_id": "tx_1659",
+    "timestamp": "2024-03-03T06:47:00Z",
+    "user_id": "u127",
+    "status": "completed",
+    "amount": 60.61,
+    "meta": {
+      "ext_id": "a4589"
+    }
+  },
+  {
+    "tx_id": "tx_1192",
+    "timestamp": "2024-03-02T07:24:00Z",
+    "user_id": "u188",
+    "status": "completed",
+    "amount": 507.98,
+    "meta": {
+      "ext_id": "a1233"
+    }
+  },
+  {
+    "tx_id": "tx_1375",
+    "timestamp": "2024-03-02T21:44:00Z",
+    "user_id": "u190",
+    "status": "completed",
+    "amount": 610.43,
+    "meta": {
+      "ext_id": "a2462"
+    }
+  },
+  {
+    "tx_id": "tx_1679",
+    "timestamp": "2024-03-02T17:32:00Z",
+    "user_id": "u103",
+    "status": "completed",
+    "amount": 40.73,
+    "meta": {
+      "ext_id": "a4749"
+    }
+  },
+  {
+    "tx_id": "tx_1914",
+    "timestamp": "2024-03-03T03:21:00Z",
+    "user_id": "u299",
+    "status": "completed",
+    "amount": 65.46,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1379",
+    "timestamp": "2024-03-02T06:20:00Z",
+    "user_id": "u203",
+    "status": "failed",
+    "amount": 230.97,
+    "meta": {
+      "ext_id": "a2481"
+    }
+  },
+  {
+    "tx_id": "tx_1291",
+    "timestamp": "2024-03-01T14:37:00Z",
+    "user_id": "u264",
+    "status": "completed",
+    "amount": 751.99,
+    "meta": {
+      "ext_id": "a1917"
+    }
+  },
+  {
+    "tx_id": "tx_1916",
+    "timestamp": "2024-03-02T17:05:00Z",
+    "user_id": "u292",
+    "status": "completed",
+    "amount": 226.42,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1058",
+    "timestamp": "2024-03-02T14:09:00Z",
+    "user_id": "u168",
+    "status": "completed",
+    "amount": 86.34,
+    "meta": {
+      "ext_id": "a362"
+    }
+  },
+  {
+    "tx_id": "tx_1709",
+    "timestamp": "2024-03-03T02:02:00Z",
+    "user_id": "u215",
+    "status": "completed",
+    "amount": 457.32,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1069",
+    "timestamp": "2024-03-01T22:18:00Z",
+    "user_id": "u297",
+    "status": "failed",
+    "amount": 758.36,
+    "meta": {
+      "ext_id": "a422"
+    }
+  },
+  {
+    "tx_id": "tx_1117",
+    "timestamp": "2024-03-03T06:26:00Z",
+    "user_id": "u139",
+    "status": "completed",
+    "amount": 476.86,
+    "meta": {
+      "ext_id": "a764"
+    }
+  },
+  {
+    "tx_id": "tx_1601",
+    "timestamp": "2024-03-02T16:13:00Z",
+    "user_id": "u217",
+    "status": "completed",
+    "amount": 115.83,
+    "meta": {
+      "ext_id": "a4174"
+    }
+  },
+  {
+    "tx_id": "tx_1247",
+    "timestamp": "2024-03-02T19:05:00Z",
+    "user_id": "u266",
+    "status": "completed",
+    "amount": 169.46,
+    "meta": {
+      "ext_id": "a1565"
+    }
+  },
+  {
+    "tx_id": "tx_1023",
+    "timestamp": "2024-03-03T02:13:00Z",
+    "user_id": "u159",
+    "status": "completed",
+    "amount": 276.83,
+    "meta": {
+      "ext_id": "a132"
+    }
+  },
+  {
+    "tx_id": "tx_1074",
+    "timestamp": "2024-03-02T00:30:00Z",
+    "user_id": "u183",
+    "status": "completed",
+    "amount": 217.35,
+    "meta": {
+      "ext_id": "a455"
+    }
+  },
+  {
+    "tx_id": "tx_1342",
+    "timestamp": "2024-03-02T18:13:00Z",
+    "user_id": "u189",
+    "status": "completed",
+    "amount": 461.91,
+    "meta": {
+      "ext_id": "a2264"
+    }
+  },
+  {
+    "tx_id": "tx_1122",
+    "timestamp": "2024-03-02T11:48:00Z",
+    "user_id": "u177",
+    "status": "completed",
+    "amount": 87.81,
+    "meta": {
+      "ext_id": "a784"
+    }
+  },
+  {
+    "tx_id": "tx_1831",
+    "timestamp": "2024-03-01T15:28:00Z",
+    "user_id": "u219",
+    "status": "completed",
+    "amount": 496.71,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1362",
+    "timestamp": "2024-03-02T23:58:00Z",
+    "user_id": "u239",
+    "status": "completed",
+    "amount": 692.14,
+    "meta": {
+      "ext_id": "a2377"
+    }
+  },
+  {
+    "tx_id": "tx_1733",
+    "timestamp": "2024-03-02T01:38:00Z",
+    "user_id": "u102",
+    "status": "completed",
+    "amount": 483.54,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1278",
+    "timestamp": "2024-03-02T11:32:00Z",
+    "user_id": "u291",
+    "status": "completed",
+    "amount": 200.55,
+    "meta": {
+      "ext_id": "a1825"
+    }
+  },
+  {
+    "tx_id": "tx_1840",
+    "timestamp": "2024-03-02T14:55:00Z",
+    "user_id": "u119",
+    "status": "completed",
+    "amount": 315.94,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1756",
+    "timestamp": "2024-03-03T01:39:00Z",
+    "user_id": "u103",
+    "status": "completed",
+    "amount": 38.62,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1638",
+    "timestamp": "2024-03-02T00:30:00Z",
+    "user_id": "u290",
+    "status": "completed",
+    "amount": 437.39,
+    "meta": {
+      "ext_id": "a4420"
+    }
+  },
+  {
+    "tx_id": "tx_1310",
+    "timestamp": "2024-03-02T04:07:00Z",
+    "user_id": "u233",
+    "status": "completed",
+    "amount": 478.78,
+    "meta": {
+      "ext_id": "a2050"
+    }
+  },
+  {
+    "tx_id": "tx_1651",
+    "timestamp": "2024-03-01T19:08:00Z",
+    "user_id": "u245",
+    "status": "completed",
+    "amount": 658.84,
+    "meta": {
+      "ext_id": "a4538"
+    }
+  },
+  {
+    "tx_id": "tx_1882",
+    "timestamp": "2024-03-03T03:44:00Z",
+    "user_id": "u200",
+    "status": "completed",
+    "amount": 583.41,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1614",
+    "timestamp": "2024-03-01T20:51:00Z",
+    "user_id": "u158",
+    "status": "completed",
+    "amount": 694.0,
+    "meta": {
+      "ext_id": "a4249"
+    }
+  },
+  {
+    "tx_id": "tx_1863",
+    "timestamp": "2024-03-02T05:13:00Z",
+    "user_id": "u277",
+    "status": "completed",
+    "amount": 521.89,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1567",
+    "timestamp": "2024-03-01T10:41:00Z",
+    "user_id": "u222",
+    "status": "completed",
+    "amount": 30.26,
+    "meta": {
+      "ext_id": "a3908"
+    }
+  },
+  {
+    "tx_id": "tx_1179",
+    "timestamp": "2024-03-01T11:15:00Z",
+    "user_id": "u210",
+    "status": "completed",
+    "amount": 645.57,
+    "meta": {
+      "ext_id": "a1139"
+    }
+  },
+  {
+    "tx_id": "tx_1684",
+    "timestamp": "2024-03-02T23:46:00Z",
+    "user_id": "u150",
+    "status": "completed",
+    "amount": 428.06,
+    "meta": {
+      "ext_id": "a4786"
+    }
+  },
+  {
+    "tx_id": "tx_1519",
+    "timestamp": "2024-03-02T20:49:00Z",
+    "user_id": "u285",
+    "status": "completed",
+    "amount": 361.31,
+    "meta": {
+      "ext_id": "a3543"
+    }
+  },
+  {
+    "tx_id": "tx_1425",
+    "timestamp": "2024-03-03T03:49:00Z",
+    "user_id": "u256",
+    "status": "completed",
+    "amount": 744.76,
+    "meta": {
+      "ext_id": "a2874"
+    }
+  },
+  {
+    "tx_id": "tx_1747",
+    "timestamp": "2024-03-01T21:28:00Z",
+    "user_id": "u271",
+    "status": "failed",
+    "amount": 507.82,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1032",
+    "timestamp": "2024-03-02T13:09:00Z",
+    "user_id": "u185",
+    "status": "failed",
+    "amount": 506.66,
+    "meta": {
+      "ext_id": "a190"
+    }
+  },
+  {
+    "tx_id": "tx_1050",
+    "timestamp": "2024-03-02T17:05:00Z",
+    "user_id": "u206",
+    "status": "completed",
+    "amount": 522.47,
+    "meta": {
+      "ext_id": "a301"
+    }
+  },
+  {
+    "tx_id": "tx_1214",
+    "timestamp": "2024-03-02T11:39:00Z",
+    "user_id": "u200",
+    "status": "completed",
+    "amount": 421.84,
+    "meta": {
+      "ext_id": "a1358"
+    }
+  },
+  {
+    "tx_id": "tx_1633",
+    "timestamp": "2024-03-02T01:35:00Z",
+    "user_id": "u141",
+    "status": "completed",
+    "amount": 497.15,
+    "meta": {
+      "ext_id": "a4394"
+    }
+  },
+  {
+    "tx_id": "tx_1391",
+    "timestamp": "2024-03-02T16:04:00Z",
+    "user_id": "u277",
+    "status": "completed",
+    "amount": 203.1,
+    "meta": {
+      "ext_id": "a2575"
+    }
+  },
+  {
+    "tx_id": "tx_1241",
+    "timestamp": "2024-03-02T22:37:00Z",
+    "user_id": "u198",
+    "status": "failed",
+    "amount": 651.78,
+    "meta": {
+      "ext_id": "a1526"
+    }
+  },
+  {
+    "tx_id": "tx_1396",
+    "timestamp": "2024-03-02T05:31:00Z",
+    "user_id": "u156",
+    "status": "completed",
+    "amount": 772.86,
+    "meta": {
+      "ext_id": "a2608"
+    }
+  },
+  {
+    "tx_id": "tx_1464",
+    "timestamp": "2024-03-02T11:15:00Z",
+    "user_id": "u215",
+    "status": "completed",
+    "amount": 58.41,
+    "meta": {
+      "ext_id": "a3149"
+    }
+  },
+  {
+    "tx_id": "tx_1317",
+    "timestamp": "2024-03-01T16:15:00Z",
+    "user_id": "u281",
+    "status": "completed",
+    "amount": 219.04,
+    "meta": {
+      "ext_id": "a2105"
+    }
+  },
+  {
+    "tx_id": "tx_1434",
+    "timestamp": "2024-03-01T13:03:00Z",
+    "user_id": "u113",
+    "status": "completed",
+    "amount": 115.88,
+    "meta": {
+      "ext_id": "a2934"
+    }
+  },
+  {
+    "tx_id": "tx_1655",
+    "timestamp": "2024-03-03T08:06:00Z",
+    "user_id": "u112",
+    "status": "completed",
+    "amount": 469.45,
+    "meta": {
+      "ext_id": "a4563"
+    }
+  },
+  {
+    "tx_id": "tx_1490",
+    "timestamp": "2024-03-01T14:56:00Z",
+    "user_id": "u223",
+    "status": "completed",
+    "amount": 572.0,
+    "meta": {
+      "ext_id": "a3359"
+    }
+  },
+  {
+    "tx_id": "tx_1167",
+    "timestamp": "2024-03-01T15:25:00Z",
+    "user_id": "u160",
+    "status": "completed",
+    "amount": 54.13,
+    "meta": {
+      "ext_id": "a1074"
+    }
+  },
+  {
+    "tx_id": "tx_1442",
+    "timestamp": "2024-03-02T00:05:00Z",
+    "user_id": "u192",
+    "status": "completed",
+    "amount": 232.88,
+    "meta": {
+      "ext_id": "a3002"
+    }
+  },
+  {
+    "tx_id": "tx_1385",
+    "timestamp": "2024-03-02T22:39:00Z",
+    "user_id": "u161",
+    "status": "completed",
+    "amount": 296.88,
+    "meta": {
+      "ext_id": "a2514"
+    }
+  },
+  {
+    "tx_id": "tx_1293",
+    "timestamp": "2024-03-01T19:03:00Z",
+    "user_id": "u250",
+    "status": "completed",
+    "amount": 576.09,
+    "meta": {
+      "ext_id": "a1930"
+    }
+  },
+  {
+    "tx_id": "tx_1260",
+    "timestamp": "2024-03-03T07:54:00Z",
+    "user_id": "u134",
+    "status": "completed",
+    "amount": 439.96,
+    "meta": {
+      "ext_id": "a1706"
+    }
+  },
+  {
+    "tx_id": "tx_1383",
+    "timestamp": "2024-03-01T11:07:00Z",
+    "user_id": "u160",
+    "status": "completed",
+    "amount": 552.02,
+    "meta": {
+      "ext_id": "a2501"
+    }
+  },
+  {
+    "tx_id": "tx_1498",
+    "timestamp": "2024-03-01T11:13:00Z",
+    "user_id": "u213",
+    "status": "completed",
+    "amount": 746.21,
+    "meta": {
+      "ext_id": "a3412"
+    }
+  },
+  {
+    "tx_id": "tx_1271",
+    "timestamp": "2024-03-01T17:56:00Z",
+    "user_id": "u187",
+    "status": "completed",
+    "amount": 663.16,
+    "meta": {
+      "ext_id": "a1775"
+    }
+  },
+  {
+    "tx_id": "tx_1144",
+    "timestamp": "2024-03-01T21:06:00Z",
+    "user_id": "u112",
+    "status": "completed",
+    "amount": 22.29,
+    "meta": {
+      "ext_id": "a901"
+    }
+  },
+  {
+    "tx_id": "tx_1753",
+    "timestamp": "2024-03-02T00:16:00Z",
+    "user_id": "u292",
+    "status": "completed",
+    "amount": 291.17,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1390",
+    "timestamp": "2024-03-01T21:15:00Z",
+    "user_id": "u174",
+    "status": "completed",
+    "amount": 153.66,
+    "meta": {
+      "ext_id": "a2567"
+    }
+  },
+  {
+    "tx_id": "tx_1658",
+    "timestamp": "2024-03-02T14:10:00Z",
+    "user_id": "u195",
+    "status": "completed",
+    "amount": 281.03,
+    "meta": {
+      "ext_id": "a4583"
+    }
+  },
+  {
+    "tx_id": "tx_1198",
+    "timestamp": "2024-03-03T02:37:00Z",
+    "user_id": "u207",
+    "status": "completed",
+    "amount": 416.72,
+    "meta": {
+      "ext_id": "a1281"
+    }
+  },
+  {
+    "tx_id": "tx_1065",
+    "timestamp": "2024-03-02T19:05:00Z",
+    "user_id": "u270",
+    "status": "completed",
+    "amount": 775.44,
+    "meta": {
+      "ext_id": "a396"
+    }
+  },
+  {
+    "tx_id": "tx_1628",
+    "timestamp": "2024-03-02T18:05:00Z",
+    "user_id": "u173",
+    "status": "completed",
+    "amount": 419.98,
+    "meta": {
+      "ext_id": "a4361"
+    }
+  },
+  {
+    "tx_id": "tx_1554",
+    "timestamp": "2024-03-03T01:32:00Z",
+    "user_id": "u129",
+    "status": "completed",
+    "amount": 434.56,
+    "meta": {
+      "ext_id": "a3782"
+    }
+  },
+  {
+    "tx_id": "tx_1752",
+    "timestamp": "2024-03-03T04:12:00Z",
+    "user_id": "u265",
+    "status": "completed",
+    "amount": 104.09,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1273",
+    "timestamp": "2024-03-02T14:15:00Z",
+    "user_id": "u258",
+    "status": "failed",
+    "amount": 387.65,
+    "meta": {
+      "ext_id": "a1783"
+    }
+  },
+  {
+    "tx_id": "tx_1722",
+    "timestamp": "2024-03-03T06:38:00Z",
+    "user_id": "u278",
+    "status": "failed",
+    "amount": 20.97,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1576",
+    "timestamp": "2024-03-02T01:58:00Z",
+    "user_id": "u253",
+    "status": "failed",
+    "amount": 794.27,
+    "meta": {
+      "ext_id": "a3977"
+    }
+  },
+  {
+    "tx_id": "tx_1166",
+    "timestamp": "2024-03-03T07:37:00Z",
+    "user_id": "u140",
+    "status": "completed",
+    "amount": 318.32,
+    "meta": {
+      "ext_id": "a1070"
+    }
+  },
+  {
+    "tx_id": "tx_1466",
+    "timestamp": "2024-03-01T13:27:00Z",
+    "user_id": "u149",
+    "status": "completed",
+    "amount": 131.74,
+    "meta": {
+      "ext_id": "a3155"
+    }
+  },
+  {
+    "tx_id": "tx_1797",
+    "timestamp": "2024-03-02T02:41:00Z",
+    "user_id": "u151",
+    "status": "completed",
+    "amount": 583.83,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1755",
+    "timestamp": "2024-03-01T12:53:00Z",
+    "user_id": "u294",
+    "status": "completed",
+    "amount": 382.32,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1575",
+    "timestamp": "2024-03-03T05:55:00Z",
+    "user_id": "u104",
+    "status": "failed",
+    "amount": 285.17,
+    "meta": {
+      "ext_id": "a3969"
+    }
+  },
+  {
+    "tx_id": "tx_1725",
+    "timestamp": "2024-03-02T14:07:00Z",
+    "user_id": "u230",
+    "status": "failed",
+    "amount": 200.86,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1398",
+    "timestamp": "2024-03-01T19:23:00Z",
+    "user_id": "u176",
+    "status": "completed",
+    "amount": 382.06,
+    "meta": {
+      "ext_id": "a2637"
+    }
+  },
+  {
+    "tx_id": "tx_1346",
+    "timestamp": "2024-03-01T09:35:00Z",
+    "user_id": "u203",
+    "status": "completed",
+    "amount": 541.68,
+    "meta": {
+      "ext_id": "a2282"
+    }
+  },
+  {
+    "tx_id": "tx_1217",
+    "timestamp": "2024-03-02T19:25:00Z",
+    "user_id": "u272",
+    "status": "completed",
+    "amount": 259.84,
+    "meta": {
+      "ext_id": "a1371"
+    }
+  },
+  {
+    "tx_id": "tx_1334",
+    "timestamp": "2024-03-02T14:51:00Z",
+    "user_id": "u245",
+    "status": "completed",
+    "amount": 267.31,
+    "meta": {
+      "ext_id": "a2218"
+    }
+  },
+  {
+    "tx_id": "tx_1162",
+    "timestamp": "2024-03-02T09:41:00Z",
+    "user_id": "u171",
+    "status": "failed",
+    "amount": 785.71,
+    "meta": {
+      "ext_id": "a1041"
+    }
+  },
+  {
+    "tx_id": "tx_1049",
+    "timestamp": "2024-03-01T20:05:00Z",
+    "user_id": "u184",
+    "status": "completed",
+    "amount": 305.28,
+    "meta": {
+      "ext_id": "a295"
+    }
+  },
+  {
+    "tx_id": "tx_1816",
+    "timestamp": "2024-03-01T10:01:00Z",
+    "user_id": "u156",
+    "status": "completed",
+    "amount": 465.92,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1538",
+    "timestamp": "2024-03-02T11:29:00Z",
+    "user_id": "u199",
+    "status": "completed",
+    "amount": 723.82,
+    "meta": {
+      "ext_id": "a3669"
+    }
+  },
+  {
+    "tx_id": "tx_1215",
+    "timestamp": "2024-03-02T21:22:00Z",
+    "user_id": "u197",
+    "status": "completed",
+    "amount": 298.89,
+    "meta": {
+      "ext_id": "a1365"
+    }
+  },
+  {
+    "tx_id": "tx_1578",
+    "timestamp": "2024-03-01T23:35:00Z",
+    "user_id": "u168",
+    "status": "failed",
+    "amount": 258.67,
+    "meta": {
+      "ext_id": "a3986"
+    }
+  },
+  {
+    "tx_id": "tx_1477",
+    "timestamp": "2024-03-02T14:55:00Z",
+    "user_id": "u245",
+    "status": "failed",
+    "amount": 173.29,
+    "meta": {
+      "ext_id": "a3227"
+    }
+  },
+  {
+    "tx_id": "tx_1300",
+    "timestamp": "2024-03-01T11:17:00Z",
+    "user_id": "u272",
+    "status": "completed",
+    "amount": 49.45,
+    "meta": {
+      "ext_id": "a1969"
+    }
+  },
+  {
+    "tx_id": "tx_1286",
+    "timestamp": "2024-03-01T21:38:00Z",
+    "user_id": "u109",
+    "status": "completed",
+    "amount": 300.43,
+    "meta": {
+      "ext_id": "a1884"
+    }
+  },
+  {
+    "tx_id": "tx_1691",
+    "timestamp": "2024-03-02T05:38:00Z",
+    "user_id": "u270",
+    "status": "completed",
+    "amount": 117.55,
+    "meta": {
+      "ext_id": "a4833"
+    }
+  },
+  {
+    "tx_id": "tx_1446",
+    "timestamp": "2024-03-01T08:25:00Z",
+    "user_id": "u232",
+    "status": "completed",
+    "amount": 371.4,
+    "meta": {
+      "ext_id": "a3032"
+    }
+  },
+  {
+    "tx_id": "tx_1634",
+    "timestamp": "2024-03-01T15:44:00Z",
+    "user_id": "u136",
+    "status": "failed",
+    "amount": 798.19,
+    "meta": {
+      "ext_id": "a4403"
+    }
+  },
+  {
+    "tx_id": "tx_1636",
+    "timestamp": "2024-03-02T09:07:00Z",
+    "user_id": "u242",
+    "status": "completed",
+    "amount": 235.34,
+    "meta": {
+      "ext_id": "a4411"
+    }
+  },
+  {
+    "tx_id": "tx_1788",
+    "timestamp": "2024-03-01T13:31:00Z",
+    "user_id": "u244",
+    "status": "completed",
+    "amount": 173.21,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1002",
+    "timestamp": "2024-03-03T05:51:00Z",
+    "user_id": "u259",
+    "status": "completed",
+    "amount": 290.68,
+    "meta": {
+      "ext_id": "a28"
+    }
+  },
+  {
+    "tx_id": "tx_1650",
+    "timestamp": "2024-03-02T11:37:00Z",
+    "user_id": "u148",
+    "status": "completed",
+    "amount": 655.81,
+    "meta": {
+      "ext_id": "a4518"
+    }
+  },
+  {
+    "tx_id": "tx_1038",
+    "timestamp": "2024-03-02T23:51:00Z",
+    "user_id": "u282",
+    "status": "completed",
+    "amount": 57.18,
+    "meta": {
+      "ext_id": "a229"
+    }
+  },
+  {
+    "tx_id": "tx_1109",
+    "timestamp": "2024-03-01T08:53:00Z",
+    "user_id": "u254",
+    "status": "completed",
+    "amount": 330.21,
+    "meta": {
+      "ext_id": "a701"
+    }
+  },
+  {
+    "tx_id": "tx_1792",
+    "timestamp": "2024-03-02T10:41:00Z",
+    "user_id": "u211",
+    "status": "completed",
+    "amount": 493.37,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1642",
+    "timestamp": "2024-03-01T17:57:00Z",
+    "user_id": "u285",
+    "status": "failed",
+    "amount": 104.3,
+    "meta": {
+      "ext_id": "a4454"
+    }
+  },
+  {
+    "tx_id": "tx_1448",
+    "timestamp": "2024-03-01T18:03:00Z",
+    "user_id": "u198",
+    "status": "failed",
+    "amount": 779.91,
+    "meta": {
+      "ext_id": "a3046"
+    }
+  },
+  {
+    "tx_id": "tx_1917",
+    "timestamp": "2024-03-01T16:12:00Z",
+    "user_id": "u230",
+    "status": "completed",
+    "amount": 571.1,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1791",
+    "timestamp": "2024-03-02T18:12:00Z",
+    "user_id": "u124",
+    "status": "completed",
+    "amount": 536.29,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1137",
+    "timestamp": "2024-03-03T04:30:00Z",
+    "user_id": "u144",
+    "status": "completed",
+    "amount": 530.94,
+    "meta": {
+      "ext_id": "a872"
+    }
+  },
+  {
+    "tx_id": "tx_1485",
+    "timestamp": "2024-03-02T19:53:00Z",
+    "user_id": "u290",
+    "status": "completed",
+    "amount": 463.8,
+    "meta": {
+      "ext_id": "a3323"
+    }
+  },
+  {
+    "tx_id": "tx_1703",
+    "timestamp": "2024-03-01T21:39:00Z",
+    "user_id": "u251",
+    "status": "failed",
+    "amount": 517.78,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1822",
+    "timestamp": "2024-03-03T03:17:00Z",
+    "user_id": "u106",
+    "status": "completed",
+    "amount": 531.47,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1560",
+    "timestamp": "2024-03-01T13:28:00Z",
+    "user_id": "u228",
+    "status": "completed",
+    "amount": 564.93,
+    "meta": {
+      "ext_id": "a3823"
+    }
+  },
+  {
+    "tx_id": "tx_1516",
+    "timestamp": "2024-03-02T15:38:00Z",
+    "user_id": "u264",
+    "status": "completed",
+    "amount": 183.92,
+    "meta": {
+      "ext_id": "a3523"
+    }
+  },
+  {
+    "tx_id": "tx_1737",
+    "timestamp": "2024-03-01T20:01:00Z",
+    "user_id": "u259",
+    "status": "completed",
+    "amount": 510.68,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1282",
+    "timestamp": "2024-03-01T10:15:00Z",
+    "user_id": "u204",
+    "status": "completed",
+    "amount": 376.45,
+    "meta": {
+      "ext_id": "a1853"
+    }
+  },
+  {
+    "tx_id": "tx_1427",
+    "timestamp": "2024-03-02T23:52:00Z",
+    "user_id": "u218",
+    "status": "completed",
+    "amount": 769.08,
+    "meta": {
+      "ext_id": "a2884"
+    }
+  },
+  {
+    "tx_id": "tx_1108",
+    "timestamp": "2024-03-02T23:27:00Z",
+    "user_id": "u128",
+    "status": "completed",
+    "amount": 518.55,
+    "meta": {
+      "ext_id": "a698"
+    }
+  },
+  {
+    "tx_id": "tx_1098",
+    "timestamp": "2024-03-01T22:37:00Z",
+    "user_id": "u114",
+    "status": "completed",
+    "amount": 625.86,
+    "meta": {
+      "ext_id": "a638"
+    }
+  },
+  {
+    "tx_id": "tx_1875",
+    "timestamp": "2024-03-03T02:23:00Z",
+    "user_id": "u185",
+    "status": "completed",
+    "amount": 240.15,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1821",
+    "timestamp": "2024-03-02T23:04:00Z",
+    "user_id": "u165",
+    "status": "completed",
+    "amount": 584.24,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1573",
+    "timestamp": "2024-03-01T23:37:00Z",
+    "user_id": "u232",
+    "status": "completed",
+    "amount": 520.33,
+    "meta": {
+      "ext_id": "a3954"
+    }
+  },
+  {
+    "tx_id": "tx_1007",
+    "timestamp": "2024-03-02T11:27:00Z",
+    "user_id": "u113",
+    "status": "completed",
+    "amount": 356.87,
+    "meta": {
+      "ext_id": "a52"
+    }
+  },
+  {
+    "tx_id": "tx_1332",
+    "timestamp": "2024-03-01T14:26:00Z",
+    "user_id": "u266",
+    "status": "completed",
+    "amount": 583.26,
+    "meta": {
+      "ext_id": "a2206"
+    }
+  },
+  {
+    "tx_id": "tx_1289",
+    "timestamp": "2024-03-03T01:50:00Z",
+    "user_id": "u243",
+    "status": "completed",
+    "amount": 709.29,
+    "meta": {
+      "ext_id": "a1895"
+    }
+  },
+  {
+    "tx_id": "tx_1313",
+    "timestamp": "2024-03-01T17:17:00Z",
+    "user_id": "u157",
+    "status": "completed",
+    "amount": 760.59,
+    "meta": {
+      "ext_id": "a2073"
+    }
+  },
+  {
+    "tx_id": "tx_1135",
+    "timestamp": "2024-03-01T19:51:00Z",
+    "user_id": "u270",
+    "status": "completed",
+    "amount": 207.2,
+    "meta": {
+      "ext_id": "a865"
+    }
+  },
+  {
+    "tx_id": "tx_1085",
+    "timestamp": "2024-03-01T10:22:00Z",
+    "user_id": "u296",
+    "status": "completed",
+    "amount": 169.39,
+    "meta": {
+      "ext_id": "a530"
+    }
+  },
+  {
+    "tx_id": "tx_1507",
+    "timestamp": "2024-03-01T15:25:00Z",
+    "user_id": "u243",
+    "status": "completed",
+    "amount": 767.93,
+    "meta": {
+      "ext_id": "a3468"
+    }
+  },
+  {
+    "tx_id": "tx_1775",
+    "timestamp": "2024-03-01T22:08:00Z",
+    "user_id": "u223",
+    "status": "completed",
+    "amount": 358.77,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1453",
+    "timestamp": "2024-03-02T04:57:00Z",
+    "user_id": "u174",
+    "status": "completed",
+    "amount": 81.91,
+    "meta": {
+      "ext_id": "a3085"
+    }
+  },
+  {
+    "tx_id": "tx_1138",
+    "timestamp": "2024-03-02T03:46:00Z",
+    "user_id": "u194",
+    "status": "completed",
+    "amount": 351.19,
+    "meta": {
+      "ext_id": "a875"
+    }
+  },
+  {
+    "tx_id": "tx_1072",
+    "timestamp": "2024-03-03T04:27:00Z",
+    "user_id": "u257",
+    "status": "completed",
+    "amount": 222.12,
+    "meta": {
+      "ext_id": "a439"
+    }
+  },
+  {
+    "tx_id": "tx_1894",
+    "timestamp": "2024-03-01T08:08:00Z",
+    "user_id": "u139",
+    "status": "completed",
+    "amount": 240.0,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1632",
+    "timestamp": "2024-03-02T00:09:00Z",
+    "user_id": "u199",
+    "status": "completed",
+    "amount": 138.0,
+    "meta": {
+      "ext_id": "a4389"
+    }
+  },
+  {
+    "tx_id": "tx_1197",
+    "timestamp": "2024-03-01T20:40:00Z",
+    "user_id": "u195",
+    "status": "completed",
+    "amount": 256.4,
+    "meta": {
+      "ext_id": "a1274"
+    }
+  },
+  {
+    "tx_id": "tx_1706",
+    "timestamp": "2024-03-03T04:25:00Z",
+    "user_id": "u189",
+    "status": "completed",
+    "amount": 38.58,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1045",
+    "timestamp": "2024-03-02T23:09:00Z",
+    "user_id": "u279",
+    "status": "completed",
+    "amount": 501.73,
+    "meta": {
+      "ext_id": "a270"
+    }
+  },
+  {
+    "tx_id": "tx_1668",
+    "timestamp": "2024-03-01T21:19:00Z",
+    "user_id": "u260",
+    "status": "completed",
+    "amount": 119.98,
+    "meta": {
+      "ext_id": "a4645"
+    }
+  },
+  {
+    "tx_id": "tx_1592",
+    "timestamp": "2024-03-02T21:39:00Z",
+    "user_id": "u180",
+    "status": "failed",
+    "amount": 301.62,
+    "meta": {
+      "ext_id": "a4096"
+    }
+  },
+  {
+    "tx_id": "tx_1878",
+    "timestamp": "2024-03-01T19:23:00Z",
+    "user_id": "u205",
+    "status": "failed",
+    "amount": 137.13,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1111",
+    "timestamp": "2024-03-02T01:36:00Z",
+    "user_id": "u180",
+    "status": "completed",
+    "amount": 500.11,
+    "meta": {
+      "ext_id": "a722"
+    }
+  },
+  {
+    "tx_id": "tx_1184",
+    "timestamp": "2024-03-02T20:15:00Z",
+    "user_id": "u250",
+    "status": "completed",
+    "amount": 122.78,
+    "meta": {
+      "ext_id": "a1176"
+    }
+  },
+  {
+    "tx_id": "tx_1238",
+    "timestamp": "2024-03-03T00:11:00Z",
+    "user_id": "u141",
+    "status": "completed",
+    "amount": 650.93,
+    "meta": {
+      "ext_id": "a1504"
+    }
+  },
+  {
+    "tx_id": "tx_1068",
+    "timestamp": "2024-03-02T20:07:00Z",
+    "user_id": "u230",
+    "status": "completed",
+    "amount": 261.32,
+    "meta": {
+      "ext_id": "a419"
+    }
+  },
+  {
+    "tx_id": "tx_1525",
+    "timestamp": "2024-03-02T16:39:00Z",
+    "user_id": "u180",
+    "status": "completed",
+    "amount": 697.76,
+    "meta": {
+      "ext_id": "a3573"
+    }
+  },
+  {
+    "tx_id": "tx_1818",
+    "timestamp": "2024-03-01T10:51:00Z",
+    "user_id": "u165",
+    "status": "failed",
+    "amount": 375.32,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1511",
+    "timestamp": "2024-03-01T13:02:00Z",
+    "user_id": "u160",
+    "status": "failed",
+    "amount": 34.9,
+    "meta": {
+      "ext_id": "a3487"
+    }
+  },
+  {
+    "tx_id": "tx_1231",
+    "timestamp": "2024-03-01T09:02:00Z",
+    "user_id": "u181",
+    "status": "completed",
+    "amount": 22.94,
+    "meta": {
+      "ext_id": "a1465"
+    }
+  },
+  {
+    "tx_id": "tx_1307",
+    "timestamp": "2024-03-02T13:43:00Z",
+    "user_id": "u136",
+    "status": "completed",
+    "amount": 700.82,
+    "meta": {
+      "ext_id": "a2018"
+    }
+  },
+  {
+    "tx_id": "tx_1702",
+    "timestamp": "2024-03-02T13:39:00Z",
+    "user_id": "u220",
+    "status": "failed",
+    "amount": 35.76,
+    "meta": {
+      "ext_id": "a4901"
+    }
+  },
+  {
+    "tx_id": "tx_1003",
+    "timestamp": "2024-03-03T05:44:00Z",
+    "user_id": "u150",
+    "status": "completed",
+    "amount": 690.78,
+    "meta": {
+      "ext_id": "a31"
+    }
+  },
+  {
+    "tx_id": "tx_1355",
+    "timestamp": "2024-03-01T20:40:00Z",
+    "user_id": "u183",
+    "status": "completed",
+    "amount": 89.44,
+    "meta": {
+      "ext_id": "a2341"
+    }
+  },
+  {
+    "tx_id": "tx_1597",
+    "timestamp": "2024-03-02T05:30:00Z",
+    "user_id": "u106",
+    "status": "completed",
+    "amount": 261.64,
+    "meta": {
+      "ext_id": "a4150"
+    }
+  },
+  {
+    "tx_id": "tx_1450",
+    "timestamp": "2024-03-02T01:17:00Z",
+    "user_id": "u281",
+    "status": "completed",
+    "amount": 311.95,
+    "meta": {
+      "ext_id": "a3064"
+    }
+  },
+  {
+    "tx_id": "tx_1431",
+    "timestamp": "2024-03-02T14:05:00Z",
+    "user_id": "u145",
+    "status": "completed",
+    "amount": 653.56,
+    "meta": {
+      "ext_id": "a2910"
+    }
+  },
+  {
+    "tx_id": "tx_1039",
+    "timestamp": "2024-03-01T22:09:00Z",
+    "user_id": "u220",
+    "status": "completed",
+    "amount": 680.24,
+    "meta": {
+      "ext_id": "a239"
+    }
+  },
+  {
+    "tx_id": "tx_1274",
+    "timestamp": "2024-03-01T21:34:00Z",
+    "user_id": "u127",
+    "status": "completed",
+    "amount": 612.04,
+    "meta": {
+      "ext_id": "a1790"
+    }
+  },
+  {
+    "tx_id": "tx_1876",
+    "timestamp": "2024-03-01T14:31:00Z",
+    "user_id": "u278",
+    "status": "completed",
+    "amount": 29.46,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1097",
+    "timestamp": "2024-03-02T13:48:00Z",
+    "user_id": "u225",
+    "status": "completed",
+    "amount": 132.04,
+    "meta": {
+      "ext_id": "a622"
+    }
+  },
+  {
+    "tx_id": "tx_1211",
+    "timestamp": "2024-03-01T22:55:00Z",
+    "user_id": "u281",
+    "status": "failed",
+    "amount": 714.59,
+    "meta": {
+      "ext_id": "a1347"
+    }
+  },
+  {
+    "tx_id": "tx_1236",
+    "timestamp": "2024-03-03T07:41:00Z",
+    "user_id": "u238",
+    "status": "completed",
+    "amount": 175.12,
+    "meta": {
+      "ext_id": "a1495"
+    }
+  },
+  {
+    "tx_id": "tx_1808",
+    "timestamp": "2024-03-01T19:56:00Z",
+    "user_id": "u106",
+    "status": "completed",
+    "amount": 152.23,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1748",
+    "timestamp": "2024-03-02T06:29:00Z",
+    "user_id": "u178",
+    "status": "completed",
+    "amount": 168.18,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1083",
+    "timestamp": "2024-03-01T18:28:00Z",
+    "user_id": "u127",
+    "status": "completed",
+    "amount": 245.42,
+    "meta": {
+      "ext_id": "a512"
+    }
+  },
+  {
+    "tx_id": "tx_1496",
+    "timestamp": "2024-03-01T12:22:00Z",
+    "user_id": "u221",
+    "status": "completed",
+    "amount": 217.53,
+    "meta": {
+      "ext_id": "a3405"
+    }
+  },
+  {
+    "tx_id": "tx_1763",
+    "timestamp": "2024-03-02T07:15:00Z",
+    "user_id": "u156",
+    "status": "completed",
+    "amount": 481.06,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1230",
+    "timestamp": "2024-03-03T04:31:00Z",
+    "user_id": "u293",
+    "status": "completed",
+    "amount": 780.55,
+    "meta": {
+      "ext_id": "a1461"
+    }
+  },
+  {
+    "tx_id": "tx_1416",
+    "timestamp": "2024-03-01T21:41:00Z",
+    "user_id": "u293",
+    "status": "completed",
+    "amount": 400.64,
+    "meta": {
+      "ext_id": "a2779"
+    }
+  },
+  {
+    "tx_id": "tx_1131",
+    "timestamp": "2024-03-02T01:07:00Z",
+    "user_id": "u269",
+    "status": "completed",
+    "amount": 109.88,
+    "meta": {
+      "ext_id": "a847"
+    }
+  },
+  {
+    "tx_id": "tx_1133",
+    "timestamp": "2024-03-01T21:27:00Z",
+    "user_id": "u123",
+    "status": "completed",
+    "amount": 382.2,
+    "meta": {
+      "ext_id": "a857"
+    }
+  },
+  {
+    "tx_id": "tx_1912",
+    "timestamp": "2024-03-02T08:58:00Z",
+    "user_id": "u188",
+    "status": "completed",
+    "amount": 490.69,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1547",
+    "timestamp": "2024-03-01T11:57:00Z",
+    "user_id": "u172",
+    "status": "completed",
+    "amount": 127.32,
+    "meta": {
+      "ext_id": "a3723"
+    }
+  },
+  {
+    "tx_id": "tx_1896",
+    "timestamp": "2024-03-03T03:26:00Z",
+    "user_id": "u242",
+    "status": "completed",
+    "amount": 32.37,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1814",
+    "timestamp": "2024-03-01T20:06:00Z",
+    "user_id": "u289",
+    "status": "completed",
+    "amount": 484.43,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1757",
+    "timestamp": "2024-03-01T12:12:00Z",
+    "user_id": "u181",
+    "status": "completed",
+    "amount": 360.39,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1438",
+    "timestamp": "2024-03-02T09:18:00Z",
+    "user_id": "u161",
+    "status": "completed",
+    "amount": 628.01,
+    "meta": {
+      "ext_id": "a2973"
+    }
+  },
+  {
+    "tx_id": "tx_1210",
+    "timestamp": "2024-03-03T06:22:00Z",
+    "user_id": "u165",
+    "status": "completed",
+    "amount": 120.6,
+    "meta": {
+      "ext_id": "a1340"
+    }
+  },
+  {
+    "tx_id": "tx_1216",
+    "timestamp": "2024-03-02T06:09:00Z",
+    "user_id": "u170",
+    "status": "completed",
+    "amount": 454.57,
+    "meta": {
+      "ext_id": "a1368"
+    }
+  },
+  {
+    "tx_id": "tx_1851",
+    "timestamp": "2024-03-03T01:38:00Z",
+    "user_id": "u181",
+    "status": "failed",
+    "amount": 355.5,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1347",
+    "timestamp": "2024-03-02T20:01:00Z",
+    "user_id": "u222",
+    "status": "completed",
+    "amount": 206.8,
+    "meta": {
+      "ext_id": "a2289"
+    }
+  },
+  {
+    "tx_id": "tx_1555",
+    "timestamp": "2024-03-02T09:05:00Z",
+    "user_id": "u218",
+    "status": "completed",
+    "amount": 231.98,
+    "meta": {
+      "ext_id": "a3786"
+    }
+  },
+  {
+    "tx_id": "tx_1150",
+    "timestamp": "2024-03-01T19:03:00Z",
+    "user_id": "u278",
+    "status": "completed",
+    "amount": 80.86,
+    "meta": {
+      "ext_id": "a953"
+    }
+  },
+  {
+    "tx_id": "tx_1760",
+    "timestamp": "2024-03-01T18:09:00Z",
+    "user_id": "u168",
+    "status": "completed",
+    "amount": 502.03,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1384",
+    "timestamp": "2024-03-01T22:47:00Z",
+    "user_id": "u166",
+    "status": "completed",
+    "amount": 222.8,
+    "meta": {
+      "ext_id": "a2504"
+    }
+  },
+  {
+    "tx_id": "tx_1340",
+    "timestamp": "2024-03-02T05:28:00Z",
+    "user_id": "u290",
+    "status": "completed",
+    "amount": 776.21,
+    "meta": {
+      "ext_id": "a2256"
+    }
+  },
+  {
+    "tx_id": "tx_1627",
+    "timestamp": "2024-03-02T09:44:00Z",
+    "user_id": "u202",
+    "status": "completed",
+    "amount": 684.92,
+    "meta": {
+      "ext_id": "a4342"
+    }
+  },
+  {
+    "tx_id": "tx_1688",
+    "timestamp": "2024-03-02T06:41:00Z",
+    "user_id": "u196",
+    "status": "completed",
+    "amount": 196.78,
+    "meta": {
+      "ext_id": "a4806"
+    }
+  },
+  {
+    "tx_id": "tx_1805",
+    "timestamp": "2024-03-02T20:26:00Z",
+    "user_id": "u299",
+    "status": "completed",
+    "amount": 488.09,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1311",
+    "timestamp": "2024-03-02T10:00:00Z",
+    "user_id": "u196",
+    "status": "completed",
+    "amount": 794.38,
+    "meta": {
+      "ext_id": "a2057"
+    }
+  },
+  {
+    "tx_id": "tx_1900",
+    "timestamp": "2024-03-02T01:59:00Z",
+    "user_id": "u238",
+    "status": "completed",
+    "amount": 31.8,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1832",
+    "timestamp": "2024-03-01T18:21:00Z",
+    "user_id": "u112",
+    "status": "completed",
+    "amount": 252.0,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1353",
+    "timestamp": "2024-03-02T06:22:00Z",
+    "user_id": "u224",
+    "status": "completed",
+    "amount": 708.99,
+    "meta": {
+      "ext_id": "a2326"
+    }
+  },
+  {
+    "tx_id": "tx_1294",
+    "timestamp": "2024-03-02T23:17:00Z",
+    "user_id": "u117",
+    "status": "completed",
+    "amount": 67.51,
+    "meta": {
+      "ext_id": "a1939"
+    }
+  },
+  {
+    "tx_id": "tx_1249",
+    "timestamp": "2024-03-02T00:58:00Z",
+    "user_id": "u144",
+    "status": "completed",
+    "amount": 476.28,
+    "meta": {
+      "ext_id": "a1586"
+    }
+  },
+  {
+    "tx_id": "tx_1242",
+    "timestamp": "2024-03-03T07:33:00Z",
+    "user_id": "u141",
+    "status": "completed",
+    "amount": 464.22,
+    "meta": {
+      "ext_id": "a1529"
+    }
+  },
+  {
+    "tx_id": "tx_1369",
+    "timestamp": "2024-03-03T04:34:00Z",
+    "user_id": "u108",
+    "status": "completed",
+    "amount": 443.02,
+    "meta": {
+      "ext_id": "a2416"
+    }
+  },
+  {
+    "tx_id": "tx_1612",
+    "timestamp": "2024-03-03T08:15:00Z",
+    "user_id": "u183",
+    "status": "failed",
+    "amount": 754.03,
+    "meta": {
+      "ext_id": "a4233"
+    }
+  },
+  {
+    "tx_id": "tx_1572",
+    "timestamp": "2024-03-02T06:12:00Z",
+    "user_id": "u222",
+    "status": "failed",
+    "amount": 401.23,
+    "meta": {
+      "ext_id": "a3943"
+    }
+  },
+  {
+    "tx_id": "tx_1621",
+    "timestamp": "2024-03-02T22:45:00Z",
+    "user_id": "u146",
+    "status": "failed",
+    "amount": 467.63,
+    "meta": {
+      "ext_id": "a4293"
+    }
+  },
+  {
+    "tx_id": "tx_1224",
+    "timestamp": "2024-03-02T11:07:00Z",
+    "user_id": "u181",
+    "status": "completed",
+    "amount": 204.42,
+    "meta": {
+      "ext_id": "a1427"
+    }
+  },
+  {
+    "tx_id": "tx_1411",
+    "timestamp": "2024-03-02T19:08:00Z",
+    "user_id": "u212",
+    "status": "completed",
+    "amount": 598.91,
+    "meta": {
+      "ext_id": "a2741"
+    }
+  },
+  {
+    "tx_id": "tx_1885",
+    "timestamp": "2024-03-03T03:07:00Z",
+    "user_id": "u175",
+    "status": "completed",
+    "amount": 473.83,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1618",
+    "timestamp": "2024-03-02T19:20:00Z",
+    "user_id": "u185",
+    "status": "completed",
+    "amount": 364.3,
+    "meta": {
+      "ext_id": "a4267"
+    }
+  },
+  {
+    "tx_id": "tx_1299",
+    "timestamp": "2024-03-01T17:07:00Z",
+    "user_id": "u120",
+    "status": "failed",
+    "amount": 561.04,
+    "meta": {
+      "ext_id": "a1964"
+    }
+  },
+  {
+    "tx_id": "tx_1656",
+    "timestamp": "2024-03-01T08:52:00Z",
+    "user_id": "u133",
+    "status": "completed",
+    "amount": 631.7,
+    "meta": {
+      "ext_id": "a4568"
+    }
+  },
+  {
+    "tx_id": "tx_1510",
+    "timestamp": "2024-03-02T20:40:00Z",
+    "user_id": "u175",
+    "status": "completed",
+    "amount": 236.63,
+    "meta": {
+      "ext_id": "a3482"
+    }
+  },
+  {
+    "tx_id": "tx_1728",
+    "timestamp": "2024-03-02T15:16:00Z",
+    "user_id": "u163",
+    "status": "completed",
+    "amount": 333.39,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1421",
+    "timestamp": "2024-03-02T07:53:00Z",
+    "user_id": "u135",
+    "status": "completed",
+    "amount": 417.83,
+    "meta": {
+      "ext_id": "a2824"
+    }
+  },
+  {
+    "tx_id": "tx_1804",
+    "timestamp": "2024-03-02T01:49:00Z",
+    "user_id": "u233",
+    "status": "completed",
+    "amount": 126.76,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1004",
+    "timestamp": "2024-03-01T19:56:00Z",
+    "user_id": "u273",
+    "status": "completed",
+    "amount": 429.51,
+    "meta": {
+      "ext_id": "a35"
+    }
+  },
+  {
+    "tx_id": "tx_1201",
+    "timestamp": "2024-03-02T04:09:00Z",
+    "user_id": "u276",
+    "status": "completed",
+    "amount": 299.72,
+    "meta": {
+      "ext_id": "a1296"
+    }
+  },
+  {
+    "tx_id": "tx_1762",
+    "timestamp": "2024-03-02T11:52:00Z",
+    "user_id": "u193",
+    "status": "completed",
+    "amount": 429.18,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1105",
+    "timestamp": "2024-03-02T10:14:00Z",
+    "user_id": "u211",
+    "status": "completed",
+    "amount": 322.97,
+    "meta": {
+      "ext_id": "a684"
+    }
+  },
+  {
+    "tx_id": "tx_1180",
+    "timestamp": "2024-03-03T06:09:00Z",
+    "user_id": "u110",
+    "status": "completed",
+    "amount": 401.65,
+    "meta": {
+      "ext_id": "a1146"
+    }
+  },
+  {
+    "tx_id": "tx_1170",
+    "timestamp": "2024-03-03T02:20:00Z",
+    "user_id": "u106",
+    "status": "completed",
+    "amount": 30.82,
+    "meta": {
+      "ext_id": "a1089"
+    }
+  },
+  {
+    "tx_id": "tx_1782",
+    "timestamp": "2024-03-02T10:54:00Z",
+    "user_id": "u138",
+    "status": "failed",
+    "amount": 329.98,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1220",
+    "timestamp": "2024-03-02T07:26:00Z",
+    "user_id": "u231",
+    "status": "completed",
+    "amount": 124.11,
+    "meta": {
+      "ext_id": "a1404"
+    }
+  },
+  {
+    "tx_id": "tx_1493",
+    "timestamp": "2024-03-01T18:49:00Z",
+    "user_id": "u228",
+    "status": "completed",
+    "amount": 583.77,
+    "meta": {
+      "ext_id": "a3383"
+    }
+  },
+  {
+    "tx_id": "tx_1458",
+    "timestamp": "2024-03-03T03:49:00Z",
+    "user_id": "u293",
+    "status": "completed",
+    "amount": 210.49,
+    "meta": {
+      "ext_id": "a3112"
+    }
+  },
+  {
+    "tx_id": "tx_1552",
+    "timestamp": "2024-03-03T06:02:00Z",
+    "user_id": "u282",
+    "status": "completed",
+    "amount": 305.09,
+    "meta": {
+      "ext_id": "a3757"
+    }
+  },
+  {
+    "tx_id": "tx_1577",
+    "timestamp": "2024-03-02T01:45:00Z",
+    "user_id": "u270",
+    "status": "completed",
+    "amount": 792.77,
+    "meta": {
+      "ext_id": "a3981"
+    }
+  },
+  {
+    "tx_id": "tx_1540",
+    "timestamp": "2024-03-02T20:07:00Z",
+    "user_id": "u210",
+    "status": "completed",
+    "amount": 694.3,
+    "meta": {
+      "ext_id": "a3677"
+    }
+  },
+  {
+    "tx_id": "tx_1813",
+    "timestamp": "2024-03-02T19:41:00Z",
+    "user_id": "u188",
+    "status": "completed",
+    "amount": 457.97,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1504",
+    "timestamp": "2024-03-02T08:16:00Z",
+    "user_id": "u300",
+    "status": "completed",
+    "amount": 751.97,
+    "meta": {
+      "ext_id": "a3436"
+    }
+  },
+  {
+    "tx_id": "tx_1455",
+    "timestamp": "2024-03-02T05:17:00Z",
+    "user_id": "u130",
+    "status": "completed",
+    "amount": 581.99,
+    "meta": {
+      "ext_id": "a3098"
+    }
+  },
+  {
+    "tx_id": "tx_1468",
+    "timestamp": "2024-03-02T12:11:00Z",
+    "user_id": "u213",
+    "status": "completed",
+    "amount": 589.31,
+    "meta": {
+      "ext_id": "a3164"
+    }
+  },
+  {
+    "tx_id": "tx_1158",
+    "timestamp": "2024-03-03T04:17:00Z",
+    "user_id": "u217",
+    "status": "completed",
+    "amount": 202.93,
+    "meta": {
+      "ext_id": "a1012"
+    }
+  },
+  {
+    "tx_id": "tx_1739",
+    "timestamp": "2024-03-01T19:02:00Z",
+    "user_id": "u169",
+    "status": "completed",
+    "amount": 187.57,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1203",
+    "timestamp": "2024-03-02T20:27:00Z",
+    "user_id": "u128",
+    "status": "failed",
+    "amount": 729.61,
+    "meta": {
+      "ext_id": "a1303"
+    }
+  },
+  {
+    "tx_id": "tx_1549",
+    "timestamp": "2024-03-01T19:26:00Z",
+    "user_id": "u177",
+    "status": "completed",
+    "amount": 796.98,
+    "meta": {
+      "ext_id": "a3729"
+    }
+  },
+  {
+    "tx_id": "tx_1204",
+    "timestamp": "2024-03-02T03:03:00Z",
+    "user_id": "u148",
+    "status": "completed",
+    "amount": 364.14,
+    "meta": {
+      "ext_id": "a1306"
+    }
+  },
+  {
+    "tx_id": "tx_1428",
+    "timestamp": "2024-03-02T03:06:00Z",
+    "user_id": "u209",
+    "status": "failed",
+    "amount": 794.01,
+    "meta": {
+      "ext_id": "a2887"
+    }
+  },
+  {
+    "tx_id": "tx_1479",
+    "timestamp": "2024-03-02T00:08:00Z",
+    "user_id": "u262",
+    "status": "completed",
+    "amount": 374.44,
+    "meta": {
+      "ext_id": "a3265"
+    }
+  },
+  {
+    "tx_id": "tx_1546",
+    "timestamp": "2024-03-02T08:33:00Z",
+    "user_id": "u181",
+    "status": "completed",
+    "amount": 91.41,
+    "meta": {
+      "ext_id": "a3717"
+    }
+  },
+  {
+    "tx_id": "tx_1435",
+    "timestamp": "2024-03-01T11:49:00Z",
+    "user_id": "u255",
+    "status": "completed",
+    "amount": 132.26,
+    "meta": {
+      "ext_id": "a2953"
+    }
+  },
+  {
+    "tx_id": "tx_1160",
+    "timestamp": "2024-03-01T13:49:00Z",
+    "user_id": "u150",
+    "status": "completed",
+    "amount": 368.13,
+    "meta": {
+      "ext_id": "a1029"
+    }
+  },
+  {
+    "tx_id": "tx_1826",
+    "timestamp": "2024-03-01T13:30:00Z",
+    "user_id": "u246",
+    "status": "completed",
+    "amount": 343.32,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1173",
+    "timestamp": "2024-03-01T19:12:00Z",
+    "user_id": "u122",
+    "status": "completed",
+    "amount": 155.07,
+    "meta": {
+      "ext_id": "a1103"
+    }
+  },
+  {
+    "tx_id": "tx_1588",
+    "timestamp": "2024-03-02T03:45:00Z",
+    "user_id": "u210",
+    "status": "completed",
+    "amount": 753.47,
+    "meta": {
+      "ext_id": "a4051"
+    }
+  },
+  {
+    "tx_id": "tx_1259",
+    "timestamp": "2024-03-02T19:48:00Z",
+    "user_id": "u125",
+    "status": "completed",
+    "amount": 188.65,
+    "meta": {
+      "ext_id": "a1703"
+    }
+  },
+  {
+    "tx_id": "tx_1927",
+    "timestamp": "2024-03-03T03:38:00Z",
+    "user_id": "u295",
+    "status": "failed",
+    "amount": 171.83,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1134",
+    "timestamp": "2024-03-01T20:49:00Z",
+    "user_id": "u191",
+    "status": "completed",
+    "amount": 632.61,
+    "meta": {
+      "ext_id": "a862"
+    }
+  },
+  {
+    "tx_id": "tx_1595",
+    "timestamp": "2024-03-01T20:37:00Z",
+    "user_id": "u192",
+    "status": "completed",
+    "amount": 577.12,
+    "meta": {
+      "ext_id": "a4128"
+    }
+  },
+  {
+    "tx_id": "tx_1605",
+    "timestamp": "2024-03-02T18:04:00Z",
+    "user_id": "u206",
+    "status": "completed",
+    "amount": 538.6,
+    "meta": {
+      "ext_id": "a4204"
+    }
+  },
+  {
+    "tx_id": "tx_1586",
+    "timestamp": "2024-03-01T21:25:00Z",
+    "user_id": "u275",
+    "status": "completed",
+    "amount": 628.97,
+    "meta": {
+      "ext_id": "a4043"
+    }
+  },
+  {
+    "tx_id": "tx_1240",
+    "timestamp": "2024-03-02T18:38:00Z",
+    "user_id": "u217",
+    "status": "completed",
+    "amount": 335.09,
+    "meta": {
+      "ext_id": "a1522"
+    }
+  },
+  {
+    "tx_id": "tx_1807",
+    "timestamp": "2024-03-01T16:27:00Z",
+    "user_id": "u266",
+    "status": "completed",
+    "amount": 375.55,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1457",
+    "timestamp": "2024-03-01T14:43:00Z",
+    "user_id": "u166",
+    "status": "failed",
+    "amount": 738.2,
+    "meta": {
+      "ext_id": "a3109"
+    }
+  },
+  {
+    "tx_id": "tx_1915",
+    "timestamp": "2024-03-02T03:35:00Z",
+    "user_id": "u157",
+    "status": "failed",
+    "amount": 290.21,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1530",
+    "timestamp": "2024-03-03T05:51:00Z",
+    "user_id": "u271",
+    "status": "failed",
+    "amount": 75.16,
+    "meta": {
+      "ext_id": "a3602"
+    }
+  },
+  {
+    "tx_id": "tx_1569",
+    "timestamp": "2024-03-02T10:33:00Z",
+    "user_id": "u197",
+    "status": "completed",
+    "amount": 359.19,
+    "meta": {
+      "ext_id": "a3921"
+    }
+  },
+  {
+    "tx_id": "tx_1483",
+    "timestamp": "2024-03-02T23:50:00Z",
+    "user_id": "u142",
+    "status": "completed",
+    "amount": 577.05,
+    "meta": {
+      "ext_id": "a3314"
+    }
+  },
+  {
+    "tx_id": "tx_1793",
+    "timestamp": "2024-03-02T19:50:00Z",
+    "user_id": "u178",
+    "status": "completed",
+    "amount": 266.53,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1356",
+    "timestamp": "2024-03-03T05:39:00Z",
+    "user_id": "u263",
+    "status": "completed",
+    "amount": 689.33,
+    "meta": {
+      "ext_id": "a2344"
+    }
+  },
+  {
+    "tx_id": "tx_1207",
+    "timestamp": "2024-03-02T02:53:00Z",
+    "user_id": "u155",
+    "status": "completed",
+    "amount": 577.06,
+    "meta": {
+      "ext_id": "a1320"
+    }
+  },
+  {
+    "tx_id": "tx_1296",
+    "timestamp": "2024-03-02T12:20:00Z",
+    "user_id": "u171",
+    "status": "completed",
+    "amount": 591.17,
+    "meta": {
+      "ext_id": "a1946"
+    }
+  },
+  {
+    "tx_id": "tx_1130",
+    "timestamp": "2024-03-03T05:35:00Z",
+    "user_id": "u125",
+    "status": "completed",
+    "amount": 57.66,
+    "meta": {
+      "ext_id": "a842"
+    }
+  },
+  {
+    "tx_id": "tx_1593",
+    "timestamp": "2024-03-02T17:33:00Z",
+    "user_id": "u131",
+    "status": "completed",
+    "amount": 111.36,
+    "meta": {
+      "ext_id": "a4102"
+    }
+  },
+  {
+    "tx_id": "tx_1541",
+    "timestamp": "2024-03-02T03:29:00Z",
+    "user_id": "u202",
+    "status": "completed",
+    "amount": 290.66,
+    "meta": {
+      "ext_id": "a3681"
+    }
+  },
+  {
+    "tx_id": "tx_1044",
+    "timestamp": "2024-03-02T07:55:00Z",
+    "user_id": "u144",
+    "status": "completed",
+    "amount": 90.28,
+    "meta": {
+      "ext_id": "a267"
+    }
+  },
+  {
+    "tx_id": "tx_1529",
+    "timestamp": "2024-03-02T03:30:00Z",
+    "user_id": "u253",
+    "status": "failed",
+    "amount": 164.36,
+    "meta": {
+      "ext_id": "a3597"
+    }
+  },
+  {
+    "tx_id": "tx_1910",
+    "timestamp": "2024-03-01T15:29:00Z",
+    "user_id": "u162",
+    "status": "completed",
+    "amount": 257.36,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1423",
+    "timestamp": "2024-03-01T10:20:00Z",
+    "user_id": "u129",
+    "status": "completed",
+    "amount": 438.43,
+    "meta": {
+      "ext_id": "a2843"
+    }
+  },
+  {
+    "tx_id": "tx_1766",
+    "timestamp": "2024-03-03T04:32:00Z",
+    "user_id": "u199",
+    "status": "completed",
+    "amount": 128.89,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1380",
+    "timestamp": "2024-03-02T07:36:00Z",
+    "user_id": "u211",
+    "status": "completed",
+    "amount": 132.19,
+    "meta": {
+      "ext_id": "a2486"
+    }
+  },
+  {
+    "tx_id": "tx_1828",
+    "timestamp": "2024-03-02T15:31:00Z",
+    "user_id": "u229",
+    "status": "completed",
+    "amount": 577.5,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1884",
+    "timestamp": "2024-03-02T20:24:00Z",
+    "user_id": "u285",
+    "status": "completed",
+    "amount": 98.42,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1817",
+    "timestamp": "2024-03-02T19:06:00Z",
+    "user_id": "u194",
+    "status": "completed",
+    "amount": 352.44,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1400",
+    "timestamp": "2024-03-02T00:58:00Z",
+    "user_id": "u254",
+    "status": "completed",
+    "amount": 74.43,
+    "meta": {
+      "ext_id": "a2648"
+    }
+  },
+  {
+    "tx_id": "tx_1913",
+    "timestamp": "2024-03-02T15:02:00Z",
+    "user_id": "u139",
+    "status": "completed",
+    "amount": 265.17,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1103",
+    "timestamp": "2024-03-01T14:10:00Z",
+    "user_id": "u149",
+    "status": "failed",
+    "amount": 654.11,
+    "meta": {
+      "ext_id": "a657"
+    }
+  },
+  {
+    "tx_id": "tx_1339",
+    "timestamp": "2024-03-01T10:24:00Z",
+    "user_id": "u217",
+    "status": "completed",
+    "amount": 443.01,
+    "meta": {
+      "ext_id": "a2253"
+    }
+  },
+  {
+    "tx_id": "tx_1795",
+    "timestamp": "2024-03-01T20:52:00Z",
+    "user_id": "u196",
+    "status": "failed",
+    "amount": 585.35,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1338",
+    "timestamp": "2024-03-02T12:05:00Z",
+    "user_id": "u192",
+    "status": "failed",
+    "amount": 515.95,
+    "meta": {
+      "ext_id": "a2241"
+    }
+  },
+  {
+    "tx_id": "tx_1742",
+    "timestamp": "2024-03-01T14:52:00Z",
+    "user_id": "u181",
+    "status": "completed",
+    "amount": 132.52,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1225",
+    "timestamp": "2024-03-03T08:24:00Z",
+    "user_id": "u213",
+    "status": "completed",
+    "amount": 461.3,
+    "meta": {
+      "ext_id": "a1433"
+    }
+  },
+  {
+    "tx_id": "tx_1106",
+    "timestamp": "2024-03-02T17:28:00Z",
+    "user_id": "u215",
+    "status": "completed",
+    "amount": 205.12,
+    "meta": {
+      "ext_id": "a687"
+    }
+  },
+  {
+    "tx_id": "tx_1585",
+    "timestamp": "2024-03-02T07:18:00Z",
+    "user_id": "u283",
+    "status": "failed",
+    "amount": 395.71,
+    "meta": {
+      "ext_id": "a4037"
+    }
+  },
+  {
+    "tx_id": "tx_1219",
+    "timestamp": "2024-03-01T22:26:00Z",
+    "user_id": "u171",
+    "status": "completed",
+    "amount": 113.71,
+    "meta": {
+      "ext_id": "a1399"
+    }
+  },
+  {
+    "tx_id": "tx_1433",
+    "timestamp": "2024-03-01T11:06:00Z",
+    "user_id": "u247",
+    "status": "completed",
+    "amount": 645.78,
+    "meta": {
+      "ext_id": "a2929"
+    }
+  },
+  {
+    "tx_id": "tx_1484",
+    "timestamp": "2024-03-03T04:16:00Z",
+    "user_id": "u168",
+    "status": "completed",
+    "amount": 40.12,
+    "meta": {
+      "ext_id": "a3319"
+    }
+  },
+  {
+    "tx_id": "tx_1591",
+    "timestamp": "2024-03-02T07:42:00Z",
+    "user_id": "u179",
+    "status": "completed",
+    "amount": 281.3,
+    "meta": {
+      "ext_id": "a4089"
+    }
+  },
+  {
+    "tx_id": "tx_1051",
+    "timestamp": "2024-03-01T17:28:00Z",
+    "user_id": "u204",
+    "status": "failed",
+    "amount": 243.64,
+    "meta": {
+      "ext_id": "a306"
+    }
+  },
+  {
+    "tx_id": "tx_1606",
+    "timestamp": "2024-03-02T17:08:00Z",
+    "user_id": "u250",
+    "status": "completed",
+    "amount": 406.61,
+    "meta": {
+      "ext_id": "a4207"
+    }
+  },
+  {
+    "tx_id": "tx_1653",
+    "timestamp": "2024-03-01T17:25:00Z",
+    "user_id": "u113",
+    "status": "completed",
+    "amount": 176.99,
+    "meta": {
+      "ext_id": "a4551"
+    }
+  },
+  {
+    "tx_id": "tx_1016",
+    "timestamp": "2024-03-02T23:48:00Z",
+    "user_id": "u103",
+    "status": "failed",
+    "amount": 560.31,
+    "meta": {
+      "ext_id": "a97"
+    }
+  },
+  {
+    "tx_id": "tx_1277",
+    "timestamp": "2024-03-02T08:33:00Z",
+    "user_id": "u294",
+    "status": "completed",
+    "amount": 397.54,
+    "meta": {
+      "ext_id": "a1818"
+    }
+  },
+  {
+    "tx_id": "tx_1463",
+    "timestamp": "2024-03-02T13:59:00Z",
+    "user_id": "u243",
+    "status": "completed",
+    "amount": 515.43,
+    "meta": {
+      "ext_id": "a3146"
+    }
+  },
+  {
+    "tx_id": "tx_1718",
+    "timestamp": "2024-03-01T09:40:00Z",
+    "user_id": "u276",
+    "status": "completed",
+    "amount": 37.02,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1773",
+    "timestamp": "2024-03-03T01:17:00Z",
+    "user_id": "u167",
+    "status": "completed",
+    "amount": 354.41,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1006",
+    "timestamp": "2024-03-01T09:08:00Z",
+    "user_id": "u234",
+    "status": "completed",
+    "amount": 431.08,
+    "meta": {
+      "ext_id": "a48"
+    }
+  },
+  {
+    "tx_id": "tx_1090",
+    "timestamp": "2024-03-02T03:57:00Z",
+    "user_id": "u117",
+    "status": "completed",
+    "amount": 360.21,
+    "meta": {
+      "ext_id": "a574"
+    }
+  },
+  {
+    "tx_id": "tx_1494",
+    "timestamp": "2024-03-02T20:56:00Z",
+    "user_id": "u254",
+    "status": "failed",
+    "amount": 151.87,
+    "meta": {
+      "ext_id": "a3386"
+    }
+  },
+  {
+    "tx_id": "tx_1168",
+    "timestamp": "2024-03-03T08:18:00Z",
+    "user_id": "u173",
+    "status": "completed",
+    "amount": 206.06,
+    "meta": {
+      "ext_id": "a1082"
+    }
+  },
+  {
+    "tx_id": "tx_1542",
+    "timestamp": "2024-03-01T19:52:00Z",
+    "user_id": "u285",
+    "status": "completed",
+    "amount": 365.6,
+    "meta": {
+      "ext_id": "a3687"
+    }
+  },
+  {
+    "tx_id": "tx_1402",
+    "timestamp": "2024-03-01T19:30:00Z",
+    "user_id": "u281",
+    "status": "completed",
+    "amount": 503.06,
+    "meta": {
+      "ext_id": "a2665"
+    }
+  },
+  {
+    "tx_id": "tx_1043",
+    "timestamp": "2024-03-02T20:14:00Z",
+    "user_id": "u133",
+    "status": "failed",
+    "amount": 540.15,
+    "meta": {
+      "ext_id": "a262"
+    }
+  },
+  {
+    "tx_id": "tx_1487",
+    "timestamp": "2024-03-02T07:24:00Z",
+    "user_id": "u116",
+    "status": "completed",
+    "amount": 489.54,
+    "meta": {
+      "ext_id": "a3332"
+    }
+  },
+  {
+    "tx_id": "tx_1205",
+    "timestamp": "2024-03-03T07:22:00Z",
+    "user_id": "u234",
+    "status": "completed",
+    "amount": 144.9,
+    "meta": {
+      "ext_id": "a1312"
+    }
+  },
+  {
+    "tx_id": "tx_1689",
+    "timestamp": "2024-03-02T08:45:00Z",
+    "user_id": "u239",
+    "status": "completed",
+    "amount": 432.66,
+    "meta": {
+      "ext_id": "a4813"
+    }
+  },
+  {
+    "tx_id": "tx_1298",
+    "timestamp": "2024-03-02T19:55:00Z",
+    "user_id": "u266",
+    "status": "completed",
+    "amount": 390.34,
+    "meta": {
+      "ext_id": "a1956"
+    }
+  },
+  {
+    "tx_id": "tx_1451",
+    "timestamp": "2024-03-02T14:09:00Z",
+    "user_id": "u186",
+    "status": "completed",
+    "amount": 23.02,
+    "meta": {
+      "ext_id": "a3074"
+    }
+  },
+  {
+    "tx_id": "tx_1015",
+    "timestamp": "2024-03-02T14:02:00Z",
+    "user_id": "u110",
+    "status": "completed",
+    "amount": 739.27,
+    "meta": {
+      "ext_id": "a94"
+    }
+  },
+  {
+    "tx_id": "tx_1649",
+    "timestamp": "2024-03-01T11:30:00Z",
+    "user_id": "u214",
+    "status": "completed",
+    "amount": 189.22,
+    "meta": {
+      "ext_id": "a4515"
+    }
+  },
+  {
+    "tx_id": "tx_1188",
+    "timestamp": "2024-03-01T10:12:00Z",
+    "user_id": "u118",
+    "status": "completed",
+    "amount": 258.27,
+    "meta": {
+      "ext_id": "a1201"
+    }
+  },
+  {
+    "tx_id": "tx_1001",
+    "timestamp": "2024-03-02T14:39:00Z",
+    "user_id": "u203",
+    "status": "completed",
+    "amount": 553.43,
+    "meta": {
+      "ext_id": "a20"
+    }
+  },
+  {
+    "tx_id": "tx_1880",
+    "timestamp": "2024-03-01T18:16:00Z",
+    "user_id": "u161",
+    "status": "completed",
+    "amount": 36.28,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1781",
+    "timestamp": "2024-03-02T17:54:00Z",
+    "user_id": "u113",
+    "status": "completed",
+    "amount": 549.42,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1596",
+    "timestamp": "2024-03-02T14:21:00Z",
+    "user_id": "u224",
+    "status": "completed",
+    "amount": 227.2,
+    "meta": {
+      "ext_id": "a4137"
+    }
+  },
+  {
+    "tx_id": "tx_1052",
+    "timestamp": "2024-03-02T11:05:00Z",
+    "user_id": "u260",
+    "status": "completed",
+    "amount": 423.12,
+    "meta": {
+      "ext_id": "a309"
+    }
+  },
+  {
+    "tx_id": "tx_1320",
+    "timestamp": "2024-03-01T22:29:00Z",
+    "user_id": "u239",
+    "status": "completed",
+    "amount": 773.62,
+    "meta": {
+      "ext_id": "a2116"
+    }
+  },
+  {
+    "tx_id": "tx_1368",
+    "timestamp": "2024-03-01T15:52:00Z",
+    "user_id": "u291",
+    "status": "completed",
+    "amount": 262.57,
+    "meta": {
+      "ext_id": "a2410"
+    }
+  },
+  {
+    "tx_id": "tx_1430",
+    "timestamp": "2024-03-02T09:47:00Z",
+    "user_id": "u146",
+    "status": "completed",
+    "amount": 405.36,
+    "meta": {
+      "ext_id": "a2900"
+    }
+  },
+  {
+    "tx_id": "tx_1734",
+    "timestamp": "2024-03-02T00:31:00Z",
+    "user_id": "u107",
+    "status": "failed",
+    "amount": 109.59,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1349",
+    "timestamp": "2024-03-02T00:13:00Z",
+    "user_id": "u213",
+    "status": "completed",
+    "amount": 647.79,
+    "meta": {
+      "ext_id": "a2301"
+    }
+  },
+  {
+    "tx_id": "tx_1141",
+    "timestamp": "2024-03-02T02:05:00Z",
+    "user_id": "u125",
+    "status": "completed",
+    "amount": 159.12,
+    "meta": {
+      "ext_id": "a891"
+    }
+  },
+  {
+    "tx_id": "tx_1365",
+    "timestamp": "2024-03-02T18:48:00Z",
+    "user_id": "u276",
+    "status": "completed",
+    "amount": 346.81,
+    "meta": {
+      "ext_id": "a2394"
+    }
+  },
+  {
+    "tx_id": "tx_1768",
+    "timestamp": "2024-03-03T04:36:00Z",
+    "user_id": "u168",
+    "status": "completed",
+    "amount": 35.69,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1165",
+    "timestamp": "2024-03-03T04:22:00Z",
+    "user_id": "u256",
+    "status": "completed",
+    "amount": 128.26,
+    "meta": {
+      "ext_id": "a1067"
+    }
+  },
+  {
+    "tx_id": "tx_1081",
+    "timestamp": "2024-03-02T18:08:00Z",
+    "user_id": "u235",
+    "status": "completed",
+    "amount": 99.9,
+    "meta": {
+      "ext_id": "a505"
+    }
+  },
+  {
+    "tx_id": "tx_1378",
+    "timestamp": "2024-03-03T02:37:00Z",
+    "user_id": "u264",
+    "status": "completed",
+    "amount": 317.82,
+    "meta": {
+      "ext_id": "a2478"
+    }
+  },
+  {
+    "tx_id": "tx_1779",
+    "timestamp": "2024-03-02T18:12:00Z",
+    "user_id": "u271",
+    "status": "completed",
+    "amount": 509.63,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1907",
+    "timestamp": "2024-03-02T20:09:00Z",
+    "user_id": "u212",
+    "status": "completed",
+    "amount": 469.2,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1827",
+    "timestamp": "2024-03-01T15:17:00Z",
+    "user_id": "u136",
+    "status": "completed",
+    "amount": 341.35,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1921",
+    "timestamp": "2024-03-01T08:41:00Z",
+    "user_id": "u250",
+    "status": "completed",
+    "amount": 450.09,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1359",
+    "timestamp": "2024-03-02T15:16:00Z",
+    "user_id": "u236",
+    "status": "completed",
+    "amount": 284.96,
+    "meta": {
+      "ext_id": "a2359"
+    }
+  },
+  {
+    "tx_id": "tx_1388",
+    "timestamp": "2024-03-01T11:59:00Z",
+    "user_id": "u119",
+    "status": "completed",
+    "amount": 52.78,
+    "meta": {
+      "ext_id": "a2544"
+    }
+  },
+  {
+    "tx_id": "tx_1292",
+    "timestamp": "2024-03-02T21:10:00Z",
+    "user_id": "u178",
+    "status": "completed",
+    "amount": 439.07,
+    "meta": {
+      "ext_id": "a1927"
+    }
+  },
+  {
+    "tx_id": "tx_1877",
+    "timestamp": "2024-03-02T22:08:00Z",
+    "user_id": "u124",
+    "status": "completed",
+    "amount": 446.38,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1073",
+    "timestamp": "2024-03-01T20:02:00Z",
+    "user_id": "u213",
+    "status": "completed",
+    "amount": 533.16,
+    "meta": {
+      "ext_id": "a452"
+    }
+  },
+  {
+    "tx_id": "tx_1399",
+    "timestamp": "2024-03-02T16:36:00Z",
+    "user_id": "u220",
+    "status": "failed",
+    "amount": 546.66,
+    "meta": {
+      "ext_id": "a2641"
+    }
+  },
+  {
+    "tx_id": "tx_1774",
+    "timestamp": "2024-03-02T01:08:00Z",
+    "user_id": "u299",
+    "status": "completed",
+    "amount": 248.92,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1704",
+    "timestamp": "2024-03-02T18:57:00Z",
+    "user_id": "u221",
+    "status": "completed",
+    "amount": 49.25,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1352",
+    "timestamp": "2024-03-01T12:59:00Z",
+    "user_id": "u227",
+    "status": "completed",
+    "amount": 246.55,
+    "meta": {
+      "ext_id": "a2321"
+    }
+  },
+  {
+    "tx_id": "tx_1845",
+    "timestamp": "2024-03-02T23:59:00Z",
+    "user_id": "u247",
+    "status": "failed",
+    "amount": 260.72,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1714",
+    "timestamp": "2024-03-01T15:44:00Z",
+    "user_id": "u265",
+    "status": "completed",
+    "amount": 255.28,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1055",
+    "timestamp": "2024-03-02T04:06:00Z",
+    "user_id": "u277",
+    "status": "completed",
+    "amount": 76.49,
+    "meta": {
+      "ext_id": "a332"
+    }
+  },
+  {
+    "tx_id": "tx_1343",
+    "timestamp": "2024-03-01T22:51:00Z",
+    "user_id": "u167",
+    "status": "completed",
+    "amount": 129.39,
+    "meta": {
+      "ext_id": "a2269"
+    }
+  },
+  {
+    "tx_id": "tx_1031",
+    "timestamp": "2024-03-03T03:20:00Z",
+    "user_id": "u224",
+    "status": "completed",
+    "amount": 448.24,
+    "meta": {
+      "ext_id": "a186"
+    }
+  },
+  {
+    "tx_id": "tx_1472",
+    "timestamp": "2024-03-01T21:46:00Z",
+    "user_id": "u295",
+    "status": "failed",
+    "amount": 506.95,
+    "meta": {
+      "ext_id": "a3196"
+    }
+  },
+  {
+    "tx_id": "tx_1713",
+    "timestamp": "2024-03-02T19:15:00Z",
+    "user_id": "u260",
+    "status": "completed",
+    "amount": 516.32,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1321",
+    "timestamp": "2024-03-01T21:59:00Z",
+    "user_id": "u193",
+    "status": "completed",
+    "amount": 318.96,
+    "meta": {
+      "ext_id": "a2119"
+    }
+  },
+  {
+    "tx_id": "tx_1152",
+    "timestamp": "2024-03-01T09:29:00Z",
+    "user_id": "u255",
+    "status": "completed",
+    "amount": 138.58,
+    "meta": {
+      "ext_id": "a971"
+    }
+  },
+  {
+    "tx_id": "tx_1253",
+    "timestamp": "2024-03-01T23:22:00Z",
+    "user_id": "u251",
+    "status": "completed",
+    "amount": 87.47,
+    "meta": {
+      "ext_id": "a1623"
+    }
+  },
+  {
+    "tx_id": "tx_1488",
+    "timestamp": "2024-03-02T04:36:00Z",
+    "user_id": "u160",
+    "status": "completed",
+    "amount": 206.62,
+    "meta": {
+      "ext_id": "a3335"
+    }
+  },
+  {
+    "tx_id": "tx_1199",
+    "timestamp": "2024-03-03T08:14:00Z",
+    "user_id": "u167",
+    "status": "failed",
+    "amount": 516.52,
+    "meta": {
+      "ext_id": "a1290"
+    }
+  },
+  {
+    "tx_id": "tx_1306",
+    "timestamp": "2024-03-02T16:41:00Z",
+    "user_id": "u272",
+    "status": "completed",
+    "amount": 467.29,
+    "meta": {
+      "ext_id": "a2011"
+    }
+  },
+  {
+    "tx_id": "tx_1837",
+    "timestamp": "2024-03-02T10:50:00Z",
+    "user_id": "u248",
+    "status": "completed",
+    "amount": 399.01,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1898",
+    "timestamp": "2024-03-01T10:48:00Z",
+    "user_id": "u194",
+    "status": "completed",
+    "amount": 315.77,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1681",
+    "timestamp": "2024-03-02T13:27:00Z",
+    "user_id": "u133",
+    "status": "completed",
+    "amount": 234.57,
+    "meta": {
+      "ext_id": "a4768"
+    }
+  },
+  {
+    "tx_id": "tx_1671",
+    "timestamp": "2024-03-01T17:07:00Z",
+    "user_id": "u239",
+    "status": "completed",
+    "amount": 247.16,
+    "meta": {
+      "ext_id": "a4681"
+    }
+  },
+  {
+    "tx_id": "tx_1185",
+    "timestamp": "2024-03-03T03:51:00Z",
+    "user_id": "u189",
+    "status": "completed",
+    "amount": 354.18,
+    "meta": {
+      "ext_id": "a1181"
+    }
+  },
+  {
+    "tx_id": "tx_1473",
+    "timestamp": "2024-03-01T17:27:00Z",
+    "user_id": "u296",
+    "status": "completed",
+    "amount": 46.91,
+    "meta": {
+      "ext_id": "a3202"
+    }
+  },
+  {
+    "tx_id": "tx_1699",
+    "timestamp": "2024-03-02T21:36:00Z",
+    "user_id": "u123",
+    "status": "completed",
+    "amount": 641.43,
+    "meta": {
+      "ext_id": "a4877"
+    }
+  },
+  {
+    "tx_id": "tx_1096",
+    "timestamp": "2024-03-02T12:34:00Z",
+    "user_id": "u253",
+    "status": "completed",
+    "amount": 191.57,
+    "meta": {
+      "ext_id": "a617"
+    }
+  },
+  {
+    "tx_id": "tx_1413",
+    "timestamp": "2024-03-02T04:57:00Z",
+    "user_id": "u270",
+    "status": "failed",
+    "amount": 12.12,
+    "meta": {
+      "ext_id": "a2753"
+    }
+  },
+  {
+    "tx_id": "tx_1920",
+    "timestamp": "2024-03-02T16:40:00Z",
+    "user_id": "u237",
+    "status": "failed",
+    "amount": 290.68,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1911",
+    "timestamp": "2024-03-01T21:50:00Z",
+    "user_id": "u188",
+    "status": "completed",
+    "amount": 127.2,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1128",
+    "timestamp": "2024-03-02T09:02:00Z",
+    "user_id": "u262",
+    "status": "completed",
+    "amount": 582.68,
+    "meta": {
+      "ext_id": "a831"
+    }
+  },
+  {
+    "tx_id": "tx_1617",
+    "timestamp": "2024-03-02T13:08:00Z",
+    "user_id": "u263",
+    "status": "completed",
+    "amount": 13.18,
+    "meta": {
+      "ext_id": "a4263"
+    }
+  },
+  {
+    "tx_id": "tx_1705",
+    "timestamp": "2024-03-02T20:06:00Z",
+    "user_id": "u169",
+    "status": "completed",
+    "amount": 80.7,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1535",
+    "timestamp": "2024-03-02T05:03:00Z",
+    "user_id": "u238",
+    "status": "completed",
+    "amount": 191.18,
+    "meta": {
+      "ext_id": "a3647"
+    }
+  },
+  {
+    "tx_id": "tx_1652",
+    "timestamp": "2024-03-01T20:52:00Z",
+    "user_id": "u184",
+    "status": "completed",
+    "amount": 100.62,
+    "meta": {
+      "ext_id": "a4541"
+    }
+  },
+  {
+    "tx_id": "tx_1502",
+    "timestamp": "2024-03-02T03:20:00Z",
+    "user_id": "u281",
+    "status": "completed",
+    "amount": 61.41,
+    "meta": {
+      "ext_id": "a3430"
+    }
+  },
+  {
+    "tx_id": "tx_1140",
+    "timestamp": "2024-03-02T14:43:00Z",
+    "user_id": "u136",
+    "status": "completed",
+    "amount": 111.28,
+    "meta": {
+      "ext_id": "a884"
+    }
+  },
+  {
+    "tx_id": "tx_1226",
+    "timestamp": "2024-03-01T13:54:00Z",
+    "user_id": "u140",
+    "status": "completed",
+    "amount": 644.3,
+    "meta": {
+      "ext_id": "a1440"
+    }
+  },
+  {
+    "tx_id": "tx_1867",
+    "timestamp": "2024-03-01T09:56:00Z",
+    "user_id": "u171",
+    "status": "failed",
+    "amount": 313.82,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1441",
+    "timestamp": "2024-03-03T04:19:00Z",
+    "user_id": "u160",
+    "status": "completed",
+    "amount": 493.89,
+    "meta": {
+      "ext_id": "a2994"
+    }
+  },
+  {
+    "tx_id": "tx_1778",
+    "timestamp": "2024-03-01T21:09:00Z",
+    "user_id": "u248",
+    "status": "completed",
+    "amount": 205.54,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1670",
+    "timestamp": "2024-03-01T14:39:00Z",
+    "user_id": "u178",
+    "status": "completed",
+    "amount": 403.31,
+    "meta": {
+      "ext_id": "a4654"
+    }
+  },
+  {
+    "tx_id": "tx_1370",
+    "timestamp": "2024-03-03T00:25:00Z",
+    "user_id": "u133",
+    "status": "failed",
+    "amount": 60.09,
+    "meta": {
+      "ext_id": "a2423"
+    }
+  },
+  {
+    "tx_id": "tx_1843",
+    "timestamp": "2024-03-01T11:32:00Z",
+    "user_id": "u192",
+    "status": "failed",
+    "amount": 499.16,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1561",
+    "timestamp": "2024-03-02T13:33:00Z",
+    "user_id": "u148",
+    "status": "completed",
+    "amount": 615.63,
+    "meta": {
+      "ext_id": "a3832"
+    }
+  },
+  {
+    "tx_id": "tx_1897",
+    "timestamp": "2024-03-03T02:07:00Z",
+    "user_id": "u258",
+    "status": "completed",
+    "amount": 495.07,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1415",
+    "timestamp": "2024-03-02T23:31:00Z",
+    "user_id": "u246",
+    "status": "failed",
+    "amount": 701.79,
+    "meta": {
+      "ext_id": "a2763"
+    }
+  },
+  {
+    "tx_id": "tx_1465",
+    "timestamp": "2024-03-02T15:04:00Z",
+    "user_id": "u131",
+    "status": "completed",
+    "amount": 391.51,
+    "meta": {
+      "ext_id": "a3152"
+    }
+  },
+  {
+    "tx_id": "tx_1570",
+    "timestamp": "2024-03-03T03:14:00Z",
+    "user_id": "u258",
+    "status": "completed",
+    "amount": 785.25,
+    "meta": {
+      "ext_id": "a3929"
+    }
+  },
+  {
+    "tx_id": "tx_1080",
+    "timestamp": "2024-03-02T05:53:00Z",
+    "user_id": "u204",
+    "status": "completed",
+    "amount": 24.75,
+    "meta": {
+      "ext_id": "a502"
+    }
+  },
+  {
+    "tx_id": "tx_1492",
+    "timestamp": "2024-03-02T06:37:00Z",
+    "user_id": "u140",
+    "status": "completed",
+    "amount": 616.78,
+    "meta": {
+      "ext_id": "a3378"
+    }
+  },
+  {
+    "tx_id": "tx_1847",
+    "timestamp": "2024-03-03T04:19:00Z",
+    "user_id": "u167",
+    "status": "completed",
+    "amount": 530.88,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1604",
+    "timestamp": "2024-03-03T08:00:00Z",
+    "user_id": "u193",
+    "status": "completed",
+    "amount": 726.02,
+    "meta": {
+      "ext_id": "a4196"
+    }
+  },
+  {
+    "tx_id": "tx_1330",
+    "timestamp": "2024-03-01T11:52:00Z",
+    "user_id": "u192",
+    "status": "completed",
+    "amount": 239.7,
+    "meta": {
+      "ext_id": "a2181"
+    }
+  },
+  {
+    "tx_id": "tx_1114",
+    "timestamp": "2024-03-03T08:10:00Z",
+    "user_id": "u208",
+    "status": "completed",
+    "amount": 318.64,
+    "meta": {
+      "ext_id": "a749"
+    }
+  },
+  {
+    "tx_id": "tx_1235",
+    "timestamp": "2024-03-01T17:06:00Z",
+    "user_id": "u115",
+    "status": "failed",
+    "amount": 502.44,
+    "meta": {
+      "ext_id": "a1486"
+    }
+  },
+  {
+    "tx_id": "tx_1301",
+    "timestamp": "2024-03-03T00:54:00Z",
+    "user_id": "u257",
+    "status": "completed",
+    "amount": 321.66,
+    "meta": {
+      "ext_id": "a1986"
+    }
+  },
+  {
+    "tx_id": "tx_1648",
+    "timestamp": "2024-03-03T04:26:00Z",
+    "user_id": "u178",
+    "status": "completed",
+    "amount": 748.35,
+    "meta": {
+      "ext_id": "a4510"
+    }
+  },
+  {
+    "tx_id": "tx_1208",
+    "timestamp": "2024-03-03T03:00:00Z",
+    "user_id": "u208",
+    "status": "completed",
+    "amount": 244.14,
+    "meta": {
+      "ext_id": "a1323"
+    }
+  },
+  {
+    "tx_id": "tx_1017",
+    "timestamp": "2024-03-01T09:25:00Z",
+    "user_id": "u198",
+    "status": "completed",
+    "amount": 148.99,
+    "meta": {
+      "ext_id": "a102"
+    }
+  },
+  {
+    "tx_id": "tx_1312",
+    "timestamp": "2024-03-02T20:45:00Z",
+    "user_id": "u295",
+    "status": "completed",
+    "amount": 579.13,
+    "meta": {
+      "ext_id": "a2067"
+    }
+  },
+  {
+    "tx_id": "tx_1678",
+    "timestamp": "2024-03-02T12:25:00Z",
+    "user_id": "u213",
+    "status": "completed",
+    "amount": 295.16,
+    "meta": {
+      "ext_id": "a4746"
+    }
+  },
+  {
+    "tx_id": "tx_1563",
+    "timestamp": "2024-03-01T18:27:00Z",
+    "user_id": "u126",
+    "status": "completed",
+    "amount": 348.31,
+    "meta": {
+      "ext_id": "a3847"
+    }
+  },
+  {
+    "tx_id": "tx_1175",
+    "timestamp": "2024-03-02T19:45:00Z",
+    "user_id": "u174",
+    "status": "completed",
+    "amount": 622.29,
+    "meta": {
+      "ext_id": "a1117"
+    }
+  },
+  {
+    "tx_id": "tx_1476",
+    "timestamp": "2024-03-02T23:26:00Z",
+    "user_id": "u128",
+    "status": "completed",
+    "amount": 354.17,
+    "meta": {
+      "ext_id": "a3224"
+    }
+  },
+  {
+    "tx_id": "tx_1558",
+    "timestamp": "2024-03-01T16:55:00Z",
+    "user_id": "u155",
+    "status": "completed",
+    "amount": 418.62,
+    "meta": {
+      "ext_id": "a3807"
+    }
+  },
+  {
+    "tx_id": "tx_1521",
+    "timestamp": "2024-03-02T19:38:00Z",
+    "user_id": "u234",
+    "status": "failed",
+    "amount": 545.69,
+    "meta": {
+      "ext_id": "a3556"
+    }
+  },
+  {
+    "tx_id": "tx_1626",
+    "timestamp": "2024-03-01T12:04:00Z",
+    "user_id": "u166",
+    "status": "completed",
+    "amount": 443.13,
+    "meta": {
+      "ext_id": "a4328"
+    }
+  },
+  {
+    "tx_id": "tx_1395",
+    "timestamp": "2024-03-02T11:21:00Z",
+    "user_id": "u284",
+    "status": "completed",
+    "amount": 432.87,
+    "meta": {
+      "ext_id": "a2601"
+    }
+  },
+  {
+    "tx_id": "tx_1727",
+    "timestamp": "2024-03-03T00:10:00Z",
+    "user_id": "u165",
+    "status": "failed",
+    "amount": 269.15,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1089",
+    "timestamp": "2024-03-01T16:10:00Z",
+    "user_id": "u157",
+    "status": "completed",
+    "amount": 155.4,
+    "meta": {
+      "ext_id": "a558"
+    }
+  },
+  {
+    "tx_id": "tx_1895",
+    "timestamp": "2024-03-01T11:16:00Z",
+    "user_id": "u242",
+    "status": "completed",
+    "amount": 245.52,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1270",
+    "timestamp": "2024-03-02T02:30:00Z",
+    "user_id": "u300",
+    "status": "completed",
+    "amount": 703.39,
+    "meta": {
+      "ext_id": "a1767"
+    }
+  },
+  {
+    "tx_id": "tx_1436",
+    "timestamp": "2024-03-01T23:37:00Z",
+    "user_id": "u125",
+    "status": "completed",
+    "amount": 79.05,
+    "meta": {
+      "ext_id": "a2956"
+    }
+  },
+  {
+    "tx_id": "tx_1589",
+    "timestamp": "2024-03-03T07:19:00Z",
+    "user_id": "u266",
+    "status": "completed",
+    "amount": 453.84,
+    "meta": {
+      "ext_id": "a4070"
+    }
+  },
+  {
+    "tx_id": "tx_1302",
+    "timestamp": "2024-03-01T21:36:00Z",
+    "user_id": "u282",
+    "status": "completed",
+    "amount": 209.34,
+    "meta": {
+      "ext_id": "a1991"
+    }
+  },
+  {
+    "tx_id": "tx_1536",
+    "timestamp": "2024-03-01T23:43:00Z",
+    "user_id": "u132",
+    "status": "completed",
+    "amount": 478.44,
+    "meta": {
+      "ext_id": "a3651"
+    }
+  },
+  {
+    "tx_id": "tx_1503",
+    "timestamp": "2024-03-02T09:44:00Z",
+    "user_id": "u232",
+    "status": "completed",
+    "amount": 694.18,
+    "meta": {
+      "ext_id": "a3433"
+    }
+  },
+  {
+    "tx_id": "tx_1283",
+    "timestamp": "2024-03-02T22:40:00Z",
+    "user_id": "u153",
+    "status": "completed",
+    "amount": 541.03,
+    "meta": {
+      "ext_id": "a1866"
+    }
+  },
+  {
+    "tx_id": "tx_1213",
+    "timestamp": "2024-03-03T02:15:00Z",
+    "user_id": "u144",
+    "status": "completed",
+    "amount": 616.67,
+    "meta": {
+      "ext_id": "a1355"
+    }
+  },
+  {
+    "tx_id": "tx_1076",
+    "timestamp": "2024-03-02T00:56:00Z",
+    "user_id": "u272",
+    "status": "completed",
+    "amount": 76.35,
+    "meta": {
+      "ext_id": "a468"
+    }
+  },
+  {
+    "tx_id": "tx_1922",
+    "timestamp": "2024-03-01T21:49:00Z",
+    "user_id": "u262",
+    "status": "failed",
+    "amount": 429.16,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1769",
+    "timestamp": "2024-03-01T18:49:00Z",
+    "user_id": "u140",
+    "status": "completed",
+    "amount": 201.0,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1374",
+    "timestamp": "2024-03-02T02:01:00Z",
+    "user_id": "u197",
+    "status": "completed",
+    "amount": 768.68,
+    "meta": {
+      "ext_id": "a2449"
+    }
+  },
+  {
+    "tx_id": "tx_1809",
+    "timestamp": "2024-03-02T20:34:00Z",
+    "user_id": "u196",
+    "status": "completed",
+    "amount": 23.76,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1594",
+    "timestamp": "2024-03-02T00:13:00Z",
+    "user_id": "u125",
+    "status": "completed",
+    "amount": 86.11,
+    "meta": {
+      "ext_id": "a4115"
+    }
+  },
+  {
+    "tx_id": "tx_1228",
+    "timestamp": "2024-03-02T09:23:00Z",
+    "user_id": "u184",
+    "status": "completed",
+    "amount": 674.77,
+    "meta": {
+      "ext_id": "a1455"
+    }
+  },
+  {
+    "tx_id": "tx_1842",
+    "timestamp": "2024-03-02T23:44:00Z",
+    "user_id": "u156",
+    "status": "failed",
+    "amount": 375.41,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1412",
+    "timestamp": "2024-03-01T23:43:00Z",
+    "user_id": "u188",
+    "status": "completed",
+    "amount": 372.38,
+    "meta": {
+      "ext_id": "a2744"
+    }
+  },
+  {
+    "tx_id": "tx_1886",
+    "timestamp": "2024-03-01T11:30:00Z",
+    "user_id": "u299",
+    "status": "completed",
+    "amount": 521.37,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1426",
+    "timestamp": "2024-03-02T01:19:00Z",
+    "user_id": "u236",
+    "status": "completed",
+    "amount": 215.55,
+    "meta": {
+      "ext_id": "a2877"
+    }
+  },
+  {
+    "tx_id": "tx_1029",
+    "timestamp": "2024-03-01T08:41:00Z",
+    "user_id": "u284",
+    "status": "completed",
+    "amount": 109.21,
+    "meta": {
+      "ext_id": "a170"
+    }
+  },
+  {
+    "tx_id": "tx_1887",
+    "timestamp": "2024-03-03T01:38:00Z",
+    "user_id": "u214",
+    "status": "failed",
+    "amount": 523.7,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1489",
+    "timestamp": "2024-03-02T12:19:00Z",
+    "user_id": "u264",
+    "status": "completed",
+    "amount": 227.82,
+    "meta": {
+      "ext_id": "a3341"
+    }
+  },
+  {
+    "tx_id": "tx_1102",
+    "timestamp": "2024-03-02T03:15:00Z",
+    "user_id": "u128",
+    "status": "completed",
+    "amount": 144.6,
+    "meta": {
+      "ext_id": "a652"
+    }
+  },
+  {
+    "tx_id": "tx_1064",
+    "timestamp": "2024-03-01T16:45:00Z",
+    "user_id": "u213",
+    "status": "completed",
+    "amount": 215.66,
+    "meta": {
+      "ext_id": "a391"
+    }
+  },
+  {
+    "tx_id": "tx_1087",
+    "timestamp": "2024-03-01T09:11:00Z",
+    "user_id": "u295",
+    "status": "completed",
+    "amount": 305.63,
+    "meta": {
+      "ext_id": "a543"
+    }
+  },
+  {
+    "tx_id": "tx_1582",
+    "timestamp": "2024-03-03T00:33:00Z",
+    "user_id": "u272",
+    "status": "completed",
+    "amount": 646.39,
+    "meta": {
+      "ext_id": "a4006"
+    }
+  },
+  {
+    "tx_id": "tx_1304",
+    "timestamp": "2024-03-02T03:47:00Z",
+    "user_id": "u258",
+    "status": "completed",
+    "amount": 405.55,
+    "meta": {
+      "ext_id": "a2004"
+    }
+  },
+  {
+    "tx_id": "tx_1392",
+    "timestamp": "2024-03-03T01:27:00Z",
+    "user_id": "u189",
+    "status": "failed",
+    "amount": 196.99,
+    "meta": {
+      "ext_id": "a2578"
+    }
+  },
+  {
+    "tx_id": "tx_1449",
+    "timestamp": "2024-03-02T01:06:00Z",
+    "user_id": "u289",
+    "status": "completed",
+    "amount": 82.05,
+    "meta": {
+      "ext_id": "a3049"
+    }
+  },
+  {
+    "tx_id": "tx_1366",
+    "timestamp": "2024-03-02T01:30:00Z",
+    "user_id": "u296",
+    "status": "failed",
+    "amount": 283.36,
+    "meta": {
+      "ext_id": "a2400"
+    }
+  },
+  {
+    "tx_id": "tx_1174",
+    "timestamp": "2024-03-02T21:25:00Z",
+    "user_id": "u110",
+    "status": "completed",
+    "amount": 693.46,
+    "meta": {
+      "ext_id": "a1109"
+    }
+  },
+  {
+    "tx_id": "tx_1377",
+    "timestamp": "2024-03-02T04:28:00Z",
+    "user_id": "u191",
+    "status": "completed",
+    "amount": 17.08,
+    "meta": {
+      "ext_id": "a2471"
+    }
+  },
+  {
+    "tx_id": "tx_1319",
+    "timestamp": "2024-03-03T06:48:00Z",
+    "user_id": "u222",
+    "status": "completed",
+    "amount": 349.34,
+    "meta": {
+      "ext_id": "a2112"
+    }
+  },
+  {
+    "tx_id": "tx_1112",
+    "timestamp": "2024-03-02T08:45:00Z",
+    "user_id": "u222",
+    "status": "completed",
+    "amount": 164.57,
+    "meta": {
+      "ext_id": "a729"
+    }
+  },
+  {
+    "tx_id": "tx_1126",
+    "timestamp": "2024-03-03T05:41:00Z",
+    "user_id": "u242",
+    "status": "completed",
+    "amount": 552.85,
+    "meta": {
+      "ext_id": "a819"
+    }
+  },
+  {
+    "tx_id": "tx_1196",
+    "timestamp": "2024-03-01T08:55:00Z",
+    "user_id": "u212",
+    "status": "completed",
+    "amount": 331.5,
+    "meta": {
+      "ext_id": "a1270"
+    }
+  },
+  {
+    "tx_id": "tx_1010",
+    "timestamp": "2024-03-03T01:46:00Z",
+    "user_id": "u258",
+    "status": "completed",
+    "amount": 151.86,
+    "meta": {
+      "ext_id": "a62"
+    }
+  },
+  {
+    "tx_id": "tx_1021",
+    "timestamp": "2024-03-03T01:48:00Z",
+    "user_id": "u109",
+    "status": "completed",
+    "amount": 678.37,
+    "meta": {
+      "ext_id": "a126"
+    }
+  },
+  {
+    "tx_id": "tx_1432",
+    "timestamp": "2024-03-02T11:12:00Z",
+    "user_id": "u184",
+    "status": "failed",
+    "amount": 273.04,
+    "meta": {
+      "ext_id": "a2926"
+    }
+  },
+  {
+    "tx_id": "tx_1587",
+    "timestamp": "2024-03-01T19:23:00Z",
+    "user_id": "u137",
+    "status": "completed",
+    "amount": 386.76,
+    "meta": {
+      "ext_id": "a4047"
+    }
+  },
+  {
+    "tx_id": "tx_1879",
+    "timestamp": "2024-03-01T12:42:00Z",
+    "user_id": "u253",
+    "status": "completed",
+    "amount": 446.66,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1545",
+    "timestamp": "2024-03-03T00:35:00Z",
+    "user_id": "u285",
+    "status": "completed",
+    "amount": 284.2,
+    "meta": {
+      "ext_id": "a3707"
+    }
+  },
+  {
+    "tx_id": "tx_1881",
+    "timestamp": "2024-03-03T03:28:00Z",
+    "user_id": "u219",
+    "status": "completed",
+    "amount": 405.27,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1401",
+    "timestamp": "2024-03-02T11:11:00Z",
+    "user_id": "u286",
+    "status": "completed",
+    "amount": 622.17,
+    "meta": {
+      "ext_id": "a2654"
+    }
+  },
+  {
+    "tx_id": "tx_1719",
+    "timestamp": "2024-03-03T03:40:00Z",
+    "user_id": "u216",
+    "status": "completed",
+    "amount": 275.22,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1883",
+    "timestamp": "2024-03-02T01:46:00Z",
+    "user_id": "u185",
+    "status": "failed",
+    "amount": 597.22,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1664",
+    "timestamp": "2024-03-02T02:10:00Z",
+    "user_id": "u228",
+    "status": "completed",
+    "amount": 92.03,
+    "meta": {
+      "ext_id": "a4615"
+    }
+  },
+  {
+    "tx_id": "tx_1100",
+    "timestamp": "2024-03-02T23:46:00Z",
+    "user_id": "u201",
+    "status": "completed",
+    "amount": 615.5,
+    "meta": {
+      "ext_id": "a644"
+    }
+  },
+  {
+    "tx_id": "tx_1694",
+    "timestamp": "2024-03-02T18:01:00Z",
+    "user_id": "u241",
+    "status": "completed",
+    "amount": 196.59,
+    "meta": {
+      "ext_id": "a4847"
+    }
+  },
+  {
+    "tx_id": "tx_1154",
+    "timestamp": "2024-03-02T22:33:00Z",
+    "user_id": "u292",
+    "status": "completed",
+    "amount": 496.12,
+    "meta": {
+      "ext_id": "a982"
+    }
+  },
+  {
+    "tx_id": "tx_1776",
+    "timestamp": "2024-03-01T22:01:00Z",
+    "user_id": "u294",
+    "status": "completed",
+    "amount": 73.88,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1372",
+    "timestamp": "2024-03-03T01:59:00Z",
+    "user_id": "u129",
+    "status": "completed",
+    "amount": 582.54,
+    "meta": {
+      "ext_id": "a2438"
+    }
+  },
+  {
+    "tx_id": "tx_1647",
+    "timestamp": "2024-03-02T12:45:00Z",
+    "user_id": "u258",
+    "status": "completed",
+    "amount": 477.33,
+    "meta": {
+      "ext_id": "a4492"
+    }
+  },
+  {
+    "tx_id": "tx_1522",
+    "timestamp": "2024-03-03T08:12:00Z",
+    "user_id": "u148",
+    "status": "completed",
+    "amount": 219.62,
+    "meta": {
+      "ext_id": "a3560"
+    }
+  },
+  {
+    "tx_id": "tx_1543",
+    "timestamp": "2024-03-02T11:32:00Z",
+    "user_id": "u174",
+    "status": "completed",
+    "amount": 129.5,
+    "meta": {
+      "ext_id": "a3690"
+    }
+  },
+  {
+    "tx_id": "tx_1403",
+    "timestamp": "2024-03-02T20:20:00Z",
+    "user_id": "u199",
+    "status": "completed",
+    "amount": 262.93,
+    "meta": {
+      "ext_id": "a2679"
+    }
+  },
+  {
+    "tx_id": "tx_1674",
+    "timestamp": "2024-03-03T00:20:00Z",
+    "user_id": "u147",
+    "status": "completed",
+    "amount": 697.09,
+    "meta": {
+      "ext_id": "a4714"
+    }
+  },
+  {
+    "tx_id": "tx_1351",
+    "timestamp": "2024-03-02T16:54:00Z",
+    "user_id": "u189",
+    "status": "completed",
+    "amount": 673.22,
+    "meta": {
+      "ext_id": "a2310"
+    }
+  },
+  {
+    "tx_id": "tx_1825",
+    "timestamp": "2024-03-03T06:12:00Z",
+    "user_id": "u274",
+    "status": "completed",
+    "amount": 149.26,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1178",
+    "timestamp": "2024-03-01T18:59:00Z",
+    "user_id": "u272",
+    "status": "completed",
+    "amount": 338.19,
+    "meta": {
+      "ext_id": "a1136"
+    }
+  },
+  {
+    "tx_id": "tx_1093",
+    "timestamp": "2024-03-01T22:10:00Z",
+    "user_id": "u147",
+    "status": "completed",
+    "amount": 721.72,
+    "meta": {
+      "ext_id": "a603"
+    }
+  },
+  {
+    "tx_id": "tx_1354",
+    "timestamp": "2024-03-03T00:04:00Z",
+    "user_id": "u166",
+    "status": "completed",
+    "amount": 173.49,
+    "meta": {
+      "ext_id": "a2332"
+    }
+  },
+  {
+    "tx_id": "tx_1470",
+    "timestamp": "2024-03-02T10:15:00Z",
+    "user_id": "u269",
+    "status": "completed",
+    "amount": 380.94,
+    "meta": {
+      "ext_id": "a3183"
+    }
+  },
+  {
+    "tx_id": "tx_1232",
+    "timestamp": "2024-03-03T04:30:00Z",
+    "user_id": "u165",
+    "status": "completed",
+    "amount": 560.55,
+    "meta": {
+      "ext_id": "a1469"
+    }
+  },
+  {
+    "tx_id": "tx_1559",
+    "timestamp": "2024-03-02T19:33:00Z",
+    "user_id": "u193",
+    "status": "completed",
+    "amount": 393.62,
+    "meta": {
+      "ext_id": "a3815"
+    }
+  },
+  {
+    "tx_id": "tx_1171",
+    "timestamp": "2024-03-02T19:25:00Z",
+    "user_id": "u124",
+    "status": "completed",
+    "amount": 342.72,
+    "meta": {
+      "ext_id": "a1092"
+    }
+  },
+  {
+    "tx_id": "tx_1800",
+    "timestamp": "2024-03-03T03:13:00Z",
+    "user_id": "u289",
+    "status": "completed",
+    "amount": 248.98,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1616",
+    "timestamp": "2024-03-02T19:01:00Z",
+    "user_id": "u227",
+    "status": "failed",
+    "amount": 430.89,
+    "meta": {
+      "ext_id": "a4258"
+    }
+  },
+  {
+    "tx_id": "tx_1116",
+    "timestamp": "2024-03-03T07:45:00Z",
+    "user_id": "u230",
+    "status": "completed",
+    "amount": 479.93,
+    "meta": {
+      "ext_id": "a760"
+    }
+  },
+  {
+    "tx_id": "tx_1848",
+    "timestamp": "2024-03-01T10:02:00Z",
+    "user_id": "u109",
+    "status": "completed",
+    "amount": 450.06,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1720",
+    "timestamp": "2024-03-01T10:35:00Z",
+    "user_id": "u115",
+    "status": "completed",
+    "amount": 502.46,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1437",
+    "timestamp": "2024-03-01T10:31:00Z",
+    "user_id": "u259",
+    "status": "completed",
+    "amount": 385.43,
+    "meta": {
+      "ext_id": "a2962"
+    }
+  },
+  {
+    "tx_id": "tx_1686",
+    "timestamp": "2024-03-01T12:08:00Z",
+    "user_id": "u184",
+    "status": "completed",
+    "amount": 694.45,
+    "meta": {
+      "ext_id": "a4797"
+    }
+  },
+  {
+    "tx_id": "tx_1524",
+    "timestamp": "2024-03-01T12:33:00Z",
+    "user_id": "u217",
+    "status": "completed",
+    "amount": 259.25,
+    "meta": {
+      "ext_id": "a3570"
+    }
+  },
+  {
+    "tx_id": "tx_1136",
+    "timestamp": "2024-03-03T07:24:00Z",
+    "user_id": "u268",
+    "status": "completed",
+    "amount": 288.57,
+    "meta": {
+      "ext_id": "a868"
+    }
+  },
+  {
+    "tx_id": "tx_1209",
+    "timestamp": "2024-03-02T11:12:00Z",
+    "user_id": "u205",
+    "status": "completed",
+    "amount": 782.09,
+    "meta": {
+      "ext_id": "a1335"
+    }
+  },
+  {
+    "tx_id": "tx_1303",
+    "timestamp": "2024-03-01T22:51:00Z",
+    "user_id": "u246",
+    "status": "failed",
+    "amount": 777.41,
+    "meta": {
+      "ext_id": "a1994"
+    }
+  },
+  {
+    "tx_id": "tx_1544",
+    "timestamp": "2024-03-02T05:51:00Z",
+    "user_id": "u193",
+    "status": "completed",
+    "amount": 576.7,
+    "meta": {
+      "ext_id": "a3699"
+    }
+  },
+  {
+    "tx_id": "tx_1870",
+    "timestamp": "2024-03-02T20:03:00Z",
+    "user_id": "u227",
+    "status": "completed",
+    "amount": 371.37,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1376",
+    "timestamp": "2024-03-02T21:09:00Z",
+    "user_id": "u231",
+    "status": "completed",
+    "amount": 623.4,
+    "meta": {
+      "ext_id": "a2467"
+    }
+  },
+  {
+    "tx_id": "tx_1164",
+    "timestamp": "2024-03-02T05:29:00Z",
+    "user_id": "u138",
+    "status": "completed",
+    "amount": 611.21,
+    "meta": {
+      "ext_id": "a1056"
+    }
+  },
+  {
+    "tx_id": "tx_1129",
+    "timestamp": "2024-03-02T08:14:00Z",
+    "user_id": "u287",
+    "status": "completed",
+    "amount": 246.71,
+    "meta": {
+      "ext_id": "a839"
+    }
+  },
+  {
+    "tx_id": "tx_1785",
+    "timestamp": "2024-03-01T10:22:00Z",
+    "user_id": "u119",
+    "status": "completed",
+    "amount": 214.11,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1048",
+    "timestamp": "2024-03-02T11:42:00Z",
+    "user_id": "u118",
+    "status": "completed",
+    "amount": 718.79,
+    "meta": {
+      "ext_id": "a292"
+    }
+  },
+  {
+    "tx_id": "tx_1287",
+    "timestamp": "2024-03-02T02:26:00Z",
+    "user_id": "u264",
+    "status": "completed",
+    "amount": 301.5,
+    "meta": {
+      "ext_id": "a1888"
+    }
+  },
+  {
+    "tx_id": "tx_1280",
+    "timestamp": "2024-03-01T20:52:00Z",
+    "user_id": "u252",
+    "status": "completed",
+    "amount": 166.86,
+    "meta": {
+      "ext_id": "a1844"
+    }
+  },
+  {
+    "tx_id": "tx_1156",
+    "timestamp": "2024-03-01T23:56:00Z",
+    "user_id": "u157",
+    "status": "completed",
+    "amount": 128.37,
+    "meta": {
+      "ext_id": "a1001"
+    }
+  },
+  {
+    "tx_id": "tx_1676",
+    "timestamp": "2024-03-01T09:38:00Z",
+    "user_id": "u191",
+    "status": "completed",
+    "amount": 672.7,
+    "meta": {
+      "ext_id": "a4736"
+    }
+  },
+  {
+    "tx_id": "tx_1925",
+    "timestamp": "2024-03-03T07:06:00Z",
+    "user_id": "u261",
+    "status": "completed",
+    "amount": 87.42,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1264",
+    "timestamp": "2024-03-02T17:09:00Z",
+    "user_id": "u195",
+    "status": "completed",
+    "amount": 702.13,
+    "meta": {
+      "ext_id": "a1723"
+    }
+  },
+  {
+    "tx_id": "tx_1924",
+    "timestamp": "2024-03-02T08:37:00Z",
+    "user_id": "u196",
+    "status": "completed",
+    "amount": 284.0,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1514",
+    "timestamp": "2024-03-02T02:46:00Z",
+    "user_id": "u247",
+    "status": "completed",
+    "amount": 436.27,
+    "meta": {
+      "ext_id": "a3512"
+    }
+  },
+  {
+    "tx_id": "tx_1830",
+    "timestamp": "2024-03-01T15:13:00Z",
+    "user_id": "u183",
+    "status": "completed",
+    "amount": 191.92,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1078",
+    "timestamp": "2024-03-02T01:36:00Z",
+    "user_id": "u158",
+    "status": "completed",
+    "amount": 109.82,
+    "meta": {
+      "ext_id": "a486"
+    }
+  },
+  {
+    "tx_id": "tx_1861",
+    "timestamp": "2024-03-01T23:07:00Z",
+    "user_id": "u200",
+    "status": "completed",
+    "amount": 78.51,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1350",
+    "timestamp": "2024-03-01T19:40:00Z",
+    "user_id": "u198",
+    "status": "completed",
+    "amount": 602.21,
+    "meta": {
+      "ext_id": "a2304"
+    }
+  },
+  {
+    "tx_id": "tx_1042",
+    "timestamp": "2024-03-02T19:20:00Z",
+    "user_id": "u112",
+    "status": "completed",
+    "amount": 447.35,
+    "meta": {
+      "ext_id": "a250"
+    }
+  },
+  {
+    "tx_id": "tx_1629",
+    "timestamp": "2024-03-03T00:29:00Z",
+    "user_id": "u135",
+    "status": "completed",
+    "amount": 785.56,
+    "meta": {
+      "ext_id": "a4364"
+    }
+  },
+  {
+    "tx_id": "tx_1854",
+    "timestamp": "2024-03-01T16:23:00Z",
+    "user_id": "u132",
+    "status": "completed",
+    "amount": 34.11,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1812",
+    "timestamp": "2024-03-02T07:48:00Z",
+    "user_id": "u273",
+    "status": "completed",
+    "amount": 366.27,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1682",
+    "timestamp": "2024-03-03T06:36:00Z",
+    "user_id": "u238",
+    "status": "failed",
+    "amount": 463.67,
+    "meta": {
+      "ext_id": "a4774"
+    }
+  },
+  {
+    "tx_id": "tx_1789",
+    "timestamp": "2024-03-01T08:14:00Z",
+    "user_id": "u107",
+    "status": "completed",
+    "amount": 227.58,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1060",
+    "timestamp": "2024-03-02T06:47:00Z",
+    "user_id": "u280",
+    "status": "completed",
+    "amount": 529.21,
+    "meta": {
+      "ext_id": "a371"
+    }
+  },
+  {
+    "tx_id": "tx_1008",
+    "timestamp": "2024-03-01T21:13:00Z",
+    "user_id": "u159",
+    "status": "completed",
+    "amount": 166.61,
+    "meta": {
+      "ext_id": "a55"
+    }
+  },
+  {
+    "tx_id": "tx_1024",
+    "timestamp": "2024-03-02T05:23:00Z",
+    "user_id": "u282",
+    "status": "completed",
+    "amount": 772.91,
+    "meta": {
+      "ext_id": "a138"
+    }
+  },
+  {
+    "tx_id": "tx_1693",
+    "timestamp": "2024-03-02T20:07:00Z",
+    "user_id": "u104",
+    "status": "completed",
+    "amount": 254.83,
+    "meta": {
+      "ext_id": "a4843"
+    }
+  },
+  {
+    "tx_id": "tx_1262",
+    "timestamp": "2024-03-03T01:20:00Z",
+    "user_id": "u202",
+    "status": "completed",
+    "amount": 267.74,
+    "meta": {
+      "ext_id": "a1715"
+    }
+  },
+  {
+    "tx_id": "tx_1732",
+    "timestamp": "2024-03-02T17:48:00Z",
+    "user_id": "u153",
+    "status": "completed",
+    "amount": 200.53,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1856",
+    "timestamp": "2024-03-03T06:59:00Z",
+    "user_id": "u157",
+    "status": "completed",
+    "amount": 308.74,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1491",
+    "timestamp": "2024-03-02T16:09:00Z",
+    "user_id": "u106",
+    "status": "failed",
+    "amount": 555.51,
+    "meta": {
+      "ext_id": "a3363"
+    }
+  },
+  {
+    "tx_id": "tx_1263",
+    "timestamp": "2024-03-02T10:47:00Z",
+    "user_id": "u201",
+    "status": "completed",
+    "amount": 474.41,
+    "meta": {
+      "ext_id": "a1719"
+    }
+  },
+  {
+    "tx_id": "tx_1088",
+    "timestamp": "2024-03-02T20:31:00Z",
+    "user_id": "u280",
+    "status": "completed",
+    "amount": 761.84,
+    "meta": {
+      "ext_id": "a551"
+    }
+  },
+  {
+    "tx_id": "tx_1622",
+    "timestamp": "2024-03-02T10:08:00Z",
+    "user_id": "u101",
+    "status": "completed",
+    "amount": 320.3,
+    "meta": {
+      "ext_id": "a4307"
+    }
+  },
+  {
+    "tx_id": "tx_1419",
+    "timestamp": "2024-03-02T23:25:00Z",
+    "user_id": "u210",
+    "status": "completed",
+    "amount": 162.4,
+    "meta": {
+      "ext_id": "a2817"
+    }
+  },
+  {
+    "tx_id": "tx_1811",
+    "timestamp": "2024-03-01T10:24:00Z",
+    "user_id": "u169",
+    "status": "failed",
+    "amount": 204.8,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1285",
+    "timestamp": "2024-03-02T21:15:00Z",
+    "user_id": "u139",
+    "status": "completed",
+    "amount": 586.72,
+    "meta": {
+      "ext_id": "a1881"
+    }
+  },
+  {
+    "tx_id": "tx_1445",
+    "timestamp": "2024-03-02T21:26:00Z",
+    "user_id": "u262",
+    "status": "completed",
+    "amount": 169.0,
+    "meta": {
+      "ext_id": "a3022"
+    }
+  },
+  {
+    "tx_id": "tx_1901",
+    "timestamp": "2024-03-02T13:54:00Z",
+    "user_id": "u177",
+    "status": "failed",
+    "amount": 42.56,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1849",
+    "timestamp": "2024-03-01T15:09:00Z",
+    "user_id": "u109",
+    "status": "completed",
+    "amount": 80.81,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1635",
+    "timestamp": "2024-03-02T15:19:00Z",
+    "user_id": "u270",
+    "status": "completed",
+    "amount": 437.19,
+    "meta": {
+      "ext_id": "a4407"
+    }
+  },
+  {
+    "tx_id": "tx_1908",
+    "timestamp": "2024-03-03T01:00:00Z",
+    "user_id": "u184",
+    "status": "completed",
+    "amount": 125.46,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1084",
+    "timestamp": "2024-03-03T06:12:00Z",
+    "user_id": "u261",
+    "status": "completed",
+    "amount": 698.06,
+    "meta": {
+      "ext_id": "a518"
+    }
+  },
+  {
+    "tx_id": "tx_1625",
+    "timestamp": "2024-03-01T18:35:00Z",
+    "user_id": "u228",
+    "status": "completed",
+    "amount": 40.12,
+    "meta": {
+      "ext_id": "a4321"
+    }
+  },
+  {
+    "tx_id": "tx_1462",
+    "timestamp": "2024-03-02T11:55:00Z",
+    "user_id": "u250",
+    "status": "completed",
+    "amount": 125.95,
+    "meta": {
+      "ext_id": "a3142"
+    }
+  },
+  {
+    "tx_id": "tx_1439",
+    "timestamp": "2024-03-02T10:47:00Z",
+    "user_id": "u290",
+    "status": "completed",
+    "amount": 353.1,
+    "meta": {
+      "ext_id": "a2985"
+    }
+  },
+  {
+    "tx_id": "tx_1314",
+    "timestamp": "2024-03-01T23:08:00Z",
+    "user_id": "u104",
+    "status": "completed",
+    "amount": 53.4,
+    "meta": {
+      "ext_id": "a2084"
+    }
+  },
+  {
+    "tx_id": "tx_1839",
+    "timestamp": "2024-03-02T09:34:00Z",
+    "user_id": "u107",
+    "status": "completed",
+    "amount": 396.71,
+    "meta": {
+      "ext_id": null
+    }
+  },
+  {
+    "tx_id": "tx_1869",
+    "timestamp": "2024-03-02T12:10:00Z",
+    "user_id": "u273",
+    "status": "completed",
+    "amount": 366.51,
+    "meta": {
+      "ext_id": null
+    }
+  }
+]

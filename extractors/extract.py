@@ -4,6 +4,7 @@ Simulates paginated API ingestion from two sources, deduplicates records,
 validates schemas, and writes clean output to /data/extracted/.
 """
 
+import argparse
 import json
 import logging
 import os
@@ -94,12 +95,22 @@ SERVER_SCHEMA: dict[str, Any] = {
 # Pagination simulator
 # Reads a JSON array from disk and yields pages of `page_size` records,
 # mirroring how a cursor-based API would return batches.
+# Page size resolves in this order: CLI arg > PAGE_SIZE env var > default (5).
 # ---------------------------------------------------------------------------
 
-PAGE_SIZE = 5
+DEFAULT_PAGE_SIZE = 5
 
 
-def paginated_source(path: Path, page_size: int = PAGE_SIZE) -> Generator[list[dict], None, None]:
+def resolve_page_size(cli_value: int | None) -> int:
+    if cli_value is not None:
+        return max(1, cli_value)
+    env_value = os.environ.get("PAGE_SIZE", "").strip()
+    if env_value.isdigit() and int(env_value) > 0:
+        return int(env_value)
+    return DEFAULT_PAGE_SIZE
+
+
+def paginated_source(path: Path, page_size: int) -> Generator[list[dict], None, None]:
     with open(path, encoding="utf-8") as fh:
         records: list[dict] = json.load(fh)
 
@@ -219,6 +230,7 @@ def extract(
     key_fn,
     normalize_fn,
     source_label: str,
+    page_size: int = DEFAULT_PAGE_SIZE,
 ) -> dict:
     seen_keys: set[str] = set()
     clean_records: list[dict] = []
@@ -227,7 +239,7 @@ def extract(
     total_duplicates = 0
     total_violations = 0
 
-    for page in paginated_source(source_path):
+    for page in paginated_source(source_path, page_size=page_size):
         for record in page:
             total_ingested += 1
 
@@ -265,7 +277,18 @@ def extract(
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    logger.info("Starting extraction run")
+    parser = argparse.ArgumentParser(description="Extract and clean source data files.")
+    parser.add_argument(
+        "--page-size",
+        type=int,
+        default=None,
+        metavar="N",
+        help="Records per page (overrides PAGE_SIZE env var, default 5).",
+    )
+    args = parser.parse_args()
+    page_size = resolve_page_size(args.page_size)
+
+    logger.info("Starting extraction run (page_size=%d)", page_size)
 
     client_stats = extract(
         source_path=CLIENT_SRC,
@@ -274,6 +297,7 @@ def main() -> None:
         key_fn=client_key,
         normalize_fn=normalize_client,
         source_label="client_events",
+        page_size=page_size,
     )
 
     server_stats = extract(
@@ -283,11 +307,13 @@ def main() -> None:
         key_fn=server_key,
         normalize_fn=normalize_server,
         source_label="server_logs",
+        page_size=page_size,
     )
 
     print()
     print("=" * 60)
     print("EXTRACTION SUMMARY")
+    print(f"Page size: {page_size}")
     print("=" * 60)
     for stats in [client_stats, server_stats]:
         print(f"\nSource: {stats['source']}")

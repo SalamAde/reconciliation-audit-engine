@@ -115,9 +115,30 @@ def paginated_source(path: Path, page_size: int) -> Generator[list[dict], None, 
         records: list[dict] = json.load(fh)
 
     total = len(records)
+
+    if total == 0:
+        logger.warning("Source file %s is empty -- no records to extract.", path.name)
+        return
+
+    if total < page_size:
+        logger.info(
+            "%s has %d record(s), fewer than page_size=%d -- will yield as a single partial page.",
+            path.name, total, page_size,
+        )
+
     for offset in range(0, total, page_size):
         page = records[offset : offset + page_size]
-        logger.debug("Page %d-%d / %d from %s", offset, offset + len(page), total, path.name)
+        is_last = (offset + page_size) >= total
+        if is_last and len(page) < page_size:
+            logger.debug(
+                "Partial page: records %d-%d of %d from %s (%d record(s)).",
+                offset + 1, offset + len(page), total, path.name, len(page),
+            )
+        else:
+            logger.debug(
+                "Page: records %d-%d of %d from %s.",
+                offset + 1, offset + len(page), total, path.name,
+            )
         yield page
 
 

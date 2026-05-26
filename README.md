@@ -3,11 +3,11 @@
 ## Section 1: Stakeholder Briefing Memo
 
 **To:** CEO
-**From:** Salam Adedokun (Principal Analytics Engineering)
+**From:** Principal Analytics Engineering
 **Re:** The $200 Revenue inconsistency
 **Date:** 2026-05-14
 
-Hi Branden,
+Hi ,
 
 The revenue gap in the Appendix comes from the fact that our two systems are counting sales at different points in the customer journey.
 
